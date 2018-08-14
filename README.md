@@ -1,2 +1,2 @@
 # derge-tengyur
-Derge Tengyur prepared by Esukhia for Barom Theksum Choling
+Working repository for the digital Derge Tengyur prepared by Esukhia and Barom Theksum Choling.

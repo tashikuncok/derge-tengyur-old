@@ -45,6 +45,7 @@ error_regexps = [
         {"reg": re.compile(r"([ྱུྲཿཾ྄ིྃ])\1"), "msg": "invalid double diactitic sign (shabkyu, gigu, etc.)", "type": "invalid"},
         {"reg": re.compile(r"([ཀགཤ།] །|[^ ཀགཤ།]། |[ཀགཤ།][། ]|[༽ཿ་\]nl])$"), "msg": "invalid end of line", "type": "punctuation", "neg": True},
     ]
+    # opposite of last regexp could be ([ཀགཤ།]། |[^ ཀགཤ།]།|[༽ཿ་\]nl] )\n
 
 def check_simple_regexp(line, pagelinenum, filelinenum, volnum, options, shortfilename):
     for regex_info in error_regexps:

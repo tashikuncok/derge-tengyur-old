@@ -43,10 +43,15 @@ error_regexps = [
         {"reg": re.compile(r"[^ཀ-ྼ][ཱ-྄྆྇ྍ-ྼ]"), "msg": "invalid unicode combination sequence", "type": "invalid"},
         {"reg": re.compile(r"[^ༀ-࿚#-~ \[\]\{\}\.]"), "msg": "invalid unicode characters (non-tibetan, non-ascii)", "type": "invalid"},
         {"reg": re.compile(r"([ྱུྲཿཾ྄ིྃ])\1"), "msg": "invalid double diactitic sign (shabkyu, gigu, etc.)", "type": "invalid"},
+        {"reg": re.compile(r"([ཀགཤ།] །|[^ ཀགཤ།]། |[ཀགཤ།][། ]|[༽ཿ་\]nl])$"), "msg": "invalid end of line", "type": "punctuation", "neg": True},
     ]
 
 def check_simple_regexp(line, pagelinenum, filelinenum, volnum, options, shortfilename):
     for regex_info in error_regexps:
+        if "neg" in regex_info and regex_info["reg"]:
+            if not regex_info["reg"].search(line):
+                report_error(pagelinenum, filelinenum, volnum, shortfilename, regex_info["type"], regex_info["msg"], line)
+            continue
         for match in regex_info["reg"].finditer(line):
             s = match.start()
             e = match.end()

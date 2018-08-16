@@ -41,16 +41,17 @@ def parrepl(match, mode, filelinenum):
 error_regexps = [
         {"reg": re.compile(r"[^ །\(\[,nl]།[^ །\]\)༽,nl]"), "msg": "invalid shad sequence", "type": "punctuation"},
         {"reg": re.compile(r"[^ཀ-ྼ][ཱ-྄྆྇ྍ-ྼ]"), "msg": "invalid unicode combination sequence", "type": "invalid"},
-        {"reg": re.compile(r"[^ༀ-࿚#-~ \[\]\{\}\.]"), "msg": "invalid unicode characters (non-tibetan, non-ascii)", "type": "invalid"},
-        {"reg": re.compile(r"([ྱུྲཿཾ྄ིྃ])\1"), "msg": "invalid double diactitic sign (shabkyu, gigu, etc.)", "type": "invalid"},
-        {"reg": re.compile(r"([ཀགཤ།] །|[^ ཀགཤ།]། |[ཀགཤ།][། ]|[༽ཿ་\]nl])$"), "msg": "invalid end of line", "type": "punctuation", "neg": True},
+        {"reg": re.compile(r"[^ༀ-࿚#-~ \[\]\{\}\.]"), "msg": "invalid unicode characters (non-Tibetan, non-ascii)", "type": "invalid"},
+        {"reg": re.compile(r"([ྱུྲཿཾ྄ིྃ་ ])\1"), "msg": "invalid double diactitic sign (shabkyu, gigu, etc.)", "type": "invalid"},
+        {"reg": re.compile(r"[ༀ-༃༆-༊༎-༟]"), "msg": "suspicious Tibetan character", "type": "invalid"},
+        {"reg": re.compile(r"([ཀགཤ།] །|[^ ཀགཤ།]། |[ཀགཤ།][། ]|[༽ཿ་\]\)nl])$"), "msg": "invalid end of line", "type": "punctuation", "neg": True},
     ]
 
 def check_simple_regexp(line, pagelinenum, filelinenum, volnum, options, shortfilename):
     for regex_info in error_regexps:
         if "neg" in regex_info and regex_info["reg"]:
             if not regex_info["reg"].search(line):
-                print("error on vol "+str(volnum)+" line "+str(filelinenum)+" "+regex_info["msg"])
+                report_error(pagelinenum, filelinenum, volnum, shortfilename, regex_info["type"], regex_info["msg"], "")
             continue
         for match in regex_info["reg"].finditer(line):
             s = match.start()

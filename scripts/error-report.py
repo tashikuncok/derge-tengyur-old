@@ -44,6 +44,7 @@ error_regexps = [
         {"reg": re.compile(r"[^ༀ-࿚#-~ \[\]\{\}\.]"), "msg": "invalid unicode characters (non-Tibetan, non-ascii)", "type": "invalid"},
         {"reg": re.compile(r"([ྱུྲཿཾ྄ིྃ་ ])\1"), "msg": "invalid double diactitic sign (shabkyu, gigu, etc.)", "type": "invalid"},
         {"reg": re.compile(r"[ༀ-༃༆-༊༎-༟]"), "msg": "suspicious Tibetan character", "type": "invalid"},
+        {"reg": re.compile(r"([ཱ྇][ྍ-ྼ])"), "msg": "invalid character order (vowel before subscript)", "type": "invalid"},
         {"reg": re.compile(r"([ཀགཤ།] །|[^ ཀགཤ།]། |[ཀགཤ།][། ]|[༽ཿ་\]\)nl])$"), "msg": "invalid end of line", "type": "punctuation", "neg": True},
     ]
 

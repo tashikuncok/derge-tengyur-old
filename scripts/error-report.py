@@ -39,7 +39,7 @@ def parrepl(match, mode, filelinenum):
     return mode == 'first' and first or sec
 
 error_regexps = [
-        {"reg": re.compile(r"([^ །\(\[,]།[^ །\]\)༽,]|(?:[^ངོེིུ]|ང[^ངོེིུ])་།)"), "msg": "invalid shad sequence", "type": "punctuation"},
+        {"reg": re.compile(r"([^ །\(\[,]།[^ །\]\)༽,]|(?:[^ངོེིུ]|ང[^ངོེིུ]|[^ང][ོེིུ])་།|(?:[^ཀགཤ།ོེིུ]|[ཀགཤ][^ཀགཤོེིུ]|[^ཀགཤ][ོེིུ]|[ཀགཤ][ོེིུ]།+)། །།|།།།)"), "msg": "invalid shad sequence", "type": "punctuation"},
         {"reg": re.compile(r"[^ཀ-ྼ][ཱ-྄྆྇ྍ-ྼ]"), "msg": "invalid unicode combination sequence", "type": "invalid"},
         {"reg": re.compile(r"[^ༀ-࿚#-~ \[\]\{\}\.]"), "msg": "invalid unicode characters (non-Tibetan, non-ascii)", "type": "invalid"},
         {"reg": re.compile(r"([ྱུྲཿཾ྄ྃྭིྀ་ ])\1"), "msg": "invalid double diactitic sign (shabkyu, gigu, etc.)", "type": "invalid"},

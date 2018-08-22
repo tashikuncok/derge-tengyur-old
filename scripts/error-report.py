@@ -35,17 +35,19 @@ def parrepl(match, mode, filelinenum):
             (sec[0]== '་' and first[0]!= '་') or
             (first[-1]== '་' and sec[-1]!= '་') or
             (sec[-1]== '་' and first[-1]!= '་'))):
-        print("error on line "+str(filelinenum)+" tsheg not matching in parenthesis")
+        printerror("error on line "+str(filelinenum)+" tsheg not matching in parenthesis")
     return mode == 'first' and first or sec
 
 error_regexps = [
-        {"reg": re.compile(r"[^ །\(\[,nl]།[^ །\]\)༽,nl]"), "msg": "invalid shad sequence", "type": "punctuation"},
+        {"reg": re.compile(r"([^ །\(\[,]།[^ །\]\)༽,]|(?:[^ངོེིུ]|ང[^ངོེིུ]|[^ང][ོེིུ])་།|(?:[^ཀགཤ།ོེིུ]|[ཀགཤ][^ཀགཤོེིུ]|[^ཀགཤ][ོེིུ]|[ཀགཤ][ོེིུ]།+)། །།|།།།)"), "msg": "invalid shad sequence", "type": "punctuation"},
         {"reg": re.compile(r"[^ཀ-ྼ][ཱ-྄྆྇ྍ-ྼ]"), "msg": "invalid unicode combination sequence", "type": "invalid"},
         {"reg": re.compile(r"[^ༀ-࿚#-~ \[\]\{\}\.]"), "msg": "invalid unicode characters (non-Tibetan, non-ascii)", "type": "invalid"},
-        {"reg": re.compile(r"([ྱུྲཿཾ྄ིྃ་ ])\1"), "msg": "invalid double diactitic sign (shabkyu, gigu, etc.)", "type": "invalid"},
+        {"reg": re.compile(r"([ྱུྲཿཾ྄ྃྭིྀ་ ])\1"), "msg": "invalid double diactitic sign (shabkyu, gigu, etc.)", "type": "invalid"},
         {"reg": re.compile(r"[ༀ-༃༆-༊༎-༟]"), "msg": "suspicious Tibetan character", "type": "invalid"},
-        {"reg": re.compile(r"([ཱ྇][ྍ-ྼ])"), "msg": "invalid character order (vowel before subscript)", "type": "invalid"},
-        {"reg": re.compile(r"([ཀགཤ།] །|[^ ཀགཤ།]། |[ཀགཤ།][། ]|[༽ཿ་\]\)nl])$"), "msg": "invalid end of line", "type": "punctuation", "neg": True},
+        {"reg": re.compile(r"([ཱ-྇][ྍ-ྼ]|[ི-྄]ཱ|[ྃཾཿ][ཱ-ཽྀ])"), "msg": "invalid character order (vowel before subscript)", "type": "invalid"},
+        {"reg": re.compile(r"(ཪ[ླྙྲྱཱ-྇ །་])"), "msg": "wrong form of rago used (0F62 vs. 0F65)", "type": "invalid"},
+        {"reg": re.compile(r"([ཀགཤ།] །|[^ ཀགཤ།]། |[ཀགཤ།]། |[ཀགཤ།][། ]|[༽ཿ་ \]nl])$"), "msg": "invalid end of line", "type": "punctuation", "neg": True},
+        {"reg": re.compile(r"([ཱེཻོཽ])\1"), "msg": "invalid vowel duplication (use 0F7D and 0F7B when relevant)", "type": "invalid"},
     ]
 
 def check_simple_regexp(line, pagelinenum, filelinenum, volnum, options, shortfilename):
@@ -61,9 +63,9 @@ def check_simple_regexp(line, pagelinenum, filelinenum, volnum, options, shortfi
             report_error(pagelinenum, filelinenum, volnum, shortfilename, regex_info["type"], regex_info["msg"], linewithhighlight)
 
 def report_error(linestr, filelinenum, volnum, shortfilename, errortype, errorstr, linewithhighlight):
-    print(shortfilename+", l. "+str(filelinenum)+" ("+linestr+"): "+errortype+": "+errorstr)
+    printerror(shortfilename+", l. "+str(filelinenum)+" ("+linestr+"): "+errortype+": "+errorstr)
     if len(linewithhighlight) > 1:
-        print("  -> "+linewithhighlight)
+        printerror("  -> "+linewithhighlight)
 
 def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
     if filelinenum == 1:
@@ -168,6 +170,11 @@ def parse_one_file(infilename, volnum, options, shortfilename):
             parse_one_line(line[:-1], linenum, state, volnum, options, shortfilename)
             linenum += 1
 
+errfile = open("errors.txt","w")
+
+def printerror(err):
+    errfile.write(err+"\n")
+
 if __name__ == '__main__':
     """ Example use """
     options = {
@@ -179,4 +186,5 @@ if __name__ == '__main__':
         volnum = int(infilename[22:25])
         shortfilename = infilename[22:-4]
         parse_one_file(infilename, volnum, options, shortfilename)
-        
+
+errfile.close()

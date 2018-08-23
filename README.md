@@ -37,9 +37,11 @@ The files are UTF8 with no BOM, using LF end of lines, in [NFD](http://unicode.o
 Some characters in volume 197 (starting p. 361a) denote the long / short syllables, example:
 
 ![Syllable length markers](ssktlenmarkers.png?raw=true "Syllable length markers")
+![Syllable length markers 2](ssktlenmarkers2.png?raw=true "Syllable length markers 2")
 
 These characters have no Tibetan version in Unicode, so we use the following characters which we believe are the Sanskrit equivalents:
  - `ऽ` for heavy
+ - `ऽं` for heavy with the mark resembling an anusvara
  - `।` for light
 
 ### Punctuation

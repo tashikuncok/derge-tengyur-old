@@ -34,11 +34,11 @@ The files are UTF8 with no BOM, using LF end of lines, in [NFD](http://unicode.o
  - `\u0F62\u0FB3` (`རླ`) is used instead of `\u0F6A\u0FB3` (`ཪླ`)
  - `\u0F6A\u0FBB` (`ཪྻ`) is used for the most common form instead of `\u0F62\u0FBB` (`རྻ`)
 
-Some characters in volume 197 denot the long / short syllables, example:
+Some characters in volume 197 (starting p. 361a) denote the long / short syllables, example:
 
+![Syllable length markers](ssktlenmarkers.png?raw=true "Syllable length markers")
 
-
-These characters have to Tibetan version in Unicode, so we use the following characters which we believe are the Sanskrit equivalents:
+These characters have no Tibetan version in Unicode, so we use the following characters which we believe are the Sanskrit equivalents:
  - `ऽ` for heavy
  - `।` for light
 

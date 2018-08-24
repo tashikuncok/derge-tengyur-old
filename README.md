@@ -20,11 +20,41 @@ They also contain a few error suggestions noted as example. It is far from an ex
 * **{TX}** signals the beginning of the text with Tohoku catalog number **X**. We use the following conventions:
   * when a text is missing from the Tohoku catalog, we indicate it with the preceding number followed by **a**, ex: **T7**, **T7a**, **T8**, following the [rKTs](https://www.istb.univie.ac.at/kanjur/rktsneu/sub/index.php) convention.
 
-The files are UTF8 with no BOM, using LF end of lines. The Unicode is in [NFD](http://unicode.org/reports/tr15/), and oM is rendered as `\u0F68\u0F7C\u0F7E` (`ཨོཾ`) and not `\u0F00` (`ༀ`).
-
-The end of lines sometimes are preceded by a space character (when they end with a shad) so that the result of appending all the lines content is useabletext is correct.
-
 TODO: format of notes insertion.
+
+## Encoding
+
+### Unicode
+
+The files are UTF8 with no BOM, using LF end of lines, in [NFD](http://unicode.org/reports/tr15/). The following representations are used:
+
+ - `\u0F68\u0F7C\u0F7E` (`ཨོཾ`) is used instead of `\u0F00` (`ༀ`)
+ - `\u0F62\u0FB1` (`རྱ`) is used instead of `\u0F6A\u0FB1` (`ཪྱ`)
+ - `\u0F62\u0F99` (`རྙ`) is used instead of `\u0F6A\u0F99` (`ཪྙ`)
+ - `\u0F62\u0FB3` (`རླ`) is used instead of `\u0F6A\u0FB3` (`ཪླ`)
+ - `\u0F6A\u0FBB` (`ཪྻ`) is used for the most common form instead of `\u0F62\u0FBB` (`རྻ`)
+
+Some characters in volume 197 (starting p. 361a) denote the long / short syllables, example:
+
+![Syllable length markers](ssktlenmarkers.png?raw=true "Syllable length markers")
+![Syllable length markers 2](ssktlenmarkers2.png?raw=true "Syllable length markers 2")
+
+These characters have no Tibetan version in Unicode, so we use the following characters which we believe are the Sanskrit equivalents:
+ - `ऽ` for heavy (`ऽं` when with anusvara)
+ - `।` for light (`।ं` when with anusvara)
+
+### Punctuation
+
+The end of lines sometimes are preceded by a space character (when they end with a shad) so that the result of appending all the lines content is correct.
+
+We apply the following normalization without keeping the original in parenthesis:
+ - `༄༅། །` at beginning of pages are removed, unless they also denote the beginning of a text (this also applies to the first pages of volumes)
+ - `༑` are replaced by `།`
+
+We keep the original punctuation in parenthesis (see above) but normalize the following:
+ - `༄༅། །` are added at beginning of texts when they're missing
+ - `ག། །།` instead of `ག།། །།`, or with any character conforming `[གཀཤ][ོེིུ]?` instead of ག
+ - a tshek is inserted between characters conforming `ང[ོེིུ]?` and `།`
 
 # Feedback
 

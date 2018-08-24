@@ -40,9 +40,8 @@ Some characters in volume 197 (starting p. 361a) denote the long / short syllabl
 ![Syllable length markers 2](ssktlenmarkers2.png?raw=true "Syllable length markers 2")
 
 These characters have no Tibetan version in Unicode, so we use the following characters which we believe are the Sanskrit equivalents:
- - `ऽ` for heavy
- - `ऽं` for heavy with the mark resembling an anusvara
- - `।` for light
+ - `ऽ` for heavy (`ऽं` when with anusvara)
+ - `।` for light (`।ं` when with anusvara)
 
 ### Punctuation
 

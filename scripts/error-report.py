@@ -48,6 +48,7 @@ error_regexps = [
         {"reg": re.compile(r"(ཪ[ླྙྲྱཱ-྇ །་])"), "msg": "wrong form of rago used (0F62 vs. 0F65)", "type": "invalid"},
         {"reg": re.compile(r"([ཀགཤ།] །|[^ ཀགཤ།]། |[ཀགཤ།]། |[ཀགཤ།][། ]|[༽ཿ་ \]nl])$"), "msg": "invalid end of line", "type": "punctuation", "neg": True},
         {"reg": re.compile(r"([ཱེཻོཽ])\1"), "msg": "invalid vowel duplication (use 0F7D and 0F7B when relevant)", "type": "invalid"},
+        {"reg": re.compile(r"ཿ་"), "msg": "invalid visarga + tshek", "type": "punctuation"},
     ]
 
 def check_simple_regexp(line, pagelinenum, filelinenum, volnum, options, shortfilename):

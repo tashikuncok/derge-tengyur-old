@@ -184,9 +184,14 @@ if __name__ == '__main__':
         "keep_errors_indications": False
     }
     for infilename in sorted(glob.glob("../derge-tengyur-tags/*.txt")):
-        print(infilename)
-        volnum = int(infilename[22:25])
+        #print(infilename)
+        volnum = infilename[22:25]
         shortfilename = infilename[22:-4]
+        try:
+            volnum = int(volnum)
+        except ValueError:
+            print('wrong file format: '+shortfilename+'.txt')
+            continue
         parse_one_file(infilename, volnum, options, shortfilename)
 
 errfile.close()

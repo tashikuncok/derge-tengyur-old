@@ -27,7 +27,7 @@ import glob
 
 PAREN_RE = re.compile(r"\(([^\),]*),([^\),]*)\)")
 
-def parrepl(match, mode, filelinenum):
+def parrepl(match, mode, pagelinenum, filelinenum, volnum, shortfilename):
     first = match.group(1)
     sec = match.group(2)
     if (len(first) > 0 and len(sec) > 0 and (
@@ -35,11 +35,11 @@ def parrepl(match, mode, filelinenum):
             (sec[0]== '་' and first[0]!= '་') or
             (first[-1]== '་' and sec[-1]!= '་') or
             (sec[-1]== '་' and first[-1]!= '་'))):
-        printerror("error on line "+str(filelinenum)+" tsheg not matching in parenthesis")
+        report_error(pagelinenum, filelinenum, volnum, shortfilename, "format", "tsheg not matching in parenthesis", "")
     return mode == 'first' and first or sec
 
 error_regexps = [
-        {"reg": re.compile(r"([^ །\(\[,]།[^ །\]\)༽,]|(?:[^ངོེིུ]|ང[^ངོེིུ]|[^ང][ོེིུ])་།|(?:[^ཀགཤ།ོེིུ]|[ཀགཤ][^ཀགཤོེིུ]|[^ཀགཤ][ོེིུ]|[ཀགཤ][ོེིུ]།+)། །།|།།།)"), "msg": "invalid shad sequence", "type": "punctuation"},
+        {"reg": re.compile(r"([^ །\(\)\[,]།[^ །\(\]\)༽,n]|(?:[^ངོེིུྃཾ]|ང[^ངོེིུྃཾ]|[^ང][ོེིུྃཾ])་།|(?:[^ཀགཤ།ོེིུྃཾ]|[ཀགཤ][^ཀགཤོེིུྃཾ]|[^ཀགཤ][ོེིུྃཾ]|[ཀགཤ][ོེིུྃཾ]།+)། །།|།།།)"), "msg": "invalid shad sequence", "type": "punctuation"},
         {"reg": re.compile(r"[^ཀ-ྼ][ཱ-྄྆྇ྍ-ྼ]"), "msg": "invalid unicode combination sequence", "type": "invalid"},
         {"reg": re.compile(r"([^༄༅]༅|[^࿓࿔]࿔|[࿔༅][^།༅࿔])"), "msg": "invalid yigo", "type": "punctuation"},
         {"reg": re.compile(r"[^ༀ-࿚#-~ \[\]\{\}\.ऽ।ं]"), "msg": "invalid unicode characters (non-Tibetan, non-ascii)", "type": "invalid"},
@@ -155,9 +155,9 @@ def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
         if 'keep_errors_indications' not in options or not options['keep_errors_indications']:
             text = text.replace('[', '').replace(']', '')
         if 'fix_errors' not in options or not options['fix_errors']:
-            text = re.sub(r"\(([^\),]*),([^\),]*)\)", lambda m: parrepl(m, 'first', filelinenum), text)
+            text = re.sub(r"\(([^\),]*),([^\),]*)\)", lambda m: parrepl(m, 'first', pagelinenum, filelinenum, volnum, shortfilename), text)
         else:
-            text = re.sub(r"\(([^\),]*),([^\),]*)\)", lambda m: parrepl(m, 'second', filelinenum), text)
+            text = re.sub(r"\(([^\),]*),([^\),]*)\)", lambda m: parrepl(m, 'second', pagelinenum, filelinenum, volnum, shortfilename), text)
         if text.find('(') != -1 or text.find(')') != -1:
             report_error(pagelinenum, filelinenum, volnum, shortfilename, "format", "spurious parenthesis", "")
 
@@ -185,8 +185,13 @@ if __name__ == '__main__':
     }
     for infilename in sorted(glob.glob("../derge-tengyur-tags/*.txt")):
         #print(infilename)
-        volnum = int(infilename[22:25])
+        volnum = infilename[22:25]
         shortfilename = infilename[22:-4]
+        try:
+            volnum = int(volnum)
+        except ValueError:
+            print('wrong file format: '+shortfilename+'.txt')
+            continue
         parse_one_file(infilename, volnum, options, shortfilename)
 
 errfile.close()

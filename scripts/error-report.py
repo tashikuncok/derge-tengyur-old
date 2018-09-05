@@ -148,9 +148,9 @@ def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
             if not '}' in text:
                 report_error(pagelinenum, filelinenum, volnum, shortfilename, "format", "missing closing \"}\"", "")
             closeidx = text.find('}')
-            if not text.startswith('༄༅༅། །', closeidx+1):
+            if not text.startswith('༄༅༅། །', closeidx+1) and not text.startswith('༄༅། །', closeidx+1) and not text.startswith('༄། །', closeidx+1):
                 rightcontext = text[closeidx+1:closeidx+5]
-                report_error(pagelinenum, filelinenum, volnum, shortfilename, "punctuation", "possible wrong beginning of text: \""+rightcontext+"\" should be \"༄༅༅། །\"", "")
+                report_error(pagelinenum, filelinenum, volnum, shortfilename, "punctuation", "possible wrong beginning of text: \""+rightcontext+"\" should be \"༄༅༅། །\", \"༄༅། །\" or \"༄། །\"", "")
             locstr = str(pagenum)+pageside+str(linenum)+" ("+str(volnum)+")"
         if 'keep_errors_indications' not in options or not options['keep_errors_indications']:
             text = text.replace('[', '').replace(']', '')

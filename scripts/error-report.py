@@ -35,21 +35,21 @@ def parrepl(match, mode, pagelinenum, filelinenum, volnum, shortfilename):
             (sec[0]== '་' and first[0]!= '་') or
             (first[-1]== '་' and sec[-1]!= '་') or
             (sec[-1]== '་' and first[-1]!= '་'))):
-        report_error(pagelinenum, filelinenum, volnum, shortfilename, "format", "tsheg not matching in parenthesis", "")
+        report_error(pagelinenum, filelinenum, volnum, shortfilename, "format", "༺ཚེག་དང་གུག་རྟགས་མི་འགྲིག་པ།༻ tsheg not matching in parenthesis", "")
     return mode == 'first' and first or sec
 
 error_regexps = [
-        {"reg": re.compile(r"([^ །\(\)\[,]།[^ །\(\]\)༽,n]|(?:[^ངོེིུྃཾ]|ང[^ངོེིུྃཾ]|[^ང][ོེིུྃཾ])་།|(?:[^ཀགཤ།ོེིུྃཾ]|[ཀགཤ][^ཀགཤོེིུྃཾ]|[^ཀགཤ][ོེིུྃཾ]|[ཀགཤ][ོེིུྃཾ]།+)། །།|།།།)"), "msg": "invalid shad sequence", "type": "punctuation"},
-        {"reg": re.compile(r"[^ཀ-ྼ][ཱ-྄྆྇ྍ-ྼ]"), "msg": "invalid unicode combination sequence", "type": "invalid"},
-        {"reg": re.compile(r"([^༄༅]༅|[^࿓࿔]࿔|[࿔༅][^།༅࿔])"), "msg": "invalid yigo", "type": "punctuation"},
-        {"reg": re.compile(r"[^ༀ-࿚#-~ \[\]\{\}\.ऽ।ं]"), "msg": "invalid unicode characters (non-Tibetan, non-ascii)", "type": "invalid"},
-        {"reg": re.compile(r"([ྱུྲཿཾ྄ྃྭིྀ་ ])\1"), "msg": "invalid double diactitic sign (shabkyu, gigu, etc.)", "type": "invalid"},
-        {"reg": re.compile(r"[ༀ-༃༆-༊༎-༟ྰ]"), "msg": "suspicious Tibetan character (mind 0FB0 vs. 0F71)", "type": "invalid"},
-        {"reg": re.compile(r"([ཱ-྇][ྍ-ྼ]|[ི-྄]ཱ|[ྃཾཿ][ཱ-ཽྀ])"), "msg": "invalid character order (vowel before subscript)", "type": "invalid"},
-        {"reg": re.compile(r"(ཪ[ླྙྲྱཱ-྇ །་༼-ྌྉྈ\(\)\[\]]|[^ཏ]ྲ[ྐ-ྫྷྮ-ྻ])"), "msg": "possible wrong form of rago used (0F62 vs. 0F65)", "type": "invalid"},
-        {"reg": re.compile(r"([ཀགཤ།] །|[^ ཀགཤ།]། |[ཀགཤ།]། |[ཀགཤ།][། ]|[༽ཿ་ \]nl])$"), "msg": "invalid end of line", "type": "punctuation", "neg": True},
-        {"reg": re.compile(r"([ཱེཻོཽ])\1"), "msg": "invalid vowel duplication (use 0F7D and 0F7B when relevant)", "type": "invalid"},
-        {"reg": re.compile(r"ཿ་"), "msg": "invalid visarga + tshek", "type": "punctuation"},
+        {"reg": re.compile(r"([^ །\(\)\[,]།[^ །\(\]\)༽,n]|(?:[^ངོེིུྃཾ]|ང[^ངོེིུྃཾ]|[^ང][ོེིུྃཾ])་།|(?:[^ཀགཤ།ོེིུྃཾ]|[ཀགཤ][^ཀགཤོེིུྃཾ]|[^ཀགཤ][ོེིུྃཾ]|[ཀགཤ][ོེིུྃཾ]།+)། །།|།།།)"), "msg": "༺ཚེག་ཤད་མི་འགྲིག་པ།༻ invalid shad sequence", "type": "punctuation"},
+        {"reg": re.compile(r"[^ཀ-ྼ][ཱ-྄྆྇ྍ-ྼ]"), "msg": "༺ཁྲིམས་འགལ་ཡི་གེ།༻ invalid unicode combination sequence", "type": "invalid"},
+        {"reg": re.compile(r"([^༄༅]༅|[^࿓࿔]࿔|[࿔༅][^།༅࿔])"), "msg": "༺ཡིག་མགོ་ཁྲིམས་འགལ།༻ invalid yigo", "type": "punctuation"},
+        {"reg": re.compile(r"[^ༀ-࿚#-~ \[\]\{\}\.ऽ।ं]"), "msg": "༺བོད་ཡིན་མིན་པ།༻ invalid unicode characters (non-Tibetan, non-ascii)", "type": "invalid"},
+        {"reg": re.compile(r"([ྱུྲཿཾ྄ྃྭིྀ་ ])\1"), "msg": "༺དབྱངས་ཀྱི་སྐྱོན།༻ invalid double diactitic sign (shabkyu, gigu, etc.)", "type": "invalid"},
+        {"reg": re.compile(r"[ༀ-༃༆-༊༎-༟ྰ]"), "msg": "༺ཡི་གེའི་དོགས་གཞི།༻ suspicious Tibetan character (mind 0FB0 vs. 0F71)", "type": "invalid"},
+        {"reg": re.compile(r"([ཱ-྇][ྍ-ྼ]|[ི-྄]ཱ|[ྃཾཿ][ཱ-ཽྀ])"), "msg": "༺ཡི་གེ་གོ་རིམ་མི་འགྲིག་པ།༻ invalid character order (vowel before subscript)", "type": "invalid"},
+        {"reg": re.compile(r"(ཪ[ླྙྲྱཱ-྇ །་༼-ྌྉྈ\(\)\[\]]|[^ཏ]ྲ[ྐ-ྫྷྮ-ྻ])"), "msg": "༺ར་མགོ་སྐྱོན་ཅན་གྱི་དོགས་གཞི།༻ possible wrong form of rago used (0F62 vs. 0F65)", "type": "invalid"},
+        {"reg": re.compile(r"([ཀགཤ།] །|[^ ཀགཤ།]། |[ཀགཤ།]། |[ཀགཤ།][། ]|[༽ཿ་ \]nl])$"), "msg": "༺ཐིག་འཕྲེང་མཇུག་མཐའ་སྐྱོན་ཅན།༻ invalid end of line", "type": "punctuation", "neg": True},
+        {"reg": re.compile(r"([ཱེཻོཽ])\1"), "msg": "༺དབྱངས་ཀྱི་སྐྱོན།༻ invalid vowel duplication (use 0F7D and 0F7B when relevant)", "type": "invalid"},
+        {"reg": re.compile(r"ཿ་"), "msg": "༺རྣམ་བཅད་མཐར་ཚེག་བཀོད་པའི་སྐྱོན།༻ invalid visarga + tshek", "type": "punctuation"},
     ]
 
 def check_simple_regexp(line, pagelinenum, filelinenum, volnum, options, shortfilename):
@@ -124,11 +124,11 @@ def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
         oldpagenum = state['pagenum']
         oldpageside = state['pageside']
         if oldpagenum != pagenum and oldpagenum != pagenum-1:
-            report_error("", filelinenum, volnum, shortfilename, "pagenumbering", "leap in page numbers from "+str(oldpagenum)+" to "+str(pagenum), "")
+            report_error("", filelinenum, volnum, shortfilename, "pagenumbering", "༺ཤོག་གྲངས་ཀྱི་སྐྱོན།༻ leap in page numbers from "+str(oldpagenum)+" to "+str(pagenum), "")
         if oldpagenum == pagenum and oldpageside == 'b' and pageside == 'a':
-            report_error("", filelinenum, volnum, shortfilename, "pagenumbering", "going backward in page sides", "")
+            report_error("", filelinenum, volnum, shortfilename, "pagenumbering", "༺ཤོག་ངོའི་སྐྱོན།༻ going backward in page sides", "")
         if oldpagenum == pagenum-1 and (pageside == 'b' or oldpageside == 'a'):
-            report_error("", filelinenum, volnum, shortfilename, "pagenumbering", "leap in page sides", "")
+            report_error("", filelinenum, volnum, shortfilename, "pagenumbering", "༺ཤོག་ངོའི་སྐྱོན།༻ leap in page sides", "")
         if oldpagenum != pagenum or oldpageside != pageside:
             newpage = True
     if newpage:
@@ -138,7 +138,7 @@ def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
     if 'linenum' in state and linenum != 0:
         oldlinenum = state['linenum']
         if oldlinenum != linenum and oldlinenum != linenum-1:
-            report_error(pagelinenum, filelinenum, volnum, shortfilename, "pagenumbering", "leap in line numbers from "+str(oldlinenum)+" to "+str(linenum), "")
+            report_error(pagelinenum, filelinenum, volnum, shortfilename, "pagenumbering", "༺ཐིག་གྲངས་ཀྱི་སྐྱོན།༻ leap in line numbers from "+str(oldlinenum)+" to "+str(linenum), "")
     state['linenum']= linenum
     check_simple_regexp(line, pagelinenum, filelinenum, volnum, options, shortfilename)
     text = ''
@@ -150,7 +150,7 @@ def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
             closeidx = text.find('}')
             if not text.startswith('༄༅༅། །', closeidx+1) and not text.startswith('༄༅། །', closeidx+1) and not text.startswith('༄། །', closeidx+1):
                 rightcontext = text[closeidx+1:closeidx+5]
-                report_error(pagelinenum, filelinenum, volnum, shortfilename, "punctuation", "possible wrong beginning of text: \""+rightcontext+"\" should be \"༄༅༅། །\", \"༄༅། །\" or \"༄། །\"", "")
+                report_error(pagelinenum, filelinenum, volnum, shortfilename, "punctuation", "༺དབུ་འཁྱུད་ཆད་པའི་སྐྱོན།༻ possible wrong beginning of text: \""+rightcontext+"\" should be \"༄༅༅། །\", \"༄༅། །\" or \"༄། །\"", "")
             locstr = str(pagenum)+pageside+str(linenum)+" ("+str(volnum)+")"
         if 'keep_errors_indications' not in options or not options['keep_errors_indications']:
             text = text.replace('[', '').replace(']', '')
@@ -159,7 +159,7 @@ def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
         else:
             text = re.sub(r"\(([^\),]*),([^\),]*)\)", lambda m: parrepl(m, 'second', pagelinenum, filelinenum, volnum, shortfilename), text)
         if text.find('(') != -1 or text.find(')') != -1:
-            report_error(pagelinenum, filelinenum, volnum, shortfilename, "format", "spurious parenthesis", "")
+            report_error(pagelinenum, filelinenum, volnum, shortfilename, "format", "༺གུག་རྟགས་ཆད་པའི་སྐྱོན།༻ spurious parenthesis", "")
 
 def parse_one_file(infilename, volnum, options, shortfilename):
     with open(infilename, 'r', encoding="utf-8") as inf:

@@ -1,6 +1,6 @@
 # Digital Derge Tengyur
 
-Working repository for the digital Derge Tengyur prepared by Esukhia and Barom Theksum Choling.
+Working repository for the digital Derge Tengyur prepared by Esukhia and Barom Theksum Choling. This repository aims at being an annotated faithful copy of the Derge edition of the Tengyur. Each file of the `derge-tengyur-tags` directory is the input of a volume of the Derge Tengyur, with page and line indication. See the [catalog by the Tohoku University](https://www.tbrc.org/#!rid=W1PD95677) to find a specific text. The indexes indicated in this catalog are also indicated in the files.
 
 ## Format
 

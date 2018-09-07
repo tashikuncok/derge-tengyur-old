@@ -26,6 +26,15 @@
             }
         });
 
+        function iToVolNum(i) {
+            i = parseInt(i)+316;
+            if (i > 518) {
+                i = i+2;
+            }
+            return i;
+
+        }
+
         function getPageInfo(pageStr) {
             var letter = 'a';
             var indexLetter = pageStr.indexOf('a');
@@ -49,7 +58,7 @@
         }
 
         function getVolInfo(volStr) {
-            volId23 = 'bdr:V23703_I1'.concat(parseInt(volStr) + 316);
+            volId23 = 'bdr:V23703_I1'.concat(iToVolNum(volStr));
             return [volId23];
         }
 
@@ -57,7 +66,7 @@
             res = [];
             var volInt = parseInt(volume);
             var paddedImageNum = pad('' + imageNum, 4, '0');
-            var volNum = volInt + 316;
+            var volNum = iToVolNum(volInt);
             res[0] = '1' + volNum + paddedImageNum + '.tif';
             return res;
         }

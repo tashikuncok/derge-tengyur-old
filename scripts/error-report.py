@@ -69,7 +69,7 @@ def report_error(linestr, filelinenum, volnum, shortfilename, errortype, errorst
     if len(linewithhighlight) > 1:
         printerror("  -> "+linewithhighlight)
 
-def endofverse(line, endidx, state, volnum, shortfilename):
+def endofverse(state, volnum, shortfilename):
     nbsyls = state['curnbsyllables']
     #print(str(nbsyls)+" "+str(state['prevnbsyllables']))
     if state['prevnbsyllables'] == 7:
@@ -81,7 +81,8 @@ def endofverse(line, endidx, state, volnum, shortfilename):
     state['prevnbsyllables'] = nbsyls
     state['curbeginchar'] = -1
 
-def endofsyllable(line, endidx, state):
+def endofsyllable(state):
+    line = state['curbeginsylline']
     syllable = line[state['curbeginsylchar']:state['curendsylchar']]
     if syllable in ['བཛྲ', 'པདྨ', 'པདྨའི', 'སིདྡྷི', 'པའམ', 'ཀརྨ']:
         state['curnbsyllables'] += 1
@@ -90,11 +91,11 @@ def endofsyllable(line, endidx, state):
     state['curnbsyllables'] += 1
 
 def check_verses(line, pagelinenum, filelinenum, state, volnum, options, shortfilename):
-    lastistshek = False
+    lastistshek = state['lastistshek']
     lastisbreak = False
-    for idx in range(1,len(line)):
+    for idx in range(0,len(line)):
         c = line[idx]
-        if c in "#\{\}[]T01234567890ab.":
+        if c in "#\{\}[]T01234567890ab.\n":
             continue
         if (c >= 'ཀ' and c <= 'ྃ') or (c >= 'ྐ' and c <= 'ྼ'):
             if state['curbeginchar'] == -1:
@@ -103,23 +104,24 @@ def check_verses(line, pagelinenum, filelinenum, state, volnum, options, shortfi
                 state['curbeginpagelinenum'] = pagelinenum
                 state['curbeginline'] = line
                 state['curbeginfilelinenum'] = filelinenum
-            if lastistshek == False and lastisbreak == False:
+            if not lastistshek and not lastisbreak:
                 continue
-            if not lastisbreak:
-                endofsyllable(line, idx-1, state)
+            if lastistshek and not lastisbreak:
+                endofsyllable(state)
             lastisbreak = False
             state['curbeginsylchar'] = idx
+            state['curbeginsylline'] = line
             lastistshek = False
         elif c == '་' and not lastistshek and not lastisbreak:
             state['curendsylchar'] = idx
             lastistshek = True
-            lastisbreak = False
         elif not lastisbreak:
-            state['curendsylchar'] = idx
-            finalidx = idx-2 if lastistshek else idx-1
-            endofsyllable(line, finalidx, state)
-            endofverse(line, finalidx, state, volnum, shortfilename)
+            if not lastistshek:
+                state['curendsylchar'] = idx
+            endofsyllable(state)
+            endofverse(state, volnum, shortfilename)
             lastisbreak = True
+    state['lastistshek'] = lastistshek
 
 def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
     if filelinenum == 1:
@@ -193,7 +195,6 @@ def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
             report_error(pagelinenum, filelinenum, volnum, shortfilename, "pagenumbering", "༺ཐིག་གྲངས་ཀྱི་སྐྱོན།༻ leap in line numbers from "+str(oldlinenum)+" to "+str(linenum), "")
     state['linenum']= linenum
     check_simple_regexp(line, pagelinenum, filelinenum, volnum, options, shortfilename)
-    #check_verses(line, pagelinenum, filelinenum, state, volnum, options, shortfilename)
     text = ''
     if len(line) > endpnumi+1:
         text = line[endpnumi+1:]
@@ -211,6 +212,7 @@ def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
             text = re.sub(r"\(([^\),]*),([^\),]*)\)", lambda m: parrepl(m, 'first', pagelinenum, filelinenum, volnum, shortfilename), text)
         else:
             text = re.sub(r"\(([^\),]*),([^\),]*)\)", lambda m: parrepl(m, 'second', pagelinenum, filelinenum, volnum, shortfilename), text)
+        check_verses(text, pagelinenum, filelinenum, state, volnum, options, shortfilename)
         if text.find('(') != -1 or text.find(')') != -1:
             report_error(pagelinenum, filelinenum, volnum, shortfilename, "format", "༺གུག་རྟགས་ཆད་པའི་སྐྱོན།༻ spurious parenthesis", "")
 
@@ -225,6 +227,8 @@ def parse_one_file(infilename, volnum, options, shortfilename):
             "curbeginsylchar": -1,
             "curbeginfilelinenum": 0,
             "curendsylchar": -1,
+            "curbeginsylline": "",
+            "lastistshek": False
         }
         linenum = 1
         for line in inf:

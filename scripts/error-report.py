@@ -69,6 +69,52 @@ def report_error(linestr, filelinenum, volnum, shortfilename, errortype, errorst
     if len(linewithhighlight) > 1:
         printerror("  -> "+linewithhighlight)
 
+def endofverse(line, endidx, state, volnum, shortfilename):
+    nbsyls = state['curnbsyllables']
+    #print(str(nbsyls)+" "+str(state['prevnbsyllables']))
+    if state['prevnbsyllables'] == 7:
+        if nbsyls == 6 or nbsyls == 8:
+            bchar = state['curbeginchar']
+            line = state['curbeginline']
+            highlight = line[:bchar]+"***"+line[bchar:]
+            report_error(state['curbeginpagelinenum'], state['curbeginfilelinenum'], volnum, shortfilename, "verses", "verse has "+str(nbsyls)+" syllables while previous one has 7", highlight)
+    state['prevnbsyllables'] = nbsyls
+    state['curbeginchar'] = -1
+
+def endofsyllable(line, endidx, state):
+    syllable = line[state['curbeginchar']:endidx]
+    if syllable in ['བཛྲ', 'པདྨ', 'པདྨའི', 'སིདྡྷི', 'པའམ', 'ཀརྨ']:
+        state['curnbsyllables'] += 1
+    state['curnbsyllables'] += 1
+
+def check_verses(line, pagelinenum, filelinenum, state, volnum, options, shortfilename):
+    lastistshek = False
+    lastisbreak = False
+    for idx in range(1,len(line)):
+        c = line[idx]
+        if c in "#\{\}[]T01234567890ab.":
+            continue
+        if (c >= 'ཀ' and c <= 'ྃ') or (c >= 'ྐ' and c <= 'ྼ'):
+            lastisbreak = False
+            if state['curbeginchar'] == -1:
+                state['curbeginchar'] = idx
+                state['curnbsyllables'] = 0
+                state['curbeginpagelinenum'] = pagelinenum
+                state['curbeginline'] = line
+                state['curbeginfilelinenum'] = filelinenum
+            if lastistshek == False:
+                continue
+            endofsyllable(line, idx-1, state)
+            lastistshek = False
+        elif c == '་' and not lastistshek and not lastisbreak:
+            lastistshek = True
+            lastisbreak = False
+        elif not lastisbreak:
+            finalidx = idx-2 if lastistshek else idx-1
+            endofsyllable(line, finalidx, state)
+            endofverse(line, finalidx, state, volnum, shortfilename)
+            lastisbreak = True
+
 def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
     if filelinenum == 1:
         state['pageseqnum']= 1
@@ -141,6 +187,7 @@ def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
             report_error(pagelinenum, filelinenum, volnum, shortfilename, "pagenumbering", "༺ཐིག་གྲངས་ཀྱི་སྐྱོན།༻ leap in line numbers from "+str(oldlinenum)+" to "+str(linenum), "")
     state['linenum']= linenum
     check_simple_regexp(line, pagelinenum, filelinenum, volnum, options, shortfilename)
+    #check_verses(line, pagelinenum, filelinenum, state, volnum, options, shortfilename)
     text = ''
     if len(line) > endpnumi+1:
         text = line[endpnumi+1:]
@@ -163,7 +210,14 @@ def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
 
 def parse_one_file(infilename, volnum, options, shortfilename):
     with open(infilename, 'r', encoding="utf-8") as inf:
-        state = {}
+        state = {
+            "curnbsyllables": 0,
+            "prevnbsyllables": 0,
+            "curbeginpagelinenum": "",
+            "curbeginline": "",
+            "curbeginchar": -1,
+            "state.curbeginfilelinenum": 0
+        }
         linenum = 1
         for line in inf:
             if linenum == 1:

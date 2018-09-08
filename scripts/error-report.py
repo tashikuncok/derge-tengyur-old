@@ -82,8 +82,10 @@ def endofverse(line, endidx, state, volnum, shortfilename):
     state['curbeginchar'] = -1
 
 def endofsyllable(line, endidx, state):
-    syllable = line[state['curbeginchar']:endidx]
+    syllable = line[state['curbeginsylchar']:state['curendsylchar']]
     if syllable in ['བཛྲ', 'པདྨ', 'པདྨའི', 'སིདྡྷི', 'པའམ', 'ཀརྨ']:
+        state['curnbsyllables'] += 1
+    if syllable.endswith('འོ'):
         state['curnbsyllables'] += 1
     state['curnbsyllables'] += 1
 
@@ -95,21 +97,25 @@ def check_verses(line, pagelinenum, filelinenum, state, volnum, options, shortfi
         if c in "#\{\}[]T01234567890ab.":
             continue
         if (c >= 'ཀ' and c <= 'ྃ') or (c >= 'ྐ' and c <= 'ྼ'):
-            lastisbreak = False
             if state['curbeginchar'] == -1:
                 state['curbeginchar'] = idx
                 state['curnbsyllables'] = 0
                 state['curbeginpagelinenum'] = pagelinenum
                 state['curbeginline'] = line
                 state['curbeginfilelinenum'] = filelinenum
-            if lastistshek == False:
+            if lastistshek == False and lastisbreak == False:
                 continue
-            endofsyllable(line, idx-1, state)
+            if not lastisbreak:
+                endofsyllable(line, idx-1, state)
+            lastisbreak = False
+            state['curbeginsylchar'] = idx
             lastistshek = False
         elif c == '་' and not lastistshek and not lastisbreak:
+            state['curendsylchar'] = idx
             lastistshek = True
             lastisbreak = False
         elif not lastisbreak:
+            state['curendsylchar'] = idx
             finalidx = idx-2 if lastistshek else idx-1
             endofsyllable(line, finalidx, state)
             endofverse(line, finalidx, state, volnum, shortfilename)
@@ -216,7 +222,9 @@ def parse_one_file(infilename, volnum, options, shortfilename):
             "curbeginpagelinenum": "",
             "curbeginline": "",
             "curbeginchar": -1,
-            "state.curbeginfilelinenum": 0
+            "curbeginsylchar": -1,
+            "curbeginfilelinenum": 0,
+            "curendsylchar": -1,
         }
         linenum = 1
         for line in inf:

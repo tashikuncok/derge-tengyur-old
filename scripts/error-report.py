@@ -84,10 +84,10 @@ def endofverse(state, volnum, shortfilename):
 def endofsyllable(state):
     line = state['curbeginsylline']
     syllable = line[state['curbeginsylchar']:state['curendsylchar']]
-    if syllable in ['བཛྲ', 'པདྨ', 'པདྨའི', 'སིདྡྷི', 'པའམ', 'ཀརྨ']:
+    if syllable.startswith('བཛྲ') or syllable.startswith('པདྨ') or syllable.startswith('ཀརྨ'):
         state['curnbsyllables'] += 1
-    if syllable.endswith('འོ'):
-        state['curnbsyllables'] += 1
+    #if syllable.endswith('འོ') or syllable.endswith("འམ") or syllable.endswith("འང"):
+    #    state['curnbsyllables'] += 1
     state['curnbsyllables'] += 1
 
 def check_verses(line, pagelinenum, filelinenum, state, volnum, options, shortfilename):

@@ -73,7 +73,7 @@ def report_error(linestr, filelinenum, volnum, shortfilename, errortype, errorst
 def endofverse(state, volnum, shortfilename):
     nbsyls = state['curnbsyllables']
     #print(str(nbsyls)+" "+str(state['prevnbsyllables']))
-    if state["nbshad"] == 2:
+    if state["nbshad"] == 2 and state["prevnbshad"] == 2 and not state['hasjoker']:
         prevnbsyls = state['prevnbsyllables']
         nbsylsdiff = prevnbsyls - nbsyls
         if (prevnbsyls in [7,9,11]) and (nbsylsdiff == 1 or nbsylsdiff == -1):
@@ -82,16 +82,18 @@ def endofverse(state, volnum, shortfilename):
             highlight = line[:bchar]+"***"+line[bchar:]
             report_error(state['curbeginpagelinenum'], state['curbeginfilelinenum'], volnum, shortfilename, "verses", "verse has "+str(nbsyls)+" syllables while previous one has "+str(prevnbsyls), highlight)
     state['prevnbsyllables'] = nbsyls
+    state['prevnbshad'] = state['nbshad']
     state['nbshad'] = 0
     state['curbeginchar'] = -1
+    state['hasjoker'] = False
 
 def endofsyllable(state):
     line = state['curbeginsylline']
     syllable = line[state['curbeginsylchar']:state['curendsylchar']]
     if syllable.startswith('བཛྲ') or syllable.startswith('པདྨ') or syllable.startswith('ཀརྨ') or syllable.startswith("ཤཱཀྱ"):
         state['curnbsyllables'] += 1
-    #if syllable.endswith('འོ') or syllable.endswith("འམ") or syllable.endswith("འང"):
-    #    state['curnbsyllables'] += 1
+    if syllable.endswith('འོ') or syllable.endswith("འམ") or syllable.endswith("འང"):
+        state['hasjoker'] = True
     state['curnbsyllables'] += 1
 
 def check_verses(line, pagelinenum, filelinenum, state, volnum, options, shortfilename):
@@ -259,6 +261,8 @@ def parse_one_file(infilename, state, volnum, options, shortfilename):
         state["curbeginsylline"] = ""
         state["nbshad"] = 0
         state["lastistshek"] = False
+        state['hasjoker'] = False
+        state['prevnbshad'] = 0
         linenum = 1
         for line in inf:
             if linenum == 1:

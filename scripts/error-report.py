@@ -74,12 +74,13 @@ def endofverse(state, volnum, shortfilename):
     nbsyls = state['curnbsyllables']
     #print(str(nbsyls)+" "+str(state['prevnbsyllables']))
     if state["nbshad"] == 2:
-        if state['prevnbsyllables'] == 7:
-            if nbsyls == 6 or nbsyls == 8:
-                bchar = state['curbeginchar']
-                line = state['curbeginline']
-                highlight = line[:bchar]+"***"+line[bchar:]
-                report_error(state['curbeginpagelinenum'], state['curbeginfilelinenum'], volnum, shortfilename, "verses", "verse has "+str(nbsyls)+" syllables while previous one has 7", highlight)
+        prevnbsyls = state['prevnbsyllables']
+        nbsylsdiff = prevnbsyls - nbsyls
+        if (prevnbsyls in [7,9,11]) and (nbsylsdiff == 1 or nbsylsdiff == -1):
+            bchar = state['curbeginchar']
+            line = state['curbeginline']
+            highlight = line[:bchar]+"***"+line[bchar:]
+            report_error(state['curbeginpagelinenum'], state['curbeginfilelinenum'], volnum, shortfilename, "verses", "verse has "+str(nbsyls)+" syllables while previous one has "+str(prevnbsyls), highlight)
     state['prevnbsyllables'] = nbsyls
     state['nbshad'] = 0
     state['curbeginchar'] = -1

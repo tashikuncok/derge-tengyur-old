@@ -73,19 +73,21 @@ def report_error(linestr, filelinenum, volnum, shortfilename, errortype, errorst
 def endofverse(state, volnum, shortfilename):
     nbsyls = state['curnbsyllables']
     #print(str(nbsyls)+" "+str(state['prevnbsyllables']))
-    if state['prevnbsyllables'] == 7:
-        if nbsyls == 6 or nbsyls == 8:
-            bchar = state['curbeginchar']
-            line = state['curbeginline']
-            highlight = line[:bchar]+"***"+line[bchar:]
-            report_error(state['curbeginpagelinenum'], state['curbeginfilelinenum'], volnum, shortfilename, "verses", "verse has "+str(nbsyls)+" syllables while previous one has 7", highlight)
+    if state["nbshad"] == 2:
+        if state['prevnbsyllables'] == 7:
+            if nbsyls == 6 or nbsyls == 8:
+                bchar = state['curbeginchar']
+                line = state['curbeginline']
+                highlight = line[:bchar]+"***"+line[bchar:]
+                report_error(state['curbeginpagelinenum'], state['curbeginfilelinenum'], volnum, shortfilename, "verses", "verse has "+str(nbsyls)+" syllables while previous one has 7", highlight)
     state['prevnbsyllables'] = nbsyls
+    state['nbshad'] = 0
     state['curbeginchar'] = -1
 
 def endofsyllable(state):
     line = state['curbeginsylline']
     syllable = line[state['curbeginsylchar']:state['curendsylchar']]
-    if syllable.startswith('བཛྲ') or syllable.startswith('པདྨ') or syllable.startswith('ཀརྨ'):
+    if syllable.startswith('བཛྲ') or syllable.startswith('པདྨ') or syllable.startswith('ཀརྨ') or syllable.startswith("ཤཱཀྱ"):
         state['curnbsyllables'] += 1
     #if syllable.endswith('འོ') or syllable.endswith("འམ") or syllable.endswith("འང"):
     #    state['curnbsyllables'] += 1
@@ -99,6 +101,9 @@ def check_verses(line, pagelinenum, filelinenum, state, volnum, options, shortfi
         if c in "#\{\}[]T01234567890ab.\n":
             continue
         if (c >= 'ཀ' and c <= 'ྃ') or (c >= 'ྐ' and c <= 'ྼ'):
+            if lastisbreak:
+                endofsyllable(state)
+                endofverse(state, volnum, shortfilename)
             if state['curbeginchar'] == -1:
                 state['curbeginchar'] = idx
                 state['curnbsyllables'] = 0
@@ -116,12 +121,13 @@ def check_verses(line, pagelinenum, filelinenum, state, volnum, options, shortfi
         elif c == '་' and not lastistshek and not lastisbreak:
             state['curendsylchar'] = idx
             lastistshek = True
-        elif not lastisbreak:
-            if not lastistshek:
-                state['curendsylchar'] = idx
-            endofsyllable(state)
-            endofverse(state, volnum, shortfilename)
-            lastisbreak = True
+        else:
+            if not lastisbreak:
+                if not lastistshek:
+                    state['curendsylchar'] = idx
+                lastisbreak = True
+            if c == '།':
+                state['nbshad'] += 1
     state['lastistshek'] = lastistshek
 
 def tohmatch(tohm, state, pagelinenum, filelinenum, volnum, shortfilename):
@@ -241,16 +247,17 @@ def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
 
 def parse_one_file(infilename, state, volnum, options, shortfilename):
     with open(infilename, 'r', encoding="utf-8") as inf:
-        state ["curnbsyllables"] = 0
-        state ["prevnbsyllables"] = 0
-        state ["curbeginpagelinenum"] = ""
-        state ["curbeginline"] = ""
-        state ["curbeginchar"] = -1
-        state ["curbeginsylchar"] = -1
-        state ["curbeginfilelinenum"] = 0
-        state ["curendsylchar"] = -1
-        state ["curbeginsylline"] = ""
-        state ["lastistshek"] = False
+        state["curnbsyllables"] = 0
+        state["prevnbsyllables"] = 0
+        state["curbeginpagelinenum"] = ""
+        state["curbeginline"] = ""
+        state["curbeginchar"] = -1
+        state["curbeginsylchar"] = -1
+        state["curbeginfilelinenum"] = 0
+        state["curendsylchar"] = -1
+        state["curbeginsylline"] = ""
+        state["nbshad"] = 0
+        state["lastistshek"] = False
         linenum = 1
         for line in inf:
             if linenum == 1:
@@ -258,6 +265,7 @@ def parse_one_file(infilename, state, volnum, options, shortfilename):
             # [:-1]to remove final line break
             parse_one_line(line[:-1], linenum, state, volnum, options, shortfilename)
             linenum += 1
+        endofverse(state, volnum, shortfilename)
 
 errfile = open("errors.txt","w", encoding="utf-8")
 

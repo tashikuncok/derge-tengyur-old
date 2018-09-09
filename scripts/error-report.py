@@ -26,6 +26,7 @@ import os
 import glob
 
 PAREN_RE = re.compile(r"\(([^\),]*),([^\),]*)\)")
+TOH_RE = re.compile(r"\{T(?P<idx>\d+[ab]?)(?:-(?P<subidx>\d+))?\}")
 
 def parrepl(match, mode, pagelinenum, filelinenum, volnum, shortfilename):
     first = match.group(1)
@@ -123,6 +124,27 @@ def check_verses(line, pagelinenum, filelinenum, state, volnum, options, shortfi
             lastisbreak = True
     state['lastistshek'] = lastistshek
 
+def tohmatch(tohm, state, pagelinenum, filelinenum, volnum, shortfilename):
+    idx = tohm.group('idx')
+    letter = ""
+    if idx.endswith('a') or idx.endswith('b'):
+        letter = idx[-1:]
+        idx = idx[:-1]
+    try:
+        idxi = int(idx)
+    except ValueError:
+        report_error(pagelinenum, filelinenum, volnum, shortfilename, "format", "cannot convert Tohoku index to integer", "")
+        return
+    lastidx = state['lasttohidx']
+    lastletter = state['lasttohletter']
+    if idxi != lastidx+1:
+        if idxi == lastidx and ((lastletter == "a" and letter == "b") or (lastletter == "" and letter == "a")):
+            pass
+        else:
+            report_error(pagelinenum, filelinenum, volnum, shortfilename, "tohoku", "non consecutive Tohoku indexes: "+str(lastidx)+lastletter+" -> "+idx+letter, "")
+    state['lasttohidx'] = idxi
+    state['lasttohletter'] = letter
+
 def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
     if filelinenum == 1:
         state['pageseqnum']= 1
@@ -205,31 +227,30 @@ def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
             if not text.startswith('༄༅༅། །', closeidx+1) and not text.startswith('༄༅། །', closeidx+1) and not text.startswith('༄། །', closeidx+1):
                 rightcontext = text[closeidx+1:closeidx+5]
                 report_error(pagelinenum, filelinenum, volnum, shortfilename, "punctuation", "༺དབུ་འཁྱུད་ཆད་པའི་སྐྱོན།༻ possible wrong beginning of text: \""+rightcontext+"\" should be \"༄༅༅། །\", \"༄༅། །\" or \"༄། །\"", "")
-            locstr = str(pagenum)+pageside+str(linenum)+" ("+str(volnum)+")"
+        for tohm in TOH_RE.finditer(text):
+            tohmatch(tohm, state, pagelinenum, filelinenum, volnum, shortfilename)
         if 'keep_errors_indications' not in options or not options['keep_errors_indications']:
             text = text.replace('[', '').replace(']', '')
         if 'fix_errors' not in options or not options['fix_errors']:
-            text = re.sub(r"\(([^\),]*),([^\),]*)\)", lambda m: parrepl(m, 'first', pagelinenum, filelinenum, volnum, shortfilename), text)
+            text = PAREN_RE.sub(lambda m: parrepl(m, 'first', pagelinenum, filelinenum, volnum, shortfilename), text)
         else:
-            text = re.sub(r"\(([^\),]*),([^\),]*)\)", lambda m: parrepl(m, 'second', pagelinenum, filelinenum, volnum, shortfilename), text)
+            text = PAREN_RE.sub(lambda m: parrepl(m, 'second', pagelinenum, filelinenum, volnum, shortfilename), text)
         check_verses(text, pagelinenum, filelinenum, state, volnum, options, shortfilename)
         if text.find('(') != -1 or text.find(')') != -1:
             report_error(pagelinenum, filelinenum, volnum, shortfilename, "format", "༺གུག་རྟགས་ཆད་པའི་སྐྱོན།༻ spurious parenthesis", "")
 
-def parse_one_file(infilename, volnum, options, shortfilename):
+def parse_one_file(infilename, state, volnum, options, shortfilename):
     with open(infilename, 'r', encoding="utf-8") as inf:
-        state = {
-            "curnbsyllables": 0,
-            "prevnbsyllables": 0,
-            "curbeginpagelinenum": "",
-            "curbeginline": "",
-            "curbeginchar": -1,
-            "curbeginsylchar": -1,
-            "curbeginfilelinenum": 0,
-            "curendsylchar": -1,
-            "curbeginsylline": "",
-            "lastistshek": False
-        }
+        state ["curnbsyllables"] = 0
+        state ["prevnbsyllables"] = 0
+        state ["curbeginpagelinenum"] = ""
+        state ["curbeginline"] = ""
+        state ["curbeginchar"] = -1
+        state ["curbeginsylchar"] = -1
+        state ["curbeginfilelinenum"] = 0
+        state ["curendsylchar"] = -1
+        state ["curbeginsylline"] = ""
+        state ["lastistshek"] = False
         linenum = 1
         for line in inf:
             if linenum == 1:
@@ -249,6 +270,11 @@ if __name__ == '__main__':
         "fix_errors": False,
         "keep_errors_indications": False
     }
+    state = {
+        "lasttohidx": 1108, # first index is 1109
+        "lasttohsubidx": 0,
+        "lasttohletter": ""
+    }
     for infilename in sorted(glob.glob("../derge-tengyur-tags/*.txt")):
         #print(infilename)
         volnum = infilename[22:25]
@@ -258,6 +284,6 @@ if __name__ == '__main__':
         except ValueError:
             print('wrong file format: '+shortfilename+'.txt')
             continue
-        parse_one_file(infilename, volnum, options, shortfilename)
+        parse_one_file(infilename, state, volnum, options, shortfilename)
 
 errfile.close()

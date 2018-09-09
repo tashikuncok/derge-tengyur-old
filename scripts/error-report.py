@@ -24,9 +24,11 @@
 import re
 import os
 import glob
+import json
 
 PAREN_RE = re.compile(r"\(([^\),]*),([^\),]*)\)")
 TOH_RE = re.compile(r"\{T(?P<idx>\d+[ab]?)(?:-(?P<subidx>\d+))?\}")
+file_to_nberr = {}
 
 def parrepl(match, mode, pagelinenum, filelinenum, volnum, shortfilename):
     first = match.group(1)
@@ -69,6 +71,14 @@ def report_error(linestr, filelinenum, volnum, shortfilename, errortype, errorst
     printerror(shortfilename+", l. "+str(filelinenum)+" ("+linestr+"): "+errortype+": "+errorstr)
     if len(linewithhighlight) > 1:
         printerror("  -> "+linewithhighlight)
+    if not shortfilename in file_to_nberr:
+        file_to_nberr[shortfilename] = {'total': 0}
+    fileerrs = file_to_nberr[shortfilename]
+    fileerrs['total'] += 1
+    if not errortype in fileerrs:
+        fileerrs[errortype] = 0
+    fileerrs[errortype] += 1
+    
 
 def endofverse(state, volnum, shortfilename):
     nbsyls = state['curnbsyllables']
@@ -299,4 +309,5 @@ if __name__ == '__main__':
             continue
         parse_one_file(infilename, state, volnum, options, shortfilename)
 
+errfile.write("\n\n"+json.dumps(file_to_nberr, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))+"\n")
 errfile.close()

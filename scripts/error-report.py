@@ -24,9 +24,11 @@
 import re
 import os
 import glob
+import json
 
 PAREN_RE = re.compile(r"\(([^\),]*),([^\),]*)\)")
 TOH_RE = re.compile(r"\{T(?P<idx>\d+[ab]?)(?:-(?P<subidx>\d+))?\}")
+file_to_nberr = {}
 
 def parrepl(match, mode, pagelinenum, filelinenum, volnum, shortfilename):
     first = match.group(1)
@@ -69,11 +71,19 @@ def report_error(linestr, filelinenum, volnum, shortfilename, errortype, errorst
     printerror(shortfilename+", l. "+str(filelinenum)+" ("+linestr+"): "+errortype+": "+errorstr)
     if len(linewithhighlight) > 1:
         printerror("  -> "+linewithhighlight)
+    if not shortfilename in file_to_nberr:
+        file_to_nberr[shortfilename] = {'total': 0}
+    fileerrs = file_to_nberr[shortfilename]
+    fileerrs['total'] += 1
+    if not errortype in fileerrs:
+        fileerrs[errortype] = 0
+    fileerrs[errortype] += 1
+    
 
 def endofverse(state, volnum, shortfilename):
     nbsyls = state['curnbsyllables']
     #print(str(nbsyls)+" "+str(state['prevnbsyllables']))
-    if state["nbshad"] == 2:
+    if state["nbshad"] == 2 and state["prevnbshad"] == 2 and not state['hasjoker']:
         prevnbsyls = state['prevnbsyllables']
         nbsylsdiff = prevnbsyls - nbsyls
         if (prevnbsyls in [7,9,11]) and (nbsylsdiff == 1 or nbsylsdiff == -1):
@@ -82,16 +92,18 @@ def endofverse(state, volnum, shortfilename):
             highlight = line[:bchar]+"***"+line[bchar:]
             report_error(state['curbeginpagelinenum'], state['curbeginfilelinenum'], volnum, shortfilename, "verses", "verse has "+str(nbsyls)+" syllables while previous one has "+str(prevnbsyls), highlight)
     state['prevnbsyllables'] = nbsyls
+    state['prevnbshad'] = state['nbshad']
     state['nbshad'] = 0
     state['curbeginchar'] = -1
+    state['hasjoker'] = False
 
 def endofsyllable(state):
     line = state['curbeginsylline']
     syllable = line[state['curbeginsylchar']:state['curendsylchar']]
     if syllable.startswith('བཛྲ') or syllable.startswith('པདྨ') or syllable.startswith('ཀརྨ') or syllable.startswith("ཤཱཀྱ"):
         state['curnbsyllables'] += 1
-    #if syllable.endswith('འོ') or syllable.endswith("འམ") or syllable.endswith("འང"):
-    #    state['curnbsyllables'] += 1
+    if syllable.endswith('འོ') or syllable.endswith("འམ") or syllable.endswith("འང"):
+        state['hasjoker'] = True
     state['curnbsyllables'] += 1
 
 def check_verses(line, pagelinenum, filelinenum, state, volnum, options, shortfilename):
@@ -141,6 +153,8 @@ def tohmatch(tohm, state, pagelinenum, filelinenum, volnum, shortfilename):
         idxi = int(idx)
     except ValueError:
         report_error(pagelinenum, filelinenum, volnum, shortfilename, "format", "cannot convert Tohoku index to integer", "")
+        return
+    if idxi == 0:
         return
     lastidx = state['lasttohidx']
     lastletter = state['lasttohletter']
@@ -259,6 +273,8 @@ def parse_one_file(infilename, state, volnum, options, shortfilename):
         state["curbeginsylline"] = ""
         state["nbshad"] = 0
         state["lastistshek"] = False
+        state['hasjoker'] = False
+        state['prevnbshad'] = 0
         linenum = 1
         for line in inf:
             if linenum == 1:
@@ -295,4 +311,5 @@ if __name__ == '__main__':
             continue
         parse_one_file(infilename, state, volnum, options, shortfilename)
 
+errfile.write("\n\n"+json.dumps(file_to_nberr, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))+"\n")
 errfile.close()

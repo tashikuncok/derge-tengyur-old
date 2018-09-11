@@ -24,8 +24,11 @@
 import re
 import os
 import glob
+import json
 
 PAREN_RE = re.compile(r"\(([^\),]*),([^\),]*)\)")
+TOH_RE = re.compile(r"\{T(?P<idx>\d+[ab]?)(?:-(?P<subidx>\d+))?\}")
+file_to_nberr = {}
 
 def parrepl(match, mode, pagelinenum, filelinenum, volnum, shortfilename):
     first = match.group(1)
@@ -68,6 +71,100 @@ def report_error(linestr, filelinenum, volnum, shortfilename, errortype, errorst
     printerror(shortfilename+", l. "+str(filelinenum)+" ("+linestr+"): "+errortype+": "+errorstr)
     if len(linewithhighlight) > 1:
         printerror("  -> "+linewithhighlight)
+    if not shortfilename in file_to_nberr:
+        file_to_nberr[shortfilename] = {'total': 0}
+    fileerrs = file_to_nberr[shortfilename]
+    fileerrs['total'] += 1
+    if not errortype in fileerrs:
+        fileerrs[errortype] = 0
+    fileerrs[errortype] += 1
+    
+
+def endofverse(state, volnum, shortfilename):
+    nbsyls = state['curnbsyllables']
+    #print(str(nbsyls)+" "+str(state['prevnbsyllables']))
+    if state["nbshad"] == 2 and state["prevnbshad"] == 2 and not state['hasjoker']:
+        prevnbsyls = state['prevnbsyllables']
+        nbsylsdiff = prevnbsyls - nbsyls
+        if (prevnbsyls in [7,9,11]) and (nbsylsdiff == 1 or nbsylsdiff == -1):
+            bchar = state['curbeginchar']
+            line = state['curbeginline']
+            highlight = line[:bchar]+"***"+line[bchar:]
+            report_error(state['curbeginpagelinenum'], state['curbeginfilelinenum'], volnum, shortfilename, "verses", "verse has "+str(nbsyls)+" syllables while previous one has "+str(prevnbsyls), highlight)
+    state['prevnbsyllables'] = nbsyls
+    state['prevnbshad'] = state['nbshad']
+    state['nbshad'] = 0
+    state['curbeginchar'] = -1
+    state['hasjoker'] = False
+
+def endofsyllable(state):
+    line = state['curbeginsylline']
+    syllable = line[state['curbeginsylchar']:state['curendsylchar']]
+    if syllable.startswith('བཛྲ') or syllable.startswith('པདྨ') or syllable.startswith('ཀརྨ') or syllable.startswith("ཤཱཀྱ"):
+        state['curnbsyllables'] += 1
+    if syllable.endswith('འོ') or syllable.endswith("འམ") or syllable.endswith("འང"):
+        state['hasjoker'] = True
+    state['curnbsyllables'] += 1
+
+def check_verses(line, pagelinenum, filelinenum, state, volnum, options, shortfilename):
+    lastistshek = state['lastistshek']
+    lastisbreak = False
+    for idx in range(0,len(line)):
+        c = line[idx]
+        if c in "#\{\}[]T01234567890ab.\n":
+            continue
+        if (c >= 'ཀ' and c <= 'ྃ') or (c >= 'ྐ' and c <= 'ྼ'):
+            if lastisbreak:
+                endofsyllable(state)
+                endofverse(state, volnum, shortfilename)
+            if state['curbeginchar'] == -1:
+                state['curbeginchar'] = idx
+                state['curnbsyllables'] = 0
+                state['curbeginpagelinenum'] = pagelinenum
+                state['curbeginline'] = line
+                state['curbeginfilelinenum'] = filelinenum
+            if not lastistshek and not lastisbreak:
+                continue
+            if lastistshek and not lastisbreak:
+                endofsyllable(state)
+            lastisbreak = False
+            state['curbeginsylchar'] = idx
+            state['curbeginsylline'] = line
+            lastistshek = False
+        elif c == '་' and not lastistshek and not lastisbreak:
+            state['curendsylchar'] = idx
+            lastistshek = True
+        else:
+            if not lastisbreak:
+                if not lastistshek:
+                    state['curendsylchar'] = idx
+                lastisbreak = True
+            if c == '།':
+                state['nbshad'] += 1
+    state['lastistshek'] = lastistshek
+
+def tohmatch(tohm, state, pagelinenum, filelinenum, volnum, shortfilename):
+    idx = tohm.group('idx')
+    letter = ""
+    if idx.endswith('a') or idx.endswith('b'):
+        letter = idx[-1:]
+        idx = idx[:-1]
+    try:
+        idxi = int(idx)
+    except ValueError:
+        report_error(pagelinenum, filelinenum, volnum, shortfilename, "format", "cannot convert Tohoku index to integer", "")
+        return
+    if idxi == 0:
+        return
+    lastidx = state['lasttohidx']
+    lastletter = state['lasttohletter']
+    if idxi != lastidx+1:
+        if idxi == lastidx and ((lastletter == "a" and letter == "b") or (lastletter == "" and letter == "a")):
+            pass
+        else:
+            report_error(pagelinenum, filelinenum, volnum, shortfilename, "tohoku", "non consecutive Tohoku indexes: "+str(lastidx)+lastletter+" -> "+idx+letter, "")
+    state['lasttohidx'] = idxi
+    state['lasttohletter'] = letter
 
 def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
     if filelinenum == 1:
@@ -151,19 +248,33 @@ def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
             if not text.startswith('༄༅༅། །', closeidx+1) and not text.startswith('༄༅། །', closeidx+1) and not text.startswith('༄། །', closeidx+1):
                 rightcontext = text[closeidx+1:closeidx+5]
                 report_error(pagelinenum, filelinenum, volnum, shortfilename, "punctuation", "༺དབུ་འཁྱུད་ཆད་པའི་སྐྱོན།༻ possible wrong beginning of text: \""+rightcontext+"\" should be \"༄༅༅། །\", \"༄༅། །\" or \"༄། །\"", "")
-            locstr = str(pagenum)+pageside+str(linenum)+" ("+str(volnum)+")"
+        for tohm in TOH_RE.finditer(text):
+            tohmatch(tohm, state, pagelinenum, filelinenum, volnum, shortfilename)
         if 'keep_errors_indications' not in options or not options['keep_errors_indications']:
             text = text.replace('[', '').replace(']', '')
         if 'fix_errors' not in options or not options['fix_errors']:
-            text = re.sub(r"\(([^\),]*),([^\),]*)\)", lambda m: parrepl(m, 'first', pagelinenum, filelinenum, volnum, shortfilename), text)
+            text = PAREN_RE.sub(lambda m: parrepl(m, 'first', pagelinenum, filelinenum, volnum, shortfilename), text)
         else:
-            text = re.sub(r"\(([^\),]*),([^\),]*)\)", lambda m: parrepl(m, 'second', pagelinenum, filelinenum, volnum, shortfilename), text)
+            text = PAREN_RE.sub(lambda m: parrepl(m, 'second', pagelinenum, filelinenum, volnum, shortfilename), text)
+        check_verses(text, pagelinenum, filelinenum, state, volnum, options, shortfilename)
         if text.find('(') != -1 or text.find(')') != -1:
             report_error(pagelinenum, filelinenum, volnum, shortfilename, "format", "༺གུག་རྟགས་ཆད་པའི་སྐྱོན།༻ spurious parenthesis", "")
 
-def parse_one_file(infilename, volnum, options, shortfilename):
+def parse_one_file(infilename, state, volnum, options, shortfilename):
     with open(infilename, 'r', encoding="utf-8") as inf:
-        state = {}
+        state["curnbsyllables"] = 0
+        state["prevnbsyllables"] = 0
+        state["curbeginpagelinenum"] = ""
+        state["curbeginline"] = ""
+        state["curbeginchar"] = -1
+        state["curbeginsylchar"] = -1
+        state["curbeginfilelinenum"] = 0
+        state["curendsylchar"] = -1
+        state["curbeginsylline"] = ""
+        state["nbshad"] = 0
+        state["lastistshek"] = False
+        state['hasjoker'] = False
+        state['prevnbshad'] = 0
         linenum = 1
         for line in inf:
             if linenum == 1:
@@ -171,8 +282,9 @@ def parse_one_file(infilename, volnum, options, shortfilename):
             # [:-1]to remove final line break
             parse_one_line(line[:-1], linenum, state, volnum, options, shortfilename)
             linenum += 1
+        endofverse(state, volnum, shortfilename)
 
-errfile = open("errors.txt","w")
+errfile = open("errors.txt","w", encoding="utf-8")
 
 def printerror(err):
     errfile.write(err+"\n")
@@ -183,6 +295,11 @@ if __name__ == '__main__':
         "fix_errors": False,
         "keep_errors_indications": False
     }
+    state = {
+        "lasttohidx": 1108, # first index is 1109
+        "lasttohsubidx": 0,
+        "lasttohletter": ""
+    }
     for infilename in sorted(glob.glob("../derge-tengyur-tags/*.txt")):
         #print(infilename)
         volnum = infilename[22:25]
@@ -192,6 +309,7 @@ if __name__ == '__main__':
         except ValueError:
             print('wrong file format: '+shortfilename+'.txt')
             continue
-        parse_one_file(infilename, volnum, options, shortfilename)
+        parse_one_file(infilename, state, volnum, options, shortfilename)
 
+errfile.write("\n\n"+json.dumps(file_to_nberr, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))+"\n")
 errfile.close()

@@ -154,6 +154,8 @@ def tohmatch(tohm, state, pagelinenum, filelinenum, volnum, shortfilename):
     except ValueError:
         report_error(pagelinenum, filelinenum, volnum, shortfilename, "format", "cannot convert Tohoku index to integer", "")
         return
+    if idxi == 0:
+        return
     lastidx = state['lasttohidx']
     lastletter = state['lasttohletter']
     if idxi != lastidx+1:

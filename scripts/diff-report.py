@@ -31,7 +31,7 @@ from urllib.parse import unquote
 PAREN_RE = re.compile(r"\(([^\),]*),([^\),]*)\)")
 TOH_RE = re.compile(r"\{T(?P<idx>\d+[ab]?)(?:-(?P<subidx>\d+))?\}")
 
-errfile = open("errors.txt","w", encoding="utf-8")
+errfile = open("diffs.txt","w", encoding="utf-8")
 
 DMP = diff_match_patch()
 

@@ -51,7 +51,7 @@ error_regexps = [
         {"reg": re.compile(r"([ཱ-྇][ྍ-ྼ]|[ི-྄]ཱ|[ྃཾཿ][ཱ-ཽྀ])"), "msg": "༺ཡི་གེ་གོ་རིམ་མི་འགྲིག་པ།༻ invalid character order (vowel before subscript)", "type": "invalid"},
         {"reg": re.compile(r"(ཪ[ླྙྲྱཱ-྇ །་༼-ྌྉྈ\(\)\[\]]|[^ཏ]ྲ[ྐ-ྫྷྮ-ྻ])"), "msg": "༺ར་མགོ་སྐྱོན་ཅན་གྱི་དོགས་གཞི།༻ possible wrong form of rago used (0F62 vs. 0F65)", "type": "invalid"},
         {"reg": re.compile(r"([ཀགཤ།] །|[^ ཀགཤ།]། |[ཀགཤ།]། |[ཀགཤ།][། ]|[༽ཿ་ \]nl])$"), "msg": "༺ཐིག་འཕྲེང་མཇུག་མཐའ་སྐྱོན་ཅན།༻ invalid end of line", "type": "punctuation", "neg": True},
-        {"reg": re.compile(r"([ཱེཻོཽ])\1"), "msg": "༺དབྱངས་ཀྱི་སྐྱོན།༻ invalid vowel duplication (use 0F7D and 0F7B when relevant)", "type": "invalid"},
+        {"reg": re.compile(r"([ྀིེཻོཽུ]{2,}|ཱ{2,})"), "msg": "༺དབྱངས་ཀྱི་སྐྱོན།༻ invalid vowel duplication (use 0F7D and 0F7B when relevant)", "type": "invalid"},
         {"reg": re.compile(r"ཿ་"), "msg": "༺རྣམ་བཅད་མཐར་ཚེག་བཀོད་པའི་སྐྱོན།༻ invalid visarga + tshek", "type": "punctuation"},
     ]
 

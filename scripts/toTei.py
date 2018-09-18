@@ -50,7 +50,7 @@ TEI_BEGINNING = """<?xml version="1.0" encoding="UTF-8"?>
   <tei:text>
     <tei:body>
       <tei:div>
-        <tei:p n="1" data-orig-n="1a">{title}"""
+        <tei:p n="3" data-orig-n="1a">{title}"""
 
 TEI_END = """</tei:p>
       </tei:div>
@@ -82,7 +82,7 @@ def parse_one_line(line, filelinenum, state, outf, volnum, options):
             title = line[6:]
         header = TEI_BEGINNING.format(title = title, volnum = volnum, ignum = ignum)
         outf.write(header)
-        state['pageseqnum']= 1
+        state['pageseqnum']= 3
         state['pagestr'] = "1a"
         if line.startswith("[1a.1]"):
             return
@@ -110,6 +110,7 @@ def parse_one_line(line, filelinenum, state, outf, volnum, options):
     if len(line) > endpnumi+1:
         text = line[endpnumi+1:]
         text = text.replace('&', '')
+        text = text.replace('#', '')
         if '{T' in text:
             closeidx = text.find('}')
             text = re.sub(r"\{T([^}]+)\}", lambda m: tohrepl(m), text)
@@ -150,6 +151,8 @@ if __name__ == '__main__':
         volnum = int(fname[:3])
         volnumfilemapping[volnum] = fname
     for volnum in range(1, 213):
+        if volnum in [73, 211, 208, 171, 170]:
+            continue
         volnumstr = '{0:03d}'.format(volnum)
         if volnum not in volnumfilemapping:
             print("no file found for volume "+str(volnum))

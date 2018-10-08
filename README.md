@@ -56,6 +56,11 @@ We keep the original punctuation in parenthesis (see above) but normalize the fo
  - `ག། །།` instead of `ག།། །།`, or with any character conforming `[གཀཤ][ོེིུ]?` instead of ག
  - a tshek is inserted between characters conforming `ང[ོེིུ]?` and `།`
 
+## Page numbering issues
+
+These page numbering issues appear in the original scans and have been kept:
+- vol. 209 goes from page 87 to page 89, and from page 89 to page 91
+
 # Feedback
 
 The files are on Github hoping they'll improve, don't hesitate to [report issues](https://github.com/Esukhia/derge-tengyur/issues) or even open a pull request!

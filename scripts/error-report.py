@@ -175,6 +175,7 @@ def parse_one_line(line, filelinenum, state, volnum, options, shortfilename):
         state['pageseqnum']= 1
         state['pagenum']= 1
         state['pageside']= 'a'
+        state['linenum'] = 0
         return
     pagelinenum = ''
     endpnumi = line.find(']')

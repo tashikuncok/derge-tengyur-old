@@ -82,13 +82,13 @@ def check_txt_formatting():
         - " ": a space delimiter
         - string: the
     """
-    line_format = r'[0-9]+\. .+'
+    line_format = r'[0-9]+\. +.+'
 
     total = []
     for a in txt:
         content = a.read_text(encoding='utf-8-sig').split('\n')
-        if content[-1] == '':
-            del content[-1]
+        while content[-2] == '':
+            del content[-2]
 
         # replace tabs instead of spaces and write new content
         if re.findall(r'[0-9]+\.\t.+', content[0]):

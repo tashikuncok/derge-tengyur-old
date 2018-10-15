@@ -103,6 +103,10 @@ ENV/
 # Rope project settings
 .ropeproject
 
+# Pycharm
+.idea/
+.idea/workspace.xml
+
 # mkdocs documentation
 /site
 

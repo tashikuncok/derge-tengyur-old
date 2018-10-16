@@ -1,6 +1,6 @@
 # Digital Derge Tengyur
 
-Working repository for the digital Derge Tengyur prepared by Esukhia and Barom Theksum Choling.
+Working repository for the digital Derge Tengyur prepared by Esukhia and Barom Theksum Choling. This repository aims at being an annotated faithful copy of the Derge edition of the Tengyur. Each file of the `derge-tengyur-tags` directory is the input of a volume of the Derge Tengyur, with page and line indication. See the [catalog by the Tohoku University](https://www.tbrc.org/#!rid=W1PD95677) to find a specific text. The indexes indicated in this catalog are also indicated in the files.
 
 ## Format
 
@@ -36,8 +36,8 @@ The files are UTF8 with no BOM, using LF end of lines, in [NFD](http://unicode.o
 
 Some characters in volume 197 (starting p. 361a) denote the long / short syllables, example:
 
-![Syllable length markers](ssktlenmarkers.png?raw=true "Syllable length markers")
-![Syllable length markers 2](ssktlenmarkers2.png?raw=true "Syllable length markers 2")
+![ssktlenmarkers](https://user-images.githubusercontent.com/17675331/45107718-106e0f00-b16d-11e8-9759-9f169bce3c48.png)
+![ssktlenmarkers2](https://user-images.githubusercontent.com/17675331/45107711-0cda8800-b16d-11e8-8f85-19728bf41123.png)
 
 These characters have no Tibetan version in Unicode, so we use the following characters which we believe are the Sanskrit equivalents:
  - `ऽ` for heavy (`ऽं` when with anusvara)
@@ -55,6 +55,11 @@ We keep the original punctuation in parenthesis (see above) but normalize the fo
  - `༄༅། །` are added at beginning of texts when they're missing
  - `ག། །།` instead of `ག།། །།`, or with any character conforming `[གཀཤ][ོེིུ]?` instead of ག
  - a tshek is inserted between characters conforming `ང[ོེིུ]?` and `།`
+
+## Page numbering issues
+
+These page numbering issues appear in the original scans and have been kept:
+- vol. 209 goes from page 87 to page 89, and from page 89 to page 91
 
 # Feedback
 

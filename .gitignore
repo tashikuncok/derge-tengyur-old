@@ -1,5 +1,6 @@
 output/
 scripts/output/
+degetengyur-proofread/
 errors.txt
 
 .DS_Store
@@ -101,6 +102,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Pycharm
+.idea/
+.idea/workspace.xml
 
 # mkdocs documentation
 /site

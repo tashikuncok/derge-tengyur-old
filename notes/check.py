@@ -237,6 +237,7 @@ def check_csv_edition_notes():
                 if bad:
                     bad_lines.append((num + 2, ','.join(row[4:11])))
         if bad_lines:
+            files[c.name] += 1
             total.append((c.name, bad_lines))
 
     # formatting

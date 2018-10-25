@@ -412,4 +412,6 @@ if __name__ == '__main__':
     Csv = sorted(list(input_folder.glob('*.csv')))
     generate_log()
     f_list = sorted(list(files.keys()))
+    pair_list = sorted(list(set([a.replace('.txt', '').replace('.csv', '') for a in f_list])))
     Path('with_mistakes.txt').write_text('\n'.join(f_list))
+    Path('with_mistakes_pairs.txt').write_text('\n'.join(pair_list))

@@ -1,4 +1,4 @@
-﻿319 issues in 227 files.
+﻿350 issues in 229 files.
 
 1. Checking file pairs:
 	2 txt files missing:
@@ -95,7 +95,10 @@
 	0 files have bad sequences:
 
 5. Checking line sequence in csv files:
-	8 files have bad sequences:
+	9 files have bad sequences:
+		T1784b.csv
+				1686-->a (expected: 1686-->1687)
+				1687-->1687 (expected: 1687-->1688)
 		T2736.csv
 				85-->87 (expected: 85-->86)
 		T3836.csv
@@ -116,7 +119,7 @@
 
 7. Checking note sequence in csv files:
 
-	29 files have bad note sequences:
+	30 files have bad note sequences:
 		1-58_ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་ཆོ་ག་གཟུངས་ཀྱི་འགྲེལ་པ།.csv
 				page 375 — 10-->10 (expected: 10-->11)
 		15-8_འདུལ་བ་མདོའི་རྣམ་པར་བཤད་པ།.csv
@@ -149,13 +152,15 @@
 		T1778.csv
 				page 1719 — 27--> (expected: 27-->28)
 				page 1719 — 28-->28 (expected: 28-->29)
-		T1784.csv
-				page 336 — 1-->3 (expected: 1-->2)
-				page 376 — 3-->2 (expected: 3-->4)
 		T17840.csv
 				page 720 — 1-->3 (expected: 1-->2)
 				page 798 — 2-->2 (expected: 2-->3)
 				page 798 — 2-->4 (expected: 2-->3)
+		T1784a.csv
+				page 336 — 1-->3 (expected: 1-->2)
+				page 376 — 3-->2 (expected: 3-->4)
+		T1784b.csv
+				page 631 — 0-->9 (expected: 0-->1)
 		T1796.csv
 				page 24 — 9-->9 (expected: 9-->10)
 		T1892.csv
@@ -261,7 +266,7 @@
 				line 468: 《པེ་》《སྣར་བསྐྱར་ཟློས་》,mཐམས་ཅད།,,,,,
 
 8. Checking how many notes in txt and csv:
-	38 files have problems.
+	39 files have problems.
 		001 missing. txt: 00014; csv: 00013 notes: 1-121_རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བའི་དེ་ཁོ་ན་ཉིད་ཅེས་བྱ་བ།
 		001 missing. txt: 00032; csv: 00031 notes: 11-12_ཚད་མ་ཀུན་ལས་བཏུས་པ།
 		001 missing. txt: 00014; csv: 00013 notes: 11-17_ཚད་མ་རིགས་པར་འཇུག་པའི་སྒོ།
@@ -276,6 +281,7 @@
 		001 missing. txt: 00004; csv: 00003 notes: T1558
 		001 missing. txt: 00009; csv: 00010 notes: T1587
 		001 missing. txt: 00062; csv: 00063 notes: T1778
+		027 missing. txt: 03644; csv: 03617 notes: T1784b
 		001 missing. txt: 05099; csv: 05098 notes: T1793a
 		001 missing. txt: 00009; csv: 00010 notes: T2277
 		001 missing. txt: 00025; csv: 00026 notes: T2325

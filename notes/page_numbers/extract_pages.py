@@ -104,7 +104,6 @@ def works_stripped(works_in_lines):
 def strip_markup(works_stripped):
     works = []
     for work, lines in works_stripped:
-
         # 1. strip toh
         start, end = lines[0][1].find('{'), lines[0][1].find('}')
         lines[0] = (lines[0][0], lines[0][1][:start] + lines[0][1][end+1:])
@@ -126,6 +125,10 @@ def strip_markup(works_stripped):
                 l = l[end+1:]
 
             l = re.sub('\.[0-7]', '', l)
+
+            # pass inter-page lines
+            if not l:
+                continue
 
         # 3. strip volume reference
             if vol:

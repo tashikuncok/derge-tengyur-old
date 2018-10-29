@@ -10,7 +10,7 @@ def extract_lines():
         {toh1: [(vol_id, line1), (vol_id, line2), ...], toh2: ...}
     """
     in_path = Path('../../derge-tengyur-tags')
-    files = in_path.glob('*.txt')
+    files = sorted(list(in_path.glob('*.txt')))
     # files = [in_path / '001_བསྟོད་ཚོགས།_ཀ.txt']
     missing_inc = 1
 
@@ -43,7 +43,7 @@ def extract_lines():
 
 def works_in_pages(works_in_lines):
     """
-    input:
+    nput:
         {toh1: [(vol_id, line1), (vol_id, line2), ...], toh2: ...}
 
     action:

@@ -202,6 +202,118 @@ def check_csv_line_nums():
            f'\n\t{len(total)} files have bad sequences:{out}\n'
 
 
+def check_csv_edition_notes():
+    global issues, files
+    """
+    Checks if every edition mentioned is followed by a string
+    """
+    total = []
+    for c in Csv:
+
+        raw_content = c.read_text(encoding='utf-8-sig')
+        if ';' in raw_content or ',,' in raw_content:
+            raw_content = raw_content.replace('; ', ',').replace(';', ',')
+            c.write_text(raw_content, encoding='utf-8-sig')
+
+        content = list(csv.reader(c.open(newline='')))
+        bad_lines = []
+        for num, row in enumerate(content[1:]):
+            if 'མཚན་བྱང་' in ','.join(row) or 'ཆོས་ཚན་' in ','.join(row):
+                continue
+            eds = row[4:11]
+            while eds and eds[-1] == '':
+                del eds[-1]
+
+            if len(eds) % 2 > 0:
+                bad_lines.append((num + 2, ','.join(row[4:11])))
+            else:
+                inc = 0
+                bad = False
+                while inc <= len(eds) - 1:
+                    if (not eds[inc].startswith('《') and not eds[inc].endswith('》')) \
+                            or (eds[inc+1] == '' and '《' in eds[inc] and '》' in eds[inc]):
+                        bad = True
+                    inc += 2
+                if bad:
+                    bad_lines.append((num + 2, ','.join(row[4:11])))
+        if bad_lines:
+            files[c.name] += 1
+            total.append((c.name, bad_lines))
+
+    # formatting
+    out = ''
+    for filename, pairs in total:
+        out += f'\n\t\t{filename}'
+        for line_num, extract in pairs:
+            out += f'\n\t\t\t\tline {line_num}: {extract}'
+    return f'\n6. Checking the format of notes:' \
+           f'\n\t{len(total)} files have badly formatted notes:{out}\n'
+
+
+def check_edition_strings():
+    global issues, files
+    """
+    Checks if every edition mentioned is followed by a string
+    """
+    total = []
+    for c in Csv:
+
+        raw_content = c.read_text(encoding='utf-8-sig')
+        if '《 ' in raw_content \
+                or ' 》' in raw_content \
+                or 'སྣར》' in raw_content \
+                or 'པེ》' in raw_content \
+                or '》 《' in raw_content \
+                or 'ཅོ》' in raw_content:
+            raw_content = raw_content\
+                .replace('《 ', '《')\
+                .replace(' 》', '》')\
+                .replace('སྣར》', 'སྣར་》')\
+                .replace('པེ》', 'པེ་》')\
+                .replace('》 《', '》《')\
+                .replace('ཅོ》', 'ཅོ་》')
+            c.write_text(raw_content, encoding='utf-8-sig')
+
+        content = list(csv.reader(c.open(newline='')))
+        bad_lines = []
+        for num, row in enumerate(content[1:]):
+            if 'མཚན་བྱང་' in ','.join(row) or 'ཆོས་ཚན་' in ','.join(row):
+                continue
+            eds = row[4:11]
+            while eds and eds[-1] == '':
+                del eds[-1]
+
+            else:
+                inc = 0
+                bad = False
+                while inc <= len(eds) - 1:
+                    ed = eds[inc]
+                    if ed.startswith('《') and ed.endswith('》'):
+                        if '》《' in ed:
+                            ed = ed.replace('》《', '\t')
+                        ed = ed.strip('《》')
+                        ed = ed.split('\t')
+
+                        for e in ed:
+                            if e not in ['སྡེ་', 'སྣར་', 'པེ་', 'ཅོ་']:
+                                bad = True
+                    inc += 2
+                if bad:
+                    bad_lines.append((num + 2, ','.join(row[4:11])))
+        if bad_lines:
+            files[c.name] += 1
+            total.append((c.name, bad_lines))
+
+    # formatting
+    out = ''
+    for filename, pairs in total:
+        out += f'\n\t\t{filename}'
+        for line_num, extract in pairs:
+            out += f'\n\t\t\t\tline {line_num}: {extract}'
+    return f'\n6a. Checking name of editions:' \
+           f'\n\t{len(total)} files have badly formatted notes:{out}\n'
+
+
 def check_csv_note_nums():
     global issues, files
     """
@@ -251,7 +363,7 @@ def check_csv_note_nums():
         out += f'\n\t\t{filename}'
         for note, prev, nxt in pairs:
             out += f'\n\t\t\t\tpage {note} — {prev}-->{nxt} (expected: {prev}-->{prev+1})'
-    return f'\n6. Checking note sequence in csv files:{out}\n'
+    return f'\n7. Checking note sequence in csv files:{out}\n'
 
 
 def check_note_quantities():
@@ -272,7 +384,7 @@ def check_note_quantities():
                          f'csv: {str(csv_num).zfill(5)} notes: {t.stem}')
             issues += abs(txt_num - csv_num)
             files[t.name] += 1
-    return f'\n7. Checking how many notes in txt and csv:' \
+    return f'\n8. Checking how many notes in txt and csv:' \
            f'\n\t{len(total)} files have problems.{"".join(total)}\n'
 
 
@@ -284,6 +396,8 @@ def generate_log():
     log += check_txt_note_sequence()
     log += check_csv_line_nums()
     log += check_csv_note_nums()
+    log += check_csv_edition_notes()
+    log += check_edition_strings()
     log += check_note_quantities()
     log = f'{issues} issues in {len(files)} files.\n\n{log}'
     Path('log.txt').write_text(log, encoding='utf-8-sig')
@@ -297,3 +411,9 @@ if __name__ == '__main__':
     txt = sorted(list(input_folder.glob('*.txt')))
     Csv = sorted(list(input_folder.glob('*.csv')))
     generate_log()
+    f_list = sorted(list(files.keys()))
+    Path('with_mistakes.txt').write_text('\n'.join(f_list))
+
+    pair_list = sorted(list(set([a.replace('.txt', '').replace('.csv', '') for a in f_list])))
+
+    Path('with_mistakes_pairs.txt').write_text('\n'.join(pair_list))

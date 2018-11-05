@@ -97,61 +97,32 @@ def works_stripped(works_in_lines):
             # escapes preceding lines
             if not is_beginning:
                 current_work.append(line)
-        works.append((work, current_work))
-    return works
 
-
-def strip_markup(works_stripped):
-    works = []
-    for work, lines in works_stripped:
-        # 1. strip toh
-        start, end = lines[0][1].find('{'), lines[0][1].find('}')
-        lines[0] = (lines[0][0], lines[0][1][:start] + lines[0][1][end+1:])
-
-        current_work = []
-        for num, line in enumerate(lines):
-            vol, l = None, None
-            if isinstance(line, tuple):
-                vol, l = line
+        empty_line = True
+        while empty_line:
+            to_check = current_work[-1]
+            if isinstance(to_check, tuple):
+                to_check = to_check[1]
+            if to_check.find(']') == len(to_check) - 1:
+                del current_work[-1]
             else:
-                l = line
-
-            if not l:  # hack to avoid tripping over empty files
-                continue
-
-        # 2. strip pagemarks except for page changes and the beginning of works
-            end = l.find(']')
-            if l[end-1] != '1' and num:
-                l = l[end+1:]
-
-            l = re.sub('\.[0-7]', '', l)
-
-            # pass inter-page lines
-            if not l:
-                continue
-
-        # 3. strip volume reference
-            if vol:
-                _, _, ref = vol.replace(' ', '_').split('_')
-                l = '[' + ref + '།' + l[1:]
-                current_work.append(l)
-            elif l:
-                current_work.append(l)
+                empty_line = False
 
         works.append((work, current_work))
     return works
 
 
-def strip_notemark(works):
-    out = []
-    for work, lines in works:
-        lines = [line.replace('#', '') for line in lines]
-        out.append((work, lines))
-    return out
+def flatten_for_output(works):
+    for name, work in works:
+        i = 0
+        while i < len(work):
+            if isinstance(work[i], tuple):
+                work[i] = '[{}]{}'.format(work[i][0], work[i][1])
+            i += 1
 
 
 def write_works(works):
-    out_path =Path('works')
+    out_path =Path('export')
     if not out_path.is_dir():
         out_path.mkdir(exist_ok=True)
 
@@ -164,6 +135,5 @@ if __name__ == '__main__':
     works = extract_lines()
     works = works_in_pages(works)
     works = works_stripped(works)
-    works = strip_markup(works)
-    works = strip_notemark(works)
+    flatten_for_output(works)
     write_works(works)

@@ -6,6 +6,7 @@ errors.txt
 .DS_Store
 
 *.tmp
+export/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

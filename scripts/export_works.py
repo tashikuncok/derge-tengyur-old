@@ -1,3 +1,4 @@
+import argparse
 from pathlib import Path
 import re
 
@@ -9,7 +10,7 @@ def extract_lines():
     return:
         {toh1: [(vol_id, line1), (vol_id, line2), ...], toh2: ...}
     """
-    in_path = Path('../../derge-tengyur-tags')
+    in_path = Path('../derge-tengyur-tags')
     files = sorted(list(in_path.glob('*.txt')))
     # files = [in_path / '001_བསྟོད་ཚོགས།_ཀ.txt']
     missing_inc = 1
@@ -43,7 +44,7 @@ def extract_lines():
 
 def works_in_pages(works_in_lines):
     """
-    nput:
+    input:
         {toh1: [(vol_id, line1), (vol_id, line2), ...], toh2: ...}
 
     action:
@@ -65,6 +66,9 @@ def works_in_pages(works_in_lines):
 
 
 def works_stripped(works_in_lines):
+    """
+    Strips the beginning and ending lines of the bits of the surrounding works
+    """
     works = []
     for work, lines in works_in_lines:
         current_work = []
@@ -113,6 +117,10 @@ def works_stripped(works_in_lines):
 
 
 def flatten_for_output(works):
+    """
+    turns the volume names either at work beginning or at volume change into strings.
+    The filename stem is included as volume indication.
+    """
     for name, work in works:
         i = 0
         while i < len(work):
@@ -131,9 +139,29 @@ def write_works(works):
         out_file.write_text('\n'.join(lines))
 
 
+def remove_markup(works):
+    out = []
+    for name, work in works:
+        current_work = []
+        for line in work:
+            line = re.sub(r'\[.*?\]', '', line)
+            line = re.sub(r'\{.*?\}', '', line)
+            line = line.replace('#', '')
+            current_work.append(line)
+        out.append((name, current_work))
+    return out
+
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--clean-content', help='"true" to clean the page and line markup')
+
 if __name__ == '__main__':
+    args = parser.parse_args()
+
     works = extract_lines()
     works = works_in_pages(works)
     works = works_stripped(works)
     flatten_for_output(works)
+    if bool(args.clean_content):
+        works = remove_markup(works)
     write_works(works)

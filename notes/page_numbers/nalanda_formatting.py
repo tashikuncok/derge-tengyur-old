@@ -122,7 +122,7 @@ def flatten_for_output(works):
 
 
 def write_works(works):
-    out_path =Path('export')
+    out_path = Path('export')
     if not out_path.is_dir():
         out_path.mkdir(exist_ok=True)
 
@@ -130,10 +130,69 @@ def write_works(works):
         out_file = out_path / str(work + '.txt')
         out_file.write_text('\n'.join(lines))
 
+def strip_markup(works_stripped):
+    works = []
+    for work, lines in works_stripped:
+        # 1. strip toh
+        start, end = lines[0][1].find('{'), lines[0][1].find('}')
+        lines[0] = (lines[0][0], lines[0][1][:start] + lines[0][1][end+1:])
+
+        current_work = []
+        for num, line in enumerate(lines):
+            vol, l = None, None
+            if isinstance(line, tuple):
+                vol, l = line
+            else:
+                l = line
+
+            if not l:  # hack to avoid tripping over empty files
+                continue
+
+        # 2. strip pagemarks except for page changes and the beginning of works
+            end = l.find(']')
+            if l[end-1] != '1' and num:
+                l = l[end+1:]
+
+            l = re.sub('\.[0-7]', '', l)
+
+            # pass inter-page lines
+            if not l:
+                continue
+
+        # 3. strip volume reference
+            if vol:
+                _, section, ref = vol.replace(' ', '_').split('_')
+                l = '[' + section + '_' + ref + '།_' + l[1:]
+                current_work.append(l)
+            elif l:
+                current_work.append(l)
+
+        works.append((work, current_work))
+    return works
+
+
+def strip_notemark(works):
+    out = []
+    for work, lines in works:
+        lines = [line.replace('#', '') for line in lines]
+        out.append((work, lines))
+    return out
+
+
+def strip_in_spaces(works):
+    out = []
+    for name, work in works:
+        content = ''.join(work)
+        chunks = [c.replace('_', ' ') for c in content.split(' ')]
+        out.append((name, chunks))
+    return out
+
 
 if __name__ == '__main__':
     works = extract_lines()
     works = works_in_pages(works)
     works = works_stripped(works)
-    flatten_for_output(works)
+    works = strip_markup(works)
+    works = strip_notemark(works)
+    works = strip_in_spaces(works)
     write_works(works)

@@ -1,4 +1,4 @@
-﻿147 issues in 169 files.
+﻿52 issues in 156 files.
 
 1. Checking file pairs:
 	0 txt files missing:
@@ -12,7 +12,7 @@
 	0 files have empty lines:
 
 3. Checking txt file format:
-	40 files are badly formatted:
+	39 files are badly formatted:
 		11-13_ཚད་མ་ཀུན་ལས་བཏུས་པའི་འགྲེལ་པ།.txt
 			n. 1628: "1628. "
 		15-8_འདུལ་བ་མདོའི་རྣམ་པར་བཤད་པ།.txt
@@ -70,9 +70,6 @@
 			n. 411: "411. "
 		T4037.txt
 			n. 3744: "3744. "
-		T4052.txt
-			n. 1130: "1130. "
-			n. 1131: "a"
 		T4058.txt
 			n. 34: "34. "
 		T4067.txt
@@ -103,120 +100,29 @@
 			0-->2 (expected: 0-->1)
 
 5. Checking line sequence in csv files:
-	5 files have bad sequences:
-		T3562.csv
-				1-->1 (expected: 1-->2)
-				1-->3 (expected: 1-->2)
-		T3836.csv
-				0--> (expected: 0-->1)
-		T3886.csv
-				1-->1 (expected: 1-->2)
-				1-->3 (expected: 1-->2)
-		T3956.csv
-				0-->མཆན་གྲངས། (expected: 0-->1)
-		T4038.csv
-				0-->ཤོག་གྲངས། (expected: 0-->1)
+	1 files have bad sequences:
+		T1778.csv
+				47--> (expected: 47-->48)
 
 7. Checking note sequence in csv files:
 
-	10 files have bad note sequences:
+	2 files have bad note sequences:
 		T1778.csv
-				page 1719 — 34-->1 (expected: 34-->35)
-				page 1720 — 0-->2 (expected: 0-->1)
-		T17840.csv
-				page 720 — 1-->3 (expected: 1-->2)
-				page 798 — 2-->2 (expected: 2-->3)
-				page 798 — 2-->4 (expected: 2-->3)
+				page 1720 — 0-->48 (expected: 0-->1)
+				page 1720 — 48-->2 (expected: 48-->49)
 		T1793a.csv
 				page 581 — 0-->4 (expected: 0-->1)
 				page 583 — 0-->3 (expected: 0-->1)
 				page 638 — 0-->6 (expected: 0-->1)
-				page 639 — 0-->3 (expected: 0-->1)
-				page 653 — 0-->8 (expected: 0-->1)
-				page 655 — 0-->5 (expected: 0-->1)
-				page 659 — 0-->2 (expected: 0-->1)
-				page 660 — 0-->3 (expected: 0-->1)
-				page 721 — 2-->2 (expected: 2-->3)
-				page 721 — 2-->4 (expected: 2-->3)
-				page 727 — 5-->7 (expected: 5-->6)
-				page 832 — 2--> (expected: 2-->3)
-				page 832 — 3-->3 (expected: 3-->4)
-				page 1207 — 6-->8 (expected: 6-->7)
-		T1793b.csv
-				page 47 — 2-->4 (expected: 2-->3)
-				page 113 — 5-->7 (expected: 5-->6)
-				page 168 — 5-->5 (expected: 5-->6)
-				page 199 — 8-->10 (expected: 8-->9)
-				page 259 — 4-->4 (expected: 4-->5)
-				page 265 — 6-->8 (expected: 6-->7)
-				page 292 — 6-->8 (expected: 6-->7)
-		T1892.csv
-				page 1184 — 0-->6 (expected: 0-->1)
-				page 1184 — 6-->1 (expected: 6-->7)
-				page 1185 — 0-->5 (expected: 0-->1)
-				page 1185 — 5-->1 (expected: 5-->6)
-				page 1186 — 0-->6 (expected: 0-->1)
-				page 1186 — 6-->1 (expected: 6-->7)
-				page 1187 — 0-->11 (expected: 0-->1)
-				page 1187 — 11-->1 (expected: 11-->12)
-				page 1188 — 0-->7 (expected: 0-->1)
-				page 1188 — 7-->1 (expected: 7-->8)
-				page 1189 — 0-->11 (expected: 0-->1)
-				page 1189 — 11-->1 (expected: 11-->12)
-				page 1190 — 0-->3 (expected: 0-->1)
-				page 1190 — 3-->1 (expected: 3-->4)
-				page 1191 — 0-->3 (expected: 0-->1)
-				page 1191 — 3-->1 (expected: 3-->4)
-				page 1192 — 0-->3 (expected: 0-->1)
-				page 1192 — 3-->1 (expected: 3-->4)
-				page 1193 — 0-->4 (expected: 0-->1)
-				page 1193 — 4-->1 (expected: 4-->5)
-				page 1194 — 0-->5 (expected: 0-->1)
-				page 1194 — 5-->1 (expected: 5-->6)
-				page 1195 — 0-->3 (expected: 0-->1)
-				page 1195 — 3-->1 (expected: 3-->4)
-				page 1196 — 0-->4 (expected: 0-->1)
-				page 1196 — 4-->1 (expected: 4-->5)
-				page 1197 — 0-->7 (expected: 0-->1)
-				page 1197 — 7-->1 (expected: 7-->8)
-				page 1198 — 0-->7 (expected: 0-->1)
-				page 1198 — 7-->1 (expected: 7-->8)
-				page 1199 — 0-->3 (expected: 0-->1)
-				page 1199 — 3-->1 (expected: 3-->4)
-				page 1200 — 0-->9 (expected: 0-->1)
-				page 1200 — 9-->1 (expected: 9-->10)
-				page 1201 — 0-->9 (expected: 0-->1)
-				page 1201 — 9-->1 (expected: 9-->10)
-		T3562.csv
-				page 918 — 0--> (expected: 0-->1)
-		T3867.csv
-				page 1719 — 5-->7 (expected: 5-->6)
-		T3886.csv
-				page 981 — 0-->  (expected: 0-->1)
-		T4306.csv
-				page 19 — 4-->3 (expected: 4-->5)
-		T4328.csv
-				page 1297 — 23-->23 (expected: 23-->24)
-				page 1297 — 23-->25 (expected: 23-->24)
 
 6. Checking the format of notes:
-	2 files have badly formatted notes:
-		T3867.csv
-				line 23: 《པེ་》,འཇིག་རྟེན་སྙད་དབང་གིས། །གསུང་གི།,《སྣར་》,,གིས། །གསུང་གི།
-		འཇམ་པའི་དབྱངས་དཔའ་བོ་གཅིག་ཏུ་གྲུབ་པའི་སྒྲུབས་ཐབས།.csv
-				line 3: 《པེ་》,ཡ་ཡ,དྷི་ཀ་བི་ར་མཉྫུ་ཤྲཱི་སཱ་དྷ་ན།,《སྣར་》,དྷཻ་ཀ་བཱི་ར་མཉྫུ་ཤྲཱིཿསཱ་དྷ་ནཾ།,,
+	1 files have badly formatted notes:
+		T1778.csv
+				line 48: 1,《པེ་》《སྣར་》,སྣོད།,,,,
 
 6a. Checking name of editions:
-	1 files have badly formatted notes:
-		T3961.csv
-				line 466: 《པེ་》《སྣར་བསྐྱར་ཟློས་》,འཕང་བར།,,,,,
-				line 467: 《པེ་》《སྣར་བསྐྱར་ཟློས་》,mཆེན་པོ་ནས་སེམས་ཅན་དམྱལ་བ།,,,,,
-				line 468: 《པེ་》《སྣར་བསྐྱར་ཟློས་》,mཐམས་ཅད།,,,,,
+	0 files have badly formatted notes:
 
 8. Checking how many notes in txt and csv:
-	5 files have problems.
-		002 missing. txt: 00006; csv: 00004 notes: 11-4_ཨེ་ཀ་ནཱ་ཐའི་དོན་འགྲེལ།
-		001 missing. txt: 00004; csv: 00003 notes: T1558
+	1 files have problems.
 		001 missing. txt: 00805; csv: 00806 notes: T3769
-		001 missing. txt: 00167; csv: 00166 notes: T3778
-		001 missing. txt: 01131; csv: 01130 notes: T4052

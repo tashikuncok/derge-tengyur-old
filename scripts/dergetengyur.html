@@ -71,6 +71,13 @@
             return res;
         }
 
+        function getS3ImageURL(volume, imageNum) {
+            var s3vol = pad(volume, 3, '0');
+            imageNum = imageNum -2; // no tbrc pages in the s3 images
+            var paddedImageNum = pad('' + imageNum, 4, '0');
+            return "https://s3.amazonaws.com/dtengyur/images/"+s3vol+"/"+paddedImageNum+".jpg"
+        }
+
         function printimage() {
             var volume = document.getElementById('volume').value;
             var page = document.getElementById('page').value;
@@ -84,14 +91,13 @@
                 var imageUrl = 'http://iiif.bdrc.io/image/v2/' + volIds[i] + '::' + imageNames[i] + '/full/full/0/default.jpg';
                 document.getElementById('theimage' + (i + 1)).src = imageUrl;
             }
+            document.getElementById('theimage2').src = getS3ImageURL(volume, imageNum);
         }
     </script>
 
     <img id="theimage1" />
 
     <img id="theimage2" />
-
-    <img id="theimage3" />
 </body>
 
 </html>

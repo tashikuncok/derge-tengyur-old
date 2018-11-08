@@ -61,6 +61,21 @@ We keep the original punctuation in parenthesis (see above) but normalize the fo
 These page numbering issues appear in the original scans and have been kept:
 - vol. 209 goes from page 87 to page 89, and from page 89 to page 91
 
+## Export works
+
+In order to export each work in a different file, run:
+
+        cd .scripts/
+        python3 export_works.py
+
+The output will be in `scripts/export`.
+
+The volume in which the work is found(the filename) is added on two occasions:
+at the beginning of each work and when there is a volume change within a single work.
+
+To get the raw text with no markup, run `python3 export_works.py --clean-content true`.
+
+
 # Feedback
 
 The files are on Github hoping they'll improve, don't hesitate to [report issues](https://github.com/Esukhia/derge-tengyur/issues) or even open a pull request!

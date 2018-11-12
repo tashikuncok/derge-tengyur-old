@@ -1,4 +1,4 @@
-﻿52 issues in 156 files.
+﻿49 issues in 155 files.
 
 1. Checking file pairs:
 	0 txt files missing:
@@ -100,25 +100,18 @@
 			0-->2 (expected: 0-->1)
 
 5. Checking line sequence in csv files:
-	1 files have bad sequences:
-		T1778.csv
-				47--> (expected: 47-->48)
+	0 files have bad sequences:
 
 7. Checking note sequence in csv files:
 
-	2 files have bad note sequences:
-		T1778.csv
-				page 1720 — 0-->48 (expected: 0-->1)
-				page 1720 — 48-->2 (expected: 48-->49)
+	1 files have bad note sequences:
 		T1793a.csv
 				page 581 — 0-->4 (expected: 0-->1)
 				page 583 — 0-->3 (expected: 0-->1)
 				page 638 — 0-->6 (expected: 0-->1)
 
 6. Checking the format of notes:
-	1 files have badly formatted notes:
-		T1778.csv
-				line 48: 1,《པེ་》《སྣར་》,སྣོད།,,,,
+	0 files have badly formatted notes:
 
 6a. Checking name of editions:
 	0 files have badly formatted notes:

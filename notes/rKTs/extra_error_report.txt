@@ -144,12 +144,14 @@ K2754
 	Q4755	དཔལ་གསང་བ་སྙིང་པོའི་དོན་བསྡུས་འགྲེལ་པིཎཌཱརཐ་???༼???ཞེས་བྱ་བ	rgyud 'grel, mu 1a1-26a6 (vol.83, p.177188)	dpal gsang ba snying po'i don bsdus 'grel piNDArtha (zhes bya ba
 
 K0795
-    D3760/4530	མཎཌལ་གྱི་ཆོ་ག	rgyud 'grel, , tshu 114b7-114b7.
     location should be: 114a4-114b7
 
+    D3760/4530	མཎཌལ་གྱི་ཆོ་ག	rgyud 'grel, , tshu 114b7-114b7.
+
 K0258
-	D1590	དཔལ་རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, A 107a7-110a2.
 	location should be: 'a
+
+	D1590	དཔལ་རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, A 107a7-110a2.
 
 K0266
     D1806 and Q2671 are different texts altogether. They do not pertain to K0266

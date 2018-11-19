@@ -12,31 +12,25 @@ def extract_lines():
     """
     in_path = Path('../derge-tengyur-tags')
     files = sorted(list(in_path.glob('*.txt')))
-    # files = [in_path / '001_བསྟོད་ཚོགས།_ཀ.txt']
-    missing_inc = 1
 
     works = []
-    prev_toh = ''
+    prev_ref = ''
     current_work = []
     for file in files:
         prefix = file.stem
         lines = [line.strip().strip('\ufeff') for line in file.open().readlines()]
         for line in lines:
-            toh = re.findall(r'\{(T[0-9]+)\}', line)
-            if toh:
-                toh = toh[0]
-                if prev_toh != '':
+            ref = re.findall(r'\{(.*?)\}', line)
+            if ref:
+                ref = ref[0]
+                if prev_ref != '':
                     current_work.append((prefix, line))
 
-                    if prev_toh == 'T00':
-                        prev_toh += str(missing_inc)
-                        missing_inc += 1
-
-                    works.append((prev_toh, current_work))
+                    works.append((prev_ref, current_work))
 
                 # initialize new work
                 current_work = [(prefix, line)]
-                prev_toh = toh
+                prev_ref = ref
             else:
                 current_work.append((prefix, line))
     return works
@@ -125,7 +119,7 @@ def flatten_for_output(works):
         i = 0
         while i < len(work):
             if isinstance(work[i], tuple):
-                work[i] = '[{}]{}'.format(work[i][0], work[i][1])
+                work[i] = '[{} {}'.format(work[i][0].split('_', 1)[1].replace('_', ' '), work[i][1][1:])
             i += 1
 
 

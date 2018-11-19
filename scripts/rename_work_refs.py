@@ -35,6 +35,7 @@ counters = {'ཚད།': 0,
             'སྤྲིང་།': 0,
             'བསྟོད།': 0}
 
+eq_table = []
 
 current_section = ''
 for f in in_files:
@@ -49,7 +50,7 @@ for f in in_files:
         text_count = 0
 
     content = f.read_text(encoding='utf-8-sig')
-    chunks = re.split(r'({.*?})', content)
+    chunks = re.split(r'({[A-Z].*?})', content)
     for i in range(1, len(chunks), 2):
         counters[section] += 1
         current = chunks[i]
@@ -57,7 +58,9 @@ for f in in_files:
         text_num = ''.join([bo_int[a] for a in text_num])
         ref = f'D{vol_num}_{section}_{vol_ltr}_{text_num}'
         chunks[i] = '{' + ref + '}'
+        eq_table.append((ref, current[1:-1]))
 
     f.write_text(''.join(chunks), encoding='utf-8-sig')
 
 print(counters)
+Path('old_new_names.tsv').write_text('\n'.join([a+'\t'+b for a, b in eq_table]))

@@ -20,14 +20,24 @@ def extract_lines():
         prefix = file.stem
         lines = [line.strip().strip('\ufeff') for line in file.open().readlines()]
         for line in lines:
-            ref = re.findall(r'{(D.*?a?)}', line)
+            ref = re.findall(r'{([DX].*?[ab]?)}', line)
             if ref:
-                ref = ref[0]
+                ### hack for case where two work refs are on the same line
+                if len(ref) == 2 and ref[0] != ref[1]:
+                    end_text, end_ref, start_text, start_ref, continue_text = re.split(r'{([DX].*?[ab]?)}', line)
+                    current_work.append((prefix, end_text))
+                    works.append((prev_ref, current_work))
+                    prev_ref = start_ref
+                    current_work = [(prefix, start_text)]
+                    current_work.append((prefix, continue_text))
+                    print('ok')
+                    continue
+                ### end of hack
                 if prev_ref != '':
                     current_work.append((prefix, line))
 
                     works.append((prev_ref, current_work))
-
+                ref = ref[0]
                 # initialize new work
                 current_work = [(prefix, line)]
                 prev_ref = ref
@@ -128,8 +138,9 @@ def write_works(works):
         out_path.mkdir(exist_ok=True)
 
     for work, lines in works:
-        out_file = out_path / str(work + '.txt')
-        out_file.write_text('\n'.join(lines))
+        if not work.startswith('X'):
+            out_file = out_path / str(work + '.txt')
+            out_file.write_text('\n'.join(lines))
 
 
 def remove_markup(works):

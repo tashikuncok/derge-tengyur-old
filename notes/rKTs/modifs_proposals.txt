@@ -1,0 +1,71 @@
+K0868 added
+	D2013a  དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་ཀྱི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་གསལ་བ་ཞེས་བྱ་བ་	rgyud 'grel, mi 235a6
+    
+K0868 added
+	D2013a  དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་ཀྱི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་གསལ་བ་ཞེས་བྱ་བ་	rgyud 'grel, mi 235a6
+
+K0988 ! yi ge bdun pa'i sgrub thabs
+	D2138	འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ཡི་གེ་བགུན་པའི་སྒྲུབ་ཐབས	rgyud 'grel, tshi 197b4-199a5.	'phags pa spyan ras gzigs dbang phyug yi ge bgun pa'i sgrub thabs
+
+??? added
+    D2177d  བསྡུས་པ་ལས་ཀྱི་སྦྱོར་ཀ 	rgyud 'grel, dzi 38a1-38a5
+
+K1025 line added
+	D2182	ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, dzi 38a5-39a2
+
+K1506 added
+    D2682a  རྡོ་རྗེ་རྣམ་པར་འཇོམས་པའི་གཟུངས་ཀྱི་འགྲེལ་པ་	rgyud 'grel, thu 221b2
+
+K1555 added
+    D2736a  འཕགས་པ་འཇིག་རྟེན་དབང་ཕྱུག་ཡི་གེ་དྲུག་པའི་སྒྲུབ་ཐབས  rgyud 'grel, nu
+
+K1562 1 != 2 != 3 ought to be different rkts
+	D2742	འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, nu 127b7-128a3.	'jig rten dbang phyug gi sgrub thabs
+	D2850	འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, nu 191b1-192a1.	'jig rten dbang phyug gi sgrub thabs
+	D3416	འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, mu 82a3-82a6.	'jig rten dbang phyug gi sgrub thabs
+
+K1672 Derge says: འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ཁརྦ་པཱ་ཎིའི་སྒྲུབ་ཐབས
+	D2852	འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག	rgyud 'grel, nu 194a2-195a1.	'phags pa spyan ras gzigs dbang phyug
+
+K1673 misspelling: 'phags pa yi ge drug pa'i
+	D2853	འཕགས་པ་ཡི་གེ་གྲུག་པའི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, nu 195a1-195b5.	'phags pa yi ge grug pa'i sgrub pa'i thabs
+
+K1711 1 is slightly different variant of 2 (only formulation, meaning is same)
+	D2888	ཕྱག་ན་རྡོ་རྗེའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག	rgyud 'grel, nu 235b2-240a3.	phyag na rdo rje'i dkyil 'khor gyi cho ga
+	D2894	ཕྱག་ན་རྡོ་རྗེའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག	rgyud 'grel, nu 244a5-246b5.	phyag na rdo rje'i dkyil 'khor gyi cho ga
+
+K2066 added
+    D3245a  དུག་སེལ་མའི་གཟུངས་  rgyud 'grel, bu 11b6
+
+??? same title as K2067, but not checked for duplicates
+	D3245b  འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, bu 12a3
+
+??? same title as K2113, not checked dupes
+    D1264a	ཧེ་རུ་ཀའི་སྒྲུབ་ཐབས	rgyud 'grel, ta 22b2
+
+K2580 location corrected
+	D3761	མཎཌལ་བྱ་བའི་ཆོ་ག	rgyud 'grel, tshu 114b7
+
+??? same title as K2580, yet different text
+	D3759a  མཎྜལ་གྱི་ཆོ་ག   rgyud 'grel, tshu 114a4
+
+???
+    D2177a  རྒྱས་པའི་སྦྱིན་སྲེག	rgyud 'grel, dzi 36b5
+
+???
+    D2177b  དབང་གི་སྦྱིན་སྲེག་སྦྱོར་ཀ	rgyud 'grel, dzi 37a6
+
+???
+    D2177c  གསད་པའི་སྦྱིན་སྲེག་སྦྱོར་ཀ rgyud 'grel, dzi 37b4
+
+K3362 line added
+	D4023	ཆོས་དང་ཆོས་ཉིད་རྣམ་པར་འབྱེད་པའི་ཚིག་ལེའུར་བྱས་པ	mdo 'grel (sems tsam), phi 50b1-53a
+
+K3363 line added
+	D4024	ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས	mdo 'grel (sems tsam), phi 54b1-73a
+
+???
+    D4086a  འཇིག་རྟེན་གཞག་པ mdo 'grel (mngon pa), i 1b1
+
+???
+    D4434a  འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱི་ཞལ་སྔ་ནས་མཛད་པའི་མན་ངག་ཟབ་མོ bstan bcos sna tshogs, circa 285

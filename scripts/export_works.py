@@ -20,7 +20,7 @@ def extract_lines():
         prefix = file.stem
         lines = [line.strip().strip('\ufeff') for line in file.open().readlines()]
         for line in lines:
-            ref = re.findall(r'\{(.*?)\}', line)
+            ref = re.findall(r'{(D.*?a?)}', line)
             if ref:
                 ref = ref[0]
                 if prev_ref != '':
@@ -75,7 +75,6 @@ def works_stripped(works_in_lines):
                     vol, l = line
 
                     # clean line
-                    l = l
                     end_pagemark = l.find(']')
                     start_toh = l.find('{')
                     if end_pagemark + 1 < start_toh:
@@ -141,6 +140,10 @@ def remove_markup(works):
             line = re.sub(r'\[.*?\]', '', line)
             line = re.sub(r'\{.*?\}', '', line)
             line = line.replace('#', '')
+
+            # temporary removal of unprocessed files
+            line = re.sub(r'^[0-9]+\.\s+', '', line)
+
             current_work.append(line)
         out.append((name, current_work))
     return out

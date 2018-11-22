@@ -45,7 +45,7 @@ error_regexps = [
         {"reg": re.compile(r"([^ །\(\)\[,]།[^ །\(\]\)༽,n]|(?:[^ངོེིུྃཾ]|ང[^ངོེིུྃཾ]|[^ང][ོེིུྃཾ])་།|(?:[^ཀགཤ།ོེིུྃཾ]|[ཀགཤ][^ཀགཤོེིུྃཾ]|[^ཀགཤ][ོེིུྃཾ]|[ཀགཤ][ོེིུྃཾ]།+)། །།|།།།)"), "msg": "༺ཚེག་ཤད་མི་འགྲིག་པ།༻ invalid shad sequence", "type": "punctuation"},
         {"reg": re.compile(r"[^ཀ-ྼ][ཱ-྄྆྇ྍ-ྼ]"), "msg": "༺ཁྲིམས་འགལ་ཡི་གེ།༻ invalid unicode combination sequence", "type": "invalid"},
         {"reg": re.compile(r"([^༄༅]༅|[^࿓࿔]࿔|[࿔༅][^།༅࿔])"), "msg": "༺ཡིག་མགོ་ཁྲིམས་འགལ།༻ invalid yigo", "type": "invalid"},
-        {"reg": re.compile(r"[^ༀ-࿚#-~ \[\]\{\}\.ऽ।ं]"), "msg": "༺བོད་ཡིན་མིན་པ།༻ invalid unicode characters (non-Tibetan, non-ascii)", "type": "invalid"},
+        {"reg": re.compile(r"[^ༀ-࿚#-~ \[\]\{\}\.ऽ।ं]"), "msg": "༺བོད་ཡིག་མིན་པ།༻ invalid unicode characters (non-Tibetan, non-ascii)", "type": "invalid"},
         {"reg": re.compile(r"([ྱུྲཿཾ྄ྃྭིྀ་ ])\1"), "msg": "༺དབྱངས་ཀྱི་སྐྱོན།༻ invalid double diactitic sign (shabkyu, gigu, etc.)", "type": "invalid"},
         {"reg": re.compile(r"[ༀ-༃༆-༊༎-༟ྰ]"), "msg": "༺ཡི་གེའི་དོགས་གཞི།༻ suspicious Tibetan character (mind 0FB0 vs. 0F71)", "type": "invalid"},
         {"reg": re.compile(r"([ཱ-྇][ྍ-ྼ]|[ི-྄]ཱ|[ྃཾཿ][ཱ-ཽྀ])"), "msg": "༺ཡི་གེ་གོ་རིམ་མི་འགྲིག་པ།༻ invalid character order (vowel before subscript)", "type": "invalid"},

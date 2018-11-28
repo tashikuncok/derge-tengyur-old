@@ -1,0 +1,26 @@
+K2067
+    D3365 != D3508 != D3510 != N4078
+        D3365	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, mu 41b4-42a3.	'phags ma dug sel ma'i sgrub thabs
+        D3508	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, mu 156b4-157a3.	'phags ma dug sel ma'i sgrub thabs
+        D3510	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, mu 157a7-157b3.	'phags ma dug sel ma'i sgrub thabs
+        G2070	ཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 365b1 (p.183-4-1)	phags ma dug sel ma'i sgrub thabs
+        N4078	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 278b-278b5. ((ff.278v-278v (pp.556-556)))	'phags ma dug sel ma'i sgrub thabs
+        N4196	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 47a4-47b3. (ff.47r-47v (pp.93-94))	'phags ma dug sel ma'i sgrub thabs
+        N4340	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 187b5-188a5. (ff.187v-188r (pp.376-377))	'phags ma dug sel ma'i sgrub thabs
+        N4342	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 188b3-188b7. (ff.188v-188v (pp.378-378))	'phags ma dug sel ma'i sgrub thabs
+        Q4068	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 292a7-292b4 (vol.80, p.197)	'phags ma dug sel ma'i sgrub thabs
+        Q4186	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 53a1-53b1 (vol.80, p.239)	'phags ma dug sel ma'i sgrub thabs
+        Q4330	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 202a6-202b7 (vol.81, p.5)	'phags ma dug sel ma'i sgrub thabs
+        Q4332	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 203a4-203b1 (vol.81, p.6)	'phags ma dug sel ma'i sgrub thabs
+
+K1506
+    N3521 != N3525
+        G1515	རྡོ་རྗེ་རྣམ་པར་འཇོམས་པའི་གཟུངས་ཀྱི་འགྲེལ་པ་	rgyud 'grel, chu 339b1 (p.171-2-1)	rdo rje rnam par 'joms pa'i gzungs kyi 'grel pa
+        N3521	རྡོ་རྗེ་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་འགྲེལ་པ	rgyud 'grel, chu 227b4-236b4. (ff.227v-236v (pp.454-472))	rdo rje rnam par 'joms pa zhes bya ba'i gzungs kyi 'grel pa
+        N3525	རྡོ་རྗེ་རྣམ་པར་འཇོམས་པའི་གཟུངས་ཀྱི་འགྲེལ་པ	rgyud 'grel, chu 248a4-251a7. (ff.248r-251r (pp.495-501))	rdo rje rnam par 'joms pa'i gzungs kyi 'grel pa
+        Q3507	རྡོ་རྗེ་རྣམ་པར་འཇོམས་པའི་གཟུངས་ཀྱི་འགྲེལ་པ	rgyud 'grel, chu 224b1-228a1 (vol.78, p.156)	rdo rje rnam par 'joms pa'i gzungs kyi 'grel pa
+
+
+K0453
+	D1321	མཁའ་འགྲོ་མ་རྡོ་རྗེ་གུར་གྱི་མཁའ་འགྲོ་རྣམ་པ་ལྔའི་སྒྲུབ་པའི་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, ta 248a4-254b1.
+	location should be: rgyud 'grel, ta 249a1-254b1

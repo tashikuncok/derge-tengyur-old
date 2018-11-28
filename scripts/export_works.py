@@ -12,31 +12,35 @@ def extract_lines():
     """
     in_path = Path('../derge-tengyur-tags')
     files = sorted(list(in_path.glob('*.txt')))
-    # files = [in_path / '001_བསྟོད་ཚོགས།_ཀ.txt']
-    missing_inc = 1
 
     works = []
-    prev_toh = ''
+    prev_ref = ''
     current_work = []
     for file in files:
         prefix = file.stem
         lines = [line.strip().strip('\ufeff') for line in file.open().readlines()]
         for line in lines:
-            toh = re.findall(r'\{(T[0-9]+)\}', line)
-            if toh:
-                toh = toh[0]
-                if prev_toh != '':
+            ref = re.findall(r'{([DX].*?[ab]?)}', line)
+            if ref:
+                ### hack for case where two work refs are on the same line
+                if len(ref) == 2 and ref[0] != ref[1]:
+                    end_text, end_ref, start_text, start_ref, continue_text = re.split(r'{([DX].*?[ab]?)}', line)
+                    current_work.append((prefix, end_text))
+                    works.append((prev_ref, current_work))
+                    prev_ref = start_ref
+                    current_work = [(prefix, start_text)]
+                    current_work.append((prefix, continue_text))
+                    print('ok')
+                    continue
+                ### end of hack
+                if prev_ref != '':
                     current_work.append((prefix, line))
 
-                    if prev_toh == 'T00':
-                        prev_toh += str(missing_inc)
-                        missing_inc += 1
-
-                    works.append((prev_toh, current_work))
-
+                    works.append((prev_ref, current_work))
+                ref = ref[0]
                 # initialize new work
                 current_work = [(prefix, line)]
-                prev_toh = toh
+                prev_ref = ref
             else:
                 current_work.append((prefix, line))
     return works
@@ -81,7 +85,6 @@ def works_stripped(works_in_lines):
                     vol, l = line
 
                     # clean line
-                    l = l
                     end_pagemark = l.find(']')
                     start_toh = l.find('{')
                     if end_pagemark + 1 < start_toh:
@@ -125,7 +128,7 @@ def flatten_for_output(works):
         i = 0
         while i < len(work):
             if isinstance(work[i], tuple):
-                work[i] = '[{}]{}'.format(work[i][0], work[i][1])
+                work[i] = '[{} {}'.format(work[i][0].split('_', 1)[1].replace('_', ' '), work[i][1][1:])
             i += 1
 
 
@@ -135,8 +138,9 @@ def write_works(works):
         out_path.mkdir(exist_ok=True)
 
     for work, lines in works:
-        out_file = out_path / str(work + '.txt')
-        out_file.write_text('\n'.join(lines))
+        if not work.startswith('X'):
+            out_file = out_path / str(work + '.txt')
+            out_file.write_text('\n'.join(lines))
 
 
 def remove_markup(works):
@@ -147,6 +151,10 @@ def remove_markup(works):
             line = re.sub(r'\[.*?\]', '', line)
             line = re.sub(r'\{.*?\}', '', line)
             line = line.replace('#', '')
+
+            # temporary removal of unprocessed files
+            line = re.sub(r'^[0-9]+\.\s+', '', line)
+
             current_work.append(line)
         out.append((name, current_work))
     return out

@@ -1,0 +1,2105 @@
+﻿K0024
+    D1133 != D1134
+
+	D1133	གནས་ཆེན་པོ་བརྒྱད་ཀྱི་མཆོད་རྟེན་ལ་བསྟོད་པ	བསྟོད་ཚོགས། ཀ། 81b2-82a3.
+	D1134	གནས་ཆེན་པོ་བརྒྱད་ཀྱི་མཆོད་རྟེན་ལ་བསྟོད་པ	བསྟོད་ཚོགས། ཀ། 82a2-82b3.
+	G24	གནས་ཆེན་པོ་བརྒྱད་ཀྱི་མཆོད་རྟེན་ལ་བསྟོད་པ་	bstod tshogs, ka 116b2 (p.59-3-2)	gnas chen po brgyad kyi mchod rten la bstod pa
+	N2024	གནས་ཆེན་པོ་བརྒྱད་ཀྱི་མཆོད་རྟེན་ལ་བསྟོད་པ	bstod tshogs, ka 90a3-90b5. (ff.90r-90v (pp.179-180))	gnas chen po brgyad kyi mchod rten la bstod pa
+	N2025	གནས་ཆེན་པོ་བརྒྱད་ཀྱི་མཆོད་རྟེན་ལ་བསྟོད་པ	bstod tshogs, ka 90b5-91a6. (ff.90v-91r (pp.180-181))	gnas chen po brgyad kyi mchod rten la bstod pa
+	Q2024	གནས་ཆེན་པོ་བརྒྱད་ཀྱི་མཆོད་རྟེན་ལ་བསྟོད་པ	bstod tshogs, ka 94a5-94b7 (vol.46, p.39)	gnas chen po brgyad kyi mchod rten la bstod pa
+	Q2025	གནས་ཆེན་པོ་བརྒྱད་ཀྱི་མཆོད་རྟེན་ལ་བསྟོད་པ	bstod tshogs, ka 94b7-95b1 (vol.46, p.40)	gnas chen po brgyad kyi mchod rten la bstod pa
+
+K0080
+    D1364 != D1367 != D1901
+
+	D1364	སྦྱོར་བ་ཡན་ལག་དྲུག་པ་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། པ། 183b-187b1.
+	D1367	སྦྱོར་བ་ཡན་ལག་དྲུག་པ་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། པ། 198b5-207a3.
+	D1901	སྦྱོར་བ་ཡན་ལག་དྲུག་པ་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། པི། 287a6-288b3.
+	G81	སྦྱོར་བ་ཡན་ལག་དྲུག་པ་ཞེས་བྱ་བ་	rgyud 'grel, nga 270b1-277a (p.137-1-1)	sbyor ba yan lag drug pa zhes bya ba
+	N2081	སྦྱོར་བ་ཡན་ལག་དྲུག་པ་ཞེས་བྱ་བ	rgyud 'grel, nga 199a7-204b1. (ff.199r-204v (pp.399-410))	sbyor ba yan lag drug pa zhes bya ba
+	N2084	སྦྱོར་བ་ཡན་ལག་དྲུག་པ་ཞེས་བྱ་བ	rgyud 'grel, nga 218b6-229a5. (ff.218v-229r (pp.438-459))	sbyor ba yan lag drug pa zhes bya ba
+	N2776	སྦྱོར་བ་ཡན་ལག་དྲུག་པ་ཞེས་བྱ་བ	rgyud 'grel, thi 331a4-332b1. (ff.331r-332v (pp. 661-664))	sbyor ba yan lag drug pa zhes bya ba
+	Q2080	སྦྱོར་བ་ཡན་ལག་དྲུག་པ་ཞེས་བྱ་བ	rgyud 'grel, nga 202a6-206b6 (vol.47, p.227)	sbyor ba yan lag drug pa zhes bya ba
+	Q2083	སྦྱོར་བ་ཡན་ལག་དྲུག་པ་ཞེས་བྱ་བ	rgyud 'grel, nga 220a4-230a5 (vol.47, p.234)	sbyor ba yan lag drug pa zhes bya ba
+	Q2765	སྦྱོར་བ་ཡན་ལག་དྲུག་པ་ཞེས་བྱ་བ	rgyud 'grel, thi 349a3-350b2 (vol.66, p.58)	sbyor ba yan lag drug pa zhes bya ba
+
+K0099
+    D1384 != D1385 != D4455
+
+	D1384	དཔལ་དུས་ཀྱི་འཁོར་ལོའི་རྩིས་ཀྱི་མན་ངག་ཅེས་བྱ་བ	རྒྱུད་འགྲེལ། པ། 281a6-282b2.
+	D1385	དཔལ་དུས་ཀྱི་འཁོར་ལོའི་རྩིས་ཀྱི་མན་ངག་ཅེས་བྱ་བ	རྒྱུད་འགྲེལ། པ། 282b2-283a4.
+	D4455	དུས་ཀྱི་འཁོར་ལོའི་རྩིས་ཀྱི་མན་ངག	མདོ་འགྲེལ་༼བསྟན་བཅོས་སྣ་ཚོགས༽། པོ། 242a-253a
+	G100	དཔལ་དུས་ཀྱི་འཁོར་ལོའི་རྩིས་ཀྱི་མན་ངག་ཅེས་བྱ་བ་	rgyud 'grel, nga 434a6-436a (p.218-1-6)	dpal dus kyi 'khor lo'i rtsis kyi man ngag ces bya ba
+	N2100	དཔལ་དུས་ཀྱི་འཁོར་ལོའི་རྩིས་ཀྱི་མན་ངག་ཅེས་བྱ་བ	rgyud 'grel, nga 320b1-321b7. (ff.320v-321v (pp.642-644))	dpal dus kyi 'khor lo'i rtsis kyi man ngag ces bya ba
+	N2101	དཔལ་དུས་ཀྱི་འཁོར་ལོའི་རྩིས་ཀྱི་མན་ངག་ཅེས་བྱ་བ	rgyud 'grel, nga 321b7-322b4. (ff.321v-322v (pp.644-646))	dpal dus kyi 'khor lo'i rtsis kyi man ngag ces bya ba
+	Q2099	དཔལ་དུས་ཀྱི་འཁོར་ལོའི་རྩིས་ཀྱི་མན་ངག་ཅེས་བྱ་བ	rgyud 'grel, nga 315b1-316b8 (vol.47, p.272)	dpal dus kyi 'khor lo'i rtsis kyi man ngag ces bya ba
+	Q2100	དཔལ་དུས་ཀྱི་འཁོར་ལོའི་རྩིས་ཀྱི་མན་ངག་ཅེས་བྱ་བ	rgyud 'grel, nga 316b8-317b4 (vol.47, p.272)	dpal dus kyi 'khor lo'i rtsis kyi man ngag ces bya ba
+	Q5900	དུས་ཀྱི་འཁོར་ལོའི་རྩིས་ཀྱི་མན་ངག	ngo mtshar bstan bcos, po 266b2-279a8 (vol.149, p.126-131)	dus kyi 'khor lo'i rtsis kyi man ngag
+
+K0156
+    1 != 2 != 3 != 4 != 5 != 6 != 7
+
+	D1231	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཉ། 43a1-45a4.
+	D1439	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག	རྒྱུད་འགྲེལ། ཝ། 238b2-239b2.
+	D1955	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། མི། 81a2-83b4.
+	D2176	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག	རྒྱུད་འགྲེལ། ཛི། 31a6-35a4.
+	D2491	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཟི། 243b3-245b2.
+	D2492	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག	རྒྱུད་འགྲེལ། ཟི། 245b2-247b6.
+	D2493	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག	རྒྱུད་འགྲེལ། ཟི། 247b6-249a1.
+	G158	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག་	rgyud 'grel, na 337a4-338b (p.168-2-4)	tshogs kyi 'khor lo'i cho ga
+	N2158	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག	rgyud 'grel, na 258b3-259b5. (ff.258v-259v (pp.516-518))	tshogs kyi 'khor lo'i cho ga
+	N2371	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, zha 45a2-47a5. (ff.45r-47r (pp.89-93))	tshogs kyi 'khor lo'i cho ga zhes bya ba
+	N2831	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, pi 86a6-89a6. (ff.86r-89r (pp.171-177))	tshogs kyi 'khor lo'i cho ga zhes bya ba
+	N3036	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག	rgyud 'grel, bi 33b1-37b1. (ff.33v-37r (pp.66-73))	tshogs kyi 'khor lo'i cho ga
+	N3330	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, tshi 262b6-265a3. (ff.262v-265r (pp.524-529))	tshogs kyi 'khor lo'i cho ga zhes bya ba
+	N3331	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག	rgyud 'grel, tshi 265a3-267b5. (ff.265r-267v (pp.529-534))	tshogs kyi 'khor lo'i cho ga
+	N3332	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག	rgyud 'grel, tshi 267b5-269a2. (ff.267v-269r (pp.534-537))	tshogs kyi 'khor lo'i cho ga
+	Q2156	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག	rgyud 'grel, na 278a1-279a4 (vol.51, p.183)	tshogs kyi 'khor lo'i cho ga
+	Q2360	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, zha 48a6-50b7 (vol.56, p.101)	tshogs kyi 'khor lo'i cho ga zhes bya ba
+	Q2820	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, pi 98b3-102a4 (vol.67, p.77)	tshogs kyi 'khor lo'i cho ga zhes bya ba
+	Q3024	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག	rgyud 'grel, bi 37b8-42b7 (vol.68, p.115)	tshogs kyi 'khor lo'i cho ga
+	Q3317	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, tshi 302a6-304b5 (vol.70, p.23)	tshogs kyi 'khor lo'i cho ga zhes bya ba
+	Q3318	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག་༼གཎཅཀྲབི༹དྷི༽	rgyud 'grel, tshi 304b5-307b2 (vol.70, p.24)	tshogs kyi 'khor lo'i cho ga (gaNacakravidhi)
+	Q3319	ཚོགས་ཀྱི་འཁོར་ལོའི་ཆོ་ག	rgyud 'grel, tshi 307b2-309a2 (vol.70, p.26)	tshogs kyi 'khor lo'i cho ga
+
+K0165
+	1 == 2
+
+	D1447	དཔལ་བདེ་མཆོག་འཁོར་ལོའི་སྦྱིན་སྲེག་གི་ཆོ་ག	རྒྱུད་འགྲེལ། ཝ། 292b7-298b2.
+	D1537	དཔལ་བདེ་མཆོག་འཁོར་ལོའི་སྦྱིན་སྲེག་གི་ཆོ་ག	རྒྱུད་འགྲེལ། ཟ། 112a1-117b2.
+	G167	དཔལ་བདེ་མཆོག་འཁོར་ལོའི་སྦྱིན་སྲེག་གི་ཆོ་ག་	rgyud 'grel, na 445b1-455b (p.223-1-1)	dpal bde mchog 'khor lo'i sbyin sreg gi cho ga
+	N2167	དཔལ་བདེ་མཆོག་འཁོར་ལོའི་སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, na 338a5-345b4. (ff.338r-345v (pp.675-690))	dpal bde mchog 'khor lo'i sbyin sreg gi cho ga
+	N2250	དཔལ་བདེ་མཆོག་འཁོར་ལོའི་སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, pha 115a4-121a2. (ff.115r-121r (pp.235-247))	dpal bde mchog 'khor lo'i sbyin sreg gi cho ga
+	Q2165	དཔལ་བདེ་མཆོག་འཁོར་ལོའི་སྦྱིན་སྲེག་གི་ཆ་ག	rgyud 'grel, na 363a4-371b4 (vol.51, p.217)	dpal bde mchog 'khor lo'i sbyin sreg gi cha ga
+	Q2248	དཔལ་བདེ་མཆོག་འཁོར་ལོའི་སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, pha 128b7-135b6 (vol.52, p.161)	dpal bde mchog 'khor lo'i sbyin sreg gi cho ga
+
+K0170
+    1 != 2 != 3
+
+	D1453	ཡི་གེ་བདུན་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཝ། 367b3-371a7.
+	D1461	ཡི་གེ་བདུན་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཞ། 10b7-11b7.
+	D1483	ཡི་གེ་བདུན་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཞ། 130a7-133b1.
+	G172	ཡི་གེ་བདུན་པའི་སྒྲུབ་ཐབས་	rgyud 'grel, na 499b1-505a (p.249-3-1)	yi ge bdun pa'i sgrub thabs
+	N2172	ཡི་གེ་བདུན་པའི་སྒྲུབ་ཐབས	rgyud 'grel, na 375b1-380a3. (ff.375v-380v (pp.750-760))	yi ge bdun pa'i sgrub thabs
+	N2180	ཡི་གེ་བདུན་པའི་སྒྲུབ་ཐབས	rgyud 'grel, pa 12b6-13b7. (ff.12v-13v (pp.24-26))	yi ge bdun pa'i sgrub thabs
+	N2202	ཡི་གེ་བདུན་པའི་སྒྲུབ་ཐབས	rgyud 'grel, pa 145b3-149a6. (ff.145v-149r (pp.369-297))	yi ge bdun pa'i sgrub thabs
+	N5165	ཡི་གེ་བདུན་པའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 183a-184b. (ff.183r-184v (pp.365-368))	yi ge bdun pa'i sgrub thabs
+	Q2170	ཡི་གེ་བདུན་པའི་སྒྲུབ་ཐབས	rgyud 'grel, na 405b2-410a8 (vol.51, p.234)	yi ge bdun pa'i sgrub thabs
+	Q2178	ཡི་གེ་བདུན་པའི་སྒྲུབ་ཐབས	rgyud 'grel, pa 13a6-14b2 (vol.51, p.243)	yi ge bdun pa'i sgrub thabs
+	Q2200	ཡི་གེ་བདུན་པའི་སྒྲུབ་ཐབས	rgyud 'grel, pa 140a2-143a8 (vol.51, p.294)	yi ge bdun pa'i sgrub thabs
+	Q5157	ཡི་གེ་བདུན་པའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 186b2-187b6 (vol.87, p.248-249)	yi ge bdun pa'i sgrub thabs
+
+K0214
+    1 != 2
+
+	D1499	དབང་གི་རབ་ཏུ་བྱེད་པ	རྒྱུད་འགྲེལ། ཞ། 226b4-250a6.
+	D1886	དབང་གི་རབ་ཏུ་བྱེད་པ	རྒྱུད་འགྲེལ། པི། 173a7-184a4.
+	G216	དབང་གི་རབ་ཏུ་བྱེད་པ་	rgyud 'grel, pa pa 308b1-341b (p.155-3-1)	dbang gi rab tu byed pa
+	N2216	དབང་གི་རབ་ཏུ་བྱེད་པ	rgyud 'grel, pa pa 244b2-272b6. (ff.244v-272v (pp.488-544))	dbang gi rab tu byed pa
+	N2761	དབང་གི་རབ་ཏུ་བྱེད་པ	rgyud 'grel, thi 191a4-204a5. (ff.191r-204r (pp.381-407))	dbang gi rab tu byed pa
+	N4618	དབང་གི་རབ་ཏུ་བྱེད་པ	rgyud 'grel, pu 13a-22a. (ff.13r-22r (pp.25-43))	dbang gi rab tu byed pa
+	Q2214	དབང་གི་རབ་ཏུ་བྱེད་པ	rgyud 'grel, pa 232a7-261b3 (vol.52, p.34)	dbang gi rab tu byed pa
+	Q2750	དབང་གི་རབ་ཏུ་བྱེད་པ	rgyud 'grel, thi 205a1-218a4 (vol.66, p.1)	dbang gi rab tu byed pa
+	Q4609	དབང་གི་རབ་ཏུ་བྱེད་པ	rgyud 'grel, pu 12b1-20b8 (vol.81, p.293-296)	dbang gi rab tu byed pa
+
+K0217
+    1 != 2 != 3 != 4 != 5 != 6 != 7 != 8
+
+	D1223	སྦྱིན་སྲེག་གི་ཆོ་ག	རྒྱུད་འགྲེལ། ཉ། 23a4-26b7.
+	D1502	སྦྱིན་སྲེག་གི་ཆོ་ག	རྒྱུད་འགྲེལ། ཞ། 256b1-259b3.
+	D1825	སྦྱིན་སྲེག་གི་ཆོ་ག	རྒྱུད་འགྲེལ། ངི། 279a3-284a7.
+	D2119	སྦྱིན་སྲེག་གི་ཆོ་ག	རྒྱུད་འགྲེལ། ཚི། 159a1-160a7.
+	D2525	སྦྱིན་སྲེག་གི་ཆོ་ག	རྒྱུད་འགྲེལ། ཀུ། 161b2-168b4.
+	D2659	སྦྱིན་སྲེག་གི་ཆོ་ག	རྒྱུད་འགྲེལ། ཇུ། 311a7-311b7.
+	D2844	སྦྱིན་སྲེག་གི་ཆོ་ག	རྒྱུད་འགྲེལ། ནུ། 183a4-183b6.
+	D2935	སྦྱིན་སྲེག་གི་ཆོ་ག	རྒྱུད། ནུ། 345a7-345a7.
+	G219	སྦྱིན་སྲེག་གི་ཆོ་ག་	rgyud 'grel, pa 352b1-357a (p.177-3-1)	sbyin sreg gi cho ga
+	N2219	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, pa 280a4-284a1. (ff.280r-284r (pp.559-567))	sbyin sreg gi cho ga
+	N2363	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, zha 25b7-28b6. (ff.25v-28v (pp.50-56))	sbyin sreg gi cho ga
+	N2701	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, gi 264b3-271a6. (ff.264v-271r (pp.528-541))	sbyin sreg gi cho ga
+	N2981	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, phi 177b5-179b1. (ff.177v-179v (pp.354-358))	sbyin sreg gi cho ga
+	N3037	སྦྱིན་སྲེག་ཀྱི་གི་ཆོ་ག	rgyud 'grel, bi 37b1-40b2. (ff.37v-40v (pp.74-80))	sbyin sreg kyi gi cho ga
+	N3361	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, shi 167b3-174b6. (ff.167v-174v (pp.334-348))	sbyin sreg gi cho ga
+	N3496	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, gu 326b3-327a5. (ff.326v-327r (pp.652-653))	sbyin sreg gi cho ga
+	N3681	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, nyu 247b4-248a6. (ff.247v-248r (pp.494-495))	sbyin sreg gi cho ga
+	N3772	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, nyu 422a1-422a6. (ff.422r-422r (pp.843-843))	sbyin sreg gi cho ga
+	N4871	བྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, zu 169a-170a. (ff.169r-170r (pp.337-339))	byin sreg gi cho ga
+	N5161	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, lu 175a-176a. (ff.175r-176r (pp.349-351))	sbyin sreg gi cho ga
+	Q2217	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, pa 269a6-273a4 (vol.52, p.48)	sbyin sreg gi cho ga
+	Q2352	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, zha 27a8-30b6 (vol.56, p.93)	sbyin sreg gi cho ga
+	Q2689	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, gi 266b8-273a7 (vol.62, p.59)	sbyin sreg gi cho ga
+	Q2970	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, phi 192a6-194a4 (vol.68, p.5)	sbyin sreg gi cho ga
+	Q3025	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, bi 42b7-46b6 (vol.68, p.117)	sbyin sreg gi cho ga
+	Q3348	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, shi 184b8-192b7 (vol.74, p.76)	sbyin sreg gi cho ga
+	Q3483	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, gu 343a4-343b7 (vol.77, p.63)	sbyin sreg gi cho ga
+	Q3665	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, nyu 213a8-214a3 (vol.79, p.131)	sbyin sreg gi cho ga
+	Q3762	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, nyu 405a4-405b2 (vol.79, p.208)	sbyin sreg gi cho ga
+	Q4861	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, zu 170a4-171a5 (vol.86, p.120)	sbyin sreg gi cho ga
+	Q5153	སྦྱིན་སྲེག་གི་ཆོ་ག	rgyud 'grel, lu 178a4-179a5 (vol.87, p.245)	sbyin sreg gi cho ga
+
+K0258
+    1 != 2
+
+	D1550	དཔལ་རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཟ། 197a5-199a4.
+	D1590	དཔལ་རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཨཱ། 107a7-110a2.
+	G260	དཔལ་རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, pha 283b1-286a (p.143-2-1)	dpal rdo rje rnal 'byor ma'i sgrub thabs
+	N2260	དཔལ་རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, pha 209b4-212a1. (ff.209v-212r (pp.424-429))	dpal rdo rje rnal 'byor ma'i sgrub thabs
+	N2303	དཔལ་རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, pha 389a4-392a4. (ff.389r-392r (pp.783-789))	dpal rdo rje rnal 'byor ma'i sgrub thabs
+	N4683	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, phu 23a-24b. (ff.23r-24v (pp.45-48))	rdo rje rnal 'byor ma'i sgrub thabs
+	Q2258	དཔལ་རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, pha 229b4-232a1 (vol.52, p.202)	dpal rdo rje rnal 'byor ma'i sgrub thabs
+	Q2301	དཔལ་རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, pha 425a8-428b4 (vol.52, p.280)	dpal rdo rje rnal 'byor ma'i sgrub thabs
+	Q4674	༼དཔལ་༽རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, phu 22b3-24a3 (vol.82, p.113)	(dpal )rdo rje rnal 'byor ma'i sgrub thabs
+
+K0266
+    1 != 2 != 3 != 4 != 5 != 6
+
+	D1558	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཟ། 214a5-215b5.
+	D1570	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཟ། 245b5-248a5.
+	D1579	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཨཱ། 10a5-10b4.
+	D1581	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཨཱ། 16b2-25a7.
+	D1806	མངོན་པར་བྱང་ཆུབ་པའི་རིམ་པའི་མན་ངག	རྒྱུད་འགྲེལ། ངི། 114b1-117a2.
+	D3301	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 43a4-43b7.
+	G268	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, pha 315b1-318b (p.159-2-1)	rdo rje rnal 'byor ma'i sgrub thabs
+	N2268	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, pha 229b4-232b1. (ff.229v-232v (pp.464-470))	rdo rje rnal 'byor ma'i sgrub thabs
+	N2280	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, pha 266a1-268b6. (ff.266r-268v (pp.537-542))	rdo rje rnal 'byor ma'i sgrub thabs zhes bya ba
+	N2292	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, pha 284b2-285a3. (ff.284v-285r (pp.574-575))	rdo rje rnal 'byor ma'i sgrub thabs
+	N2294	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, pha 291a1-300a6. (ff.291r-300r (pp.587-605))	rdo rje rnal 'byor ma'i sgrub thabs zhes bya ba
+	N2683	མངོན་པར་བྱང་ཆུབ་པའི་རིམ་པའི་མན་ངག	rgyud 'grel, gi 127a7-130a6. (ff.127r-130r (pp.253-259))	mngon par byang chub pa'i rim pa'i man ngag
+	N4133	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 315a3-316a1. (ff.315r-316r (pp.629-631))	rdo rje rnal 'byor ma'i sgrub thabs
+	N4682	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, phu 22b-23a. (ff.22v-23r (pp.44-45))	rdo rje rnal 'byor ma'i sgrub thabs
+	N4695	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, phu 60b-62a. (ff.60v-62r (pp.120-123))	rdo rje rnal 'byor ma'i sgrub thabs
+	N5139	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 158a-159a. (ff.158r-159r (pp.315-317))	rdo rje rnal 'byor ma'i sgrub thabs
+	N5140	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 159a-159b. (ff.159r-159v (pp.317-318))	rdo rje rnal 'byor ma'i sgrub thabs
+	N5142	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 160a-160b. (ff.160r-160v (pp.319-320))	rdo rje rnal 'byor ma'i sgrub thabs
+	N5143	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 160b-161a. (ff.160v-161r (pp.320-321))	rdo rje rnal 'byor ma'i sgrub thabs
+	Q2266	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, pha 250b1-253a7 (vol.52, p.210)	rdo rje rnal 'byor ma'i sgrub thabs
+	Q2278	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, pha 289b4-293a2 (vol.52, p.226)	rdo rje rnal 'byor ma'i sgrub thabs zhes bya ba
+	Q2290	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, pha 309b2-310a3 (vol.52, p.234)	rdo rje rnal 'byor ma'i sgrub thabs
+	Q2292	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, pha 317a1-327b2 (vol.52, p.237)	rdo rje rnal 'byor ma'i sgrub thabs zhes bya ba
+	Q2671	མངོན་པར་བྱང་ཆུབ་པའི་རིམ་པའི་མན་ངག	rgyud 'grel, gi 130a4-132b8 (vol.62, p.4)	mngon par byang chub pa'i rim pa'i man ngag
+	Q4123	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 331b4-332b4 (vol.80, p.212)	rdo rje rnal 'byor ma'i sgrub thabs
+	Q4673	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, phu 22a2-22b3 (vol.82, p.113)	rdo rje rnal 'byor ma'i sgrub thabs
+	Q4686	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, phu 64b2-65b7 (vol.82, p.130)	rdo rje rnal 'byor ma'i sgrub thabs
+	Q5131	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 161a6-162a3 (vol.87, p.238-239)	rdo rje rnal 'byor ma'i sgrub thabs
+	Q5132	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 162a3-162b8 (vol.87, p.239)	rdo rje rnal 'byor ma'i sgrub thabs
+	Q5134	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 163a5-163b7 (vol.87, p.239)	rdo rje rnal 'byor ma'i sgrub thabs
+	Q5135	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 163b7-164a7 (vol.87, p.239)	rdo rje rnal 'byor ma'i sgrub thabs
+
+K0279
+    all different
+
+	D1571	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཟ། 248a5-249a1.
+	D1572	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཟ། 249a1-249a7.
+	D2328	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཞི། 269a2-269b4.
+	D3295	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 35b7-39a.
+	D3297	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 39b7-41a3.
+	D3299	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 41b4-42a4.
+	D3396	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 58a7-58b4.
+	D3607	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 229b2-230b5.
+	G281	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས་	rgyud 'grel, pha 372b1-373b (p.187-3-1)	rdo rje phag mo'i sgrub thabs
+	N2281	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, pha 268b6-269b1. (ff.268v-269v (pp.542-544))	rdo rje phag mo'i sgrub thabs
+	N2282	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, pha 269b2-269b7. (ff.269v-269v (pp.544-544))	rdo rje phag mo'i sgrub thabs
+	N3180	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, tsi 274a6-275a3. (ff.274r-275r (pp.547-549))	rdo rje phag mo'i sgrub thabs
+	N4128	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 306a6-311a3. (ff.306r-311r (pp.611-621))	rdo rje phag mo'i sgrub thabs
+	N4129	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 311a3-312b3. (ff.311r-312v (pp.621-624))	rdo rje phag mo'i sgrub thabs
+	N4131	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 313a5-313b7. (ff.313r-313v (pp.624-626))	rdo rje phag mo'i sgrub thabs
+	N4227	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 67a6-67b4. (ff.67r-67v(p.133-134))	rdo rje phag mo'i sgrub thabs
+	N4439	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 272b2-273b7. (ff.272v-273v (pp.546-548))	rdo rje phag mo'i sgrub thabs
+	N5137	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 156b-157a. (ff.156v-157r (pp.312-313))	rdo rje phag mo'i sgrub thabs
+	N5141	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 159b-160a. (ff.159v-160r (pp.318-319))	rdo rje phag mo'i sgrub thabs
+	Q2279	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, pha 293a3-293b8 (vol.52, p.227)	rdo rje phag mo'i sgrub thabs
+	Q2280	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, pha 294a1-294b3 (vol.52, p.227)	rdo rje phag mo'i sgrub thabs
+	Q3167	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, tsi 286b2-287a8 (vol.69, p.186)	rdo rje phag mo'i sgrub thabs
+	Q4118	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 322b3-327b3 (vol.80, p.209)	rdo rje phag mo'i sgrub thabs
+	Q4119	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 327b3-329a3 (vol.80, p.211)	rdo rje phag mo'i sgrub thabs
+	Q4121	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 329b7-330b1 (vol.80, p.212)	rdo rje phag mo'i sgrub thabs
+	Q4217	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 74a7-74b4 (vol.80, p.247-248)	rdo rje phag mo'i sgrub thabs
+	Q4429	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 298b1-300a3 (vol.81, p.44)	rdo rje phag mo'i sgrub thabs
+	Q5129	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 159b3-160a4 (vol.87, p.238)	rdo rje phag mo'i sgrub thabs
+	Q5133	རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 162b8-163a5 (vol.87, p.239)	rdo rje phag mo'i sgrub thabs
+
+K0342
+    1 != 2
+
+	D1212	དུར་ཁྲོད་བརྒྱད་ཅེས་བྱ་བ	རྒྱུད་འགྲེལ། ཇ། 313b2-314a2.
+	D1213	དུར་ཁྲོད་བརྒྱད་ཅེས་བྱ་བ	རྒྱུད་འགྲེལ། ཇ། 314a2-314b1.
+	G347	དུར་ཁྲོད་བརྒྱད་ཅེས་བྱ་བ་	rgyud 'grel, wa 444a2-444b (p.222-1-2)	dur khrod brgyad ces bya ba
+	N2353	དུར་ཁྲོད་བརྒྱད་ཅེས་བྱ་བ	rgyud 'grel, wa 354a5-354b6. (ff.354r-354v (pp.707-708))	dur khrod brgyad ces bya ba
+	N2354	དུར་ཁྲོད་བརྒྱད་ཅེས་བྱ་བ་༼ཕ༹ཕ༹༣༥༤བ༹-༣༥༥ར་༼པཔ༧༠༨-༧༠༩༽༽	rgyud 'grel, wa 354b6-355a7.	dur khrod brgyad ces bya ba (ff.354v-355r (pp.708-709))
+	Q2342	དུར་ཁྲོད་བརྒྱད་ཅེས་བྱ་བ	rgyud 'grel, wa 355b2-356a3 (vol.56, p.75)	dur khrod brgyad ces bya ba
+	Q2343	དུར་ཁྲོད་བརྒྱད་ཅེས་བྱ་བ	rgyud 'grel, wa 356a3-356b4 (vol.56, p.75)	dur khrod brgyad ces bya ba
+
+K0347
+    1!=2!=3
+
+	D1218	དཔལ་དགྱེས་པ་རྡོ་རྗེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཉ། 1b1-7a2.
+	D1249	དཔལ་དགྱེས་པ་རྡོ་རྗེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཉ། 209b7-210b7.
+	D1292	དཔལ་དགྱེས་པ་རྡོ་རྗེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཏ། 151b7-154a2.
+	G352	དཔལ་དགྱེས་པ་རྡོ་རྗེའི་སྒྲུབ་ཐབས་	rgyud 'grel, zha 1b1-9b (p.1-2-1)	dpal dgyes pa rdo rje'i sgrub thabs
+	N2358	དཔལ་དགྱེས་པ་རྡོ་རྗེའི་སྒྲུབ་ཐབས	rgyud 'grel, zha 1-8b7. (ff.1r-8v (pp.1-16))	dpal dgyes pa rdo rje'i sgrub thabs
+	N2389	དཔལ་དགྱེས་པ་རྡོ་རྗེའི་སྒྲུབ་ཐབས	rgyud 'grel, zha 226b3-227b4. (ff.226v-227v (pp.452-454))	dpal dgyes pa rdo rje'i sgrub thabs
+	N2426	དཔལ་དགྱེས་པ་རྡོ་རྗེའི་སྒྲུབ་ཐབས	rgyud 'grel, zha 481b6-484a6. (ff.481v-484r (pp.962-967))	dpal dgyes pa rdo rje'i sgrub thabs
+	Q2347	དཔལ་དགྱེས་པ་རྡོ་རྗེའི་སྒྲུབ་ཐབས	rgyud 'grel, zha 1b1-8b4 (vol.56, p.81)	dpal dgyes pa rdo rje'i sgrub thabs
+	Q2378	དཔལ་དགྱེས་པ་རྡོ་རྗེའི་སྒྲུབ་ཐབས	rgyud 'grel, zha 246b3-247b6 (vol.56, p.180)	dpal dgyes pa rdo rje'i sgrub thabs
+	Q2415	དཔལ་དགྱེས་པ་རྡོ་རྗེའི་སྒྲུབ་ཐབས	rgyud 'grel, zha 548a8-550b8 (vol.56, p.301)	dpal dgyes pa rdo rje'i sgrub thabs
+
+K0358
+    1!=2!=3
+
+	D1229	དེ་ཁོ་ན་ཉིད་བཅུ་པ	རྒྱུད་འགྲེལ། ཉ། 37a1-41a7.
+	D1323	དེ་ཁོ་ན་ཉིད་བཅུ་པ	རྒྱུད་འགྲེལ། ཏ། 261b2-265b4.
+	D1895	དེ་ཁོ་ན་ཉིད་བཅུ་པ	རྒྱུད་འགྲེལ། པི། 233b7-253b7.
+	G363	དེ་ཁོ་ན་ཉིད་བཅུ་པ་	rgyud 'grel, zha 49b1-55a (p.25-4-1)	de kho na nyid bcu pa
+	N2369	དེ་ཁོ་ན་ཉིད་བཅུ་པ	rgyud 'grel, zha 39a3-43b1. (ff.39r-43r (pp.77-85))	de kho na nyid bcu pa
+	N2466	དེ་ཁོ་ན་ཉིད་བཅུ་པ	rgyud 'grel, za 137b3-142b2. (ff.137v-142v (pp.274-284))	de kho na nyid bcu pa
+	N2770	དེ་ཁོ་ན་ཉིད་བཅུ་པ	rgyud 'grel, thi 265a7-290b4. (ff. 265r-290v (pp.529-580))	de kho na nyid bcu pa
+	Q2358	དེ་ཁོ་ན་ཉིད་བཅུ་པ	rgyud 'grel, zha 41b6-46b3 (vol.56, p.98)	de kho na nyid bcu pa
+	Q2455	དེ་ཁོ་ན་ཉིད་བཅུ་པ	rgyud 'grel, za 144a1-148b4 (vol.57, p.59)	de kho na nyid bcu pa
+	Q2759	དེ་ཁོ་ན་ཉིད་བཅུ་པ	rgyud 'grel, thi 280b1-305b7 (vol.66, p.31)	de kho na nyid bcu pa
+
+K0359
+    1!=2!=3
+
+	D1230	རྣལ་འབྱོར་ཕ་དང་རྣལ་འབྱོར་མ་རྣམས་ལ་ཐུན་མོང་མ་ཡིན་པའི་དོན་ལ་གདམས་པ་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཉ། 41a7-43a1.
+	D3360	རི་ཁྲོད་ལོ་མ་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 39a2-39b1.
+	D3539	རི་ཁྲོད་ལོ་མ་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 179b5-180a2.
+	G364	རྣལ་འབྱོར་ཕ་དང་རྣལ་འབྱོར་མ་རྣམས་ལ་ཐུན་མོང་མ་ཡིན་པའི་དོན་ལ་གདམས་པ་ཞེས་བྱ་བ་	rgyud 'grel, zha 55a1-57a (p.28-2-1)	rnal 'byor pha dang rnal 'byor ma rnams la thun mong ma yin pa'i don la gdams pa zhes bya ba
+	N2370	རྣལ་འབྱོར་ཕ་དང་རྣལ་འབྱོར་མ་རྣམས་ལ་ཐུན་མོང་མ་ཡིན་པའི་དོན་ལ་གདམས་པ་ཞེས་བྱ་བ	rgyud 'grel, zha 43b1-45a2. (ff.43v-45r (pp.86-89))	rnal 'byor pha dang rnal 'byor ma rnams la thun mong ma yin pa'i don la gdams pa zhes bya ba
+	N4191	རི་ཁྲོད་ལོ་མ་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 44a4-44b3. (ff.44r-44v (pp.87-88))	ri khrod lo ma can gyi sgrub thabs
+	N4371	རི་ཁྲོད་ལོ་མ་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 216a4-216b1. (ff.216r-216v (pp.433-434))	ri khrod lo ma can gyi sgrub thabs
+	Q2359	རྣལ་འབྱོར་ཕ་དང་རྣལ་འབྱོར་མ་རྣམས་ལ་ཐུན་མོང་མ་ཡིན་པའི་དོན་ལ་གདམས་པ་ཞེས་བྱ་བ	rgyud 'grel, zha 46b3-48a6 (vol.56, p.100)	rnal 'byor pha dang rnal 'byor ma rnams la thun mong ma yin pa'i don la gdams pa zhes bya ba
+	Q4181	རི་ཁྲོད་ལོ་མ་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 49b1-50a2 (vol.80, p.238)	ri khrod lo ma can gyi sgrub thabs
+	Q4361	རི་ཁྲོད་ལོ་༼མ་༽ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 232b1-232b7 (vol.81, p.17)	ri khrod lo (ma )can gyi sgrub thabs
+
+K0364
+    1!=2
+
+	D1235	ཀྱེ་རྡོ་རྗེ་ཕྱག་གཉིས་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཉ། 70a5-71b5.
+	D1271	ཀྱེ་རྡོ་རྗེ་ཕྱག་གཉིས་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཏ། 96b3-98a3.
+	G369	ཀྱེ་རྡོ་རྗེ་ཕྱག་གཉིས་པའི་སྒྲུབ་ཐབས་	rgyud 'grel, zha 94b3-96b (p.51-1-3)	kye rdo rje phyag gnyis pa'i sgrub thabs
+	N2375	ཀྱེ་རྡོ་རྗེ་ཕྱག་གཉིས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, zha 73b4-75a6. (ff.73v-75r (pp.146-149))	kye rdo rje phyag gnyis pa'i sgrub thabs
+	N2404	ཀྱེ་རྡོ་རྗེ་ཕྱག་གཉིས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, zha 419a1-420b3. (ff.419r-420v (pp.837-840))	kye rdo rje phyag gnyis pa'i sgrub thabs
+	Q2364	ཀྱེ་རྡོ་རྗེ་ཕྱག་གཉིས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, zha 81a7-83a4 (vol.56, p.114)	kye rdo rje phyag gnyis pa'i sgrub thabs
+	Q2393	ཀྱེ་རྡོ་རྗེ་ཕྱག་གཉིས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, zha 486b2-488a7 (vol.56, p.276)	kye rdo rje phyag gnyis pa'i sgrub thabs
+
+K0406
+    1!=2!=3
+
+	D1284	སྤྱན་དབྱེ་བའི་ཆོ་ག	རྒྱུད་འགྲེལ། ཏ། 138b7-139b7.
+	D2521	སྤྱན་དབྱེ་བའི་ཆོ་ག	རྒྱུད་འགྲེལ། ཀུ། 127a7-130a5.
+	D2586	སྤྱན་དབྱེ་བའི་ཆོ་ག	རྒྱུད་འགྲེལ། ངུ། 151a1-151b3.
+	G410	སྤྱན་དབྱེ་བའི་ཆོ་ག་	rgyud 'grel, zha 626b1-627b (p.317-1-1)	spyan dbye ba'i cho ga
+	N2417	སྤྱན་དབྱེ་བའི་ཆོ་ག	rgyud 'grel, zha 466a2-467a4. (ff.466r-467r (pp.931-933))	spyan dbye ba'i cho ga
+	N3357	སྤྱན་དབྱེ་བའི་ཆོ་ག	rgyud 'grel, shi 132a3-135a3. (ff.132r-135r (pp.263-269))	spyan dbye ba'i cho ga
+	N3360	སྤྱན་དབྱེ་བའི་ཆོ་ག	rgyud 'grel, shi 165a1-167b3. (ff.165r-167v (pp.329-334))	spyan dbye ba'i cho ga
+	N3426	སྤྱན་དབྱེ་བའི་ཆོ་ག	rgyud 'grel, i 165a3-165b6. (ff.165r-165v (pp.329-330))	spyan dbye ba'i cho ga
+	Q2406	སྤྱན་དབྱེ་བའི་ཆོ་ག	rgyud 'grel, zha 533a2-534a3 (vol.56, p.295)	spyan dbye ba'i cho ga
+	Q3344	སྤྱན་དབྱེ་བའི་ཆོ་ག	rgyud 'grel, shi 146b3-149b5 (vol.74, p.60)	spyan dbye ba'i cho ga
+	Q3347	སྤྱན་དབྱེ་བའི་ཆོ་ག	rgyud 'grel, shi 182a1-184b8 (vol.74, p.75)	spyan dbye ba'i cho ga
+	Q3413	སྤྱན་དབྱེ་བའི་ཆོ་ག	rgyud 'grel, i 178b5-179a8 (vol.75, p.189)	spyan dbye ba'i cho ga
+
+K0409
+    1!=2!=3!=4!=5!=6!=7!=8!=9
+
+	D1286	གཏོར་མའི་ཆོ་ག	རྒྱུད་འགྲེལ། ཏ། 140b7-141a5.
+	D1295	གཏོར་མའི་ཆོ་ག	རྒྱུད་འགྲེལ། ཏ། 185a7-187a5.
+	D1821	གཏོར་མའི་ཆོ་ག	རྒྱུད་འགྲེལ། ངི། 261a7-262a4.
+	D2114	གཏོར་མའི་ཆོ་ག	རྒྱུད་འགྲེལ། ཚི། 154b3-155a2.
+	D2610	གཏོར་མའི་ཆོ་ག	རྒྱུད་འགྲེལ། ཅུ། 82a4-83a2.
+	D2622	གཏོར་མའི་ཆོ་ག	རྒྱུད་འགྲེལ། ཅུ། 121a7-122a5.
+	D2918	གཏོར་མའི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ནུ། 315b5-316a2.
+	D3095	གཏོར་མའི་ཆོ་ག	རྒྱུད་འགྲེལ། པུ། 188b7-189a5.
+	D3288	གཏོར་མའི་ཆོ་ག	རྒྱུད་འགྲེལ། བུ། 32b6-33a1.
+	G413	གཏོར་མའི་ཆོ་ག	rgyud 'grel, zha 629b3-630a (p.317-4-3)	gtor ma'i cho ga
+	N2318	གཏོར་མའི་ཆོ་ག	rgyud 'grel, pha 401a-401b. (ff.401r-401v (pp.807-808))	gtor ma'i cho ga
+	N2319	ལག་པའི་མཆོད་པའི་ཆོ་ག	rgyud 'grel, pha 401b-402b. (ff.401v-402v (pp.808-810))	lag pa'i mchod pa'i cho ga
+	N2420	གཏོར་མའི་ཆོ་ག	rgyud 'grel, zha 468b2-469a2. (ff.468v-469r (pp.936-937))	gtor ma'i cho ga
+	N2429	གཏོར་མའི་ཆོ་ག	rgyud 'grel, zha 520b7-523a5. (ff.520v-523v (pp.1040-1046))	gtor ma'i cho ga
+	N2697	གཏོར་མའི་ཆོ་ག	rgyud 'grel, gi 242b7-244a1. (ff.242v-244r (pp.484-487))	gtor ma'i cho ga
+	N2976	གཏོར་མའི་ཆོ་ག	rgyud 'grel, phi 172b5-173a4. (ff.172v-173r (pp.344-345))	gtor ma'i cho ga
+	N3450	གཏོར་མའི་ཆོ་ག	rgyud 'grel, ku 86b3-87b1. (ff.86v-87v (pp.172-174))	gtor ma'i cho ga
+	N3462	གཏོར་མའི་ཆོ་ག	rgyud 'grel, ku 127b3-128b2. (ff.127v-128v (pp.254-256))	gtor ma'i cho ga
+	N3755	གཏོར་མའི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, nyu 388a3-388a7. (ff.388r (pp.775-775))	gtor ma'i cho ga zhes bya ba
+	N3925	གཏོར་མའི་ཆོ་ག	rgyud 'grel, tu 195a6-195b4. (ff.195r-195v (pp.389-390))	gtor ma'i cho ga
+	N4121	གཏོར་མའི་ཆོ་ག	rgyud 'grel, thu 302b4-302b6. (ff.302v-302v (pp.604-604))	gtor ma'i cho ga
+	N5020	གཏོར་མའི་ཆོ་ག	rgyud 'grel, 'u 124a-124b. (ff.124r-124v (pp.247-248))	gtor ma'i cho ga
+	N5150	གཏོར་མའི་ཆོ་ག	rgyud 'grel, lu 166a-166b. (ff.166r-166v (pp.331-332))	gtor ma'i cho ga
+	N5158	གཏོར་མའི་ཆོ་ག	rgyud 'grel, lu 171b-172b. (ff.171v-172v (pp.342-344))	gtor ma'i cho ga
+	Q2409	གཏོར་མའི་ཆོ་ག	rgyud 'grel, zha 535a8-535b7 (vol.56, p.296)	gtor ma'i cho ga
+	Q2418	གཏོར་མའི་ཆོ་ག	rgyud 'grel, zha 585a4-587a7 (vol.56, p.316)	gtor ma'i cho ga
+	Q2685	གཏོར་མའི་ཆོ་ག	rgyud 'grel, gi 246a3-247a4 (vol.62, p.50)	gtor ma'i cho ga
+	Q2965	གཏོར་མའི་ཆོ་ག	rgyud 'grel, phi 186b1-187a2 (vol.68, p.3)	gtor ma'i cho ga
+	Q3437	གཏོར་མའི་ཆོ་ག	rgyud 'grel, ku 98a3-99a2 (vol.75, p.287)	gtor ma'i cho ga
+	Q3449	གཏོར་མའི་ཆོ་ག	rgyud 'grel, ku 143b1-144b1 (vol.75, p.305)	gtor ma'i cho ga
+	Q3744	གཏོར་མའི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, nyu 365b2-365b7 (vol.79, p.192)	gtor ma'i cho ga zhes bya ba
+	Q3915	གཏོར་མའི་ཆོ་ག	rgyud 'grel, tu 209b3-210a1 (vol.80, p.7)	gtor ma'i cho ga
+	Q4111	གཏོར་མའི་ཆོ་ག	rgyud 'grel, thu 318b5-318b8 (vol.80, p.207)	gtor ma'i cho ga
+	Q5010	གཏོར་མའི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, 'u 133a2-133b5 (vol.86, p.225)	gtor ma'i cho ga zhes bya ba
+	Q5142	གཏོར་མའི་ཆོ་ག	rgyud 'grel, lu 169a6-169b3 (vol.87, p.241-242)	gtor ma'i cho ga
+	Q5150	གཏོར་མའི་ཆོ་ག	rgyud 'grel, lu 174b3-175b2 (vol.87, p.244)	gtor ma'i cho ga
+
+K0500
+    1!=2!=3!=4
+
+	D1628	རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཡ། 230b2-231a2.
+	D1680	རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ལ། 298b7-300a2.
+	D1814	རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ངི། 195b6-204b6.
+	D2489	རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཟི། 231b7-232b2.
+	G504	རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས་	rgyud 'grel, 'a 346b1-347a (p.173-4-1)	rdo rje sems dpa'i sgrub thabs
+	N2512	རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས	rgyud 'grel, 'a 260b5-261a6. (ff.260v-261r (pp.520-521))	rdo rje sems dpa'i sgrub thabs
+	N2564	རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས	rgyud 'grel, ra 331b4-333a1. (ff.331v-333r (pp.662-665))	rdo rje sems dpa'i sgrub thabs
+	N2690	རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, gi 166a7-176a6. (ff.166r-176r (pp.331-351))	rdo rje sems dpa'i sgrub thabs zhes bya ba
+	N3328	རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, tshi 249b1-250a4. (ff.249v-250r (pp.498-499))	rdo rje sems dpa'i sgrub thabs zhes bya ba
+	Q2500	རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས	rgyud 'grel, A 286b1-287a4 (vol.57, p.282)	rdo rje sems dpa'i sgrub thabs
+	Q2552	རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས	rgyud 'grel, ra 344a1-345a4 (vol.59, p.40)	rdo rje sems dpa'i sgrub thabs
+	Q2678	རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, gi 168b2-178a2 (vol.62, p.19)	rdo rje sems dpa'i sgrub thabs zhes bya ba
+	Q3315	རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, tshi 287b7-288b3 (vol.70, p.18)	rdo rje sems dpa'i sgrub thabs zhes bya ba
+
+K0555
+    1!=2!=3!=4!=5!=6!=7!=8!=9
+
+	D1683	སྒྲོལ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཤ། 1b1-5b7.
+	D3193	སྒྲོལ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 202b4-203a1.
+	D3194	སྒྲོལ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 203a1-203a6.
+	D3195	སྒྲོལ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 203a6-203b3.
+	D3196	སྒྲོལ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 203b3-203b7.
+	D3201	སྒྲོལ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 208b6-209b5.
+	D3202	སྒྲོལ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 209b5-210a3.
+	D3336	སྒྲོལ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 27a7-27b3.
+	D3491	སྒྲོལ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 144b6-147b7.
+	G559	སྒྲོལ་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, la 1b1-7b (p.1-2-1)	sgrol ma'i sgrub thabs
+	N2567	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, la 1-7a5. (ff.1r-7r (pp.1-13))	sgrol ma'i sgrub thabs
+	N4024	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 237b7-238a4. (ff.237v-238r (pp.474-475))	sgrol ma'i sgrub thabs
+	N4025	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 238a4-238b3. (ff.238r-238v (pp.475-476))	sgrol ma'i sgrub thabs
+	N4026	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 238b3-239a2. (ff.238v-239r (pp.476-477))	sgrol ma'i sgrub thabs
+	N4027	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 239a2-239a6. (ff.239r-239r (pp.477-477))	sgrol ma'i sgrub thabs
+	N4032	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 245b1-246b1. (ff.245v-246v (pp.490-492))	sgrol ma'i sgrub thabs
+	N4033	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 246b2-246b6. (ff.246v-246v (pp.492-492))	sgrol ma'i sgrub thabs
+	N4167	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 31a3-31a7. (ff.31r-31r (pp.61-61))	sgrol ma'i sgrub thabs
+	N4323	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 173a5-177a4. (ff.173r-177r (pp.347-355))	sgrol ma'i sgrub thabs
+	Q2555	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, la 1b1-6b7 (vol.59, p.47)	sgrol ma'i sgrub thabs
+	Q4014	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 250a4-250b1 (vol.80, p.180)	sgrol ma'i sgrub thabs
+	Q4015	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 250b1-250b8 (vol.80, p.180)	sgrol ma'i sgrub thabs
+	Q4016	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 250b8-251a7 (vol.80, p.180)	sgrol ma'i sgrub thabs
+	Q4017	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 251a7-251b3 (vol.80, p.180)	sgrol ma'i sgrub thabs
+	Q4022	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 257b7-259a2 (vol.80, p.183)	sgrol ma'i sgrub thabs
+	Q4023	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 259a2-259a7 (vol.80, p.183)	sgrol ma'i sgrub thabs
+	Q4157	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 34a4-34b1 (vol.80, p.231-232)	sgrol ma'i sgrub thabs
+	Q4313	སྒྲོལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 186b4-190b6 (vol.80, p.292)	sgrol ma'i sgrub thabs
+
+K0621
+    1!=2
+
+	D1749	རྨི་ལམ་བརྟག་པ	རྒྱུད་འགྲེལ། ཤ། 133b3-135a4.
+	D2100	རྨི་ལམ་བརྟག་པ	རྒྱུད་འགྲེལ། ཚི། 129b7-130b7.
+	G624	རྨི་ལམ་བརྟག་པ་	rgyud 'grel, la 189b5-192a (p.97-3-5)	rmi lam brtag pa
+	N2633	རྨི་ལམ་བརྟག་པ	rgyud 'grel, la 140b2-142a3. (ff.140v-142r (pp.282-285))	rmi lam brtag pa
+	N2962	རྨི་ལམ་བརྟག་པ	rgyud 'grel, phi 144a4-145a6. (ff.144r-145r (pp.287-289))	rmi lam brtag pa
+	Q2621	རྨི་ལམ་བརྟག་པ	rgyud 'grel, la 155b8-157b5 (vol.59, p.110)	rmi lam brtag pa
+	Q2951	རྨི་ལམ་བརྟག་པ	rgyud 'grel, phi 154a6-155b2 (vol.67, p.295)	rmi lam brtag pa
+
+K0628
+    1!=2
+
+	D1759	དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཤ། 250b4-251a7.
+	D1761	དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཤ། 252a1-253a3.
+	G631	དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ་	rgyud 'grel, la 342a4-343a (p.174-1-4)	dpal nag po chen po'i sgrub thabs zhes bya ba
+	N2640	དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, la 250b2-251a6. (ff.250v-251r (pp.502-503))	dpal nag po chen po'i sgrub thabs zhes bya ba
+	N2642	དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, la 252a1-253a4. (ff.252r-253r (pp.505-507))	dpal nag po chen po'i sgrub thabs zhes bya ba
+	N4907	དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, zu 250b-254a. (ff.250v-254r (pp.500-507))	dpal nag po chen po'i sgrub thabs
+	N4910	དཔལ་ནག་པོ་ཆེན་པོའི་བསྒྲུབ་ཐབས	rgyud 'grel, zu 259a-260a. (ff.259r-260r (pp.517-519))	dpal nag po chen po'i bsgrub thabs
+	N4942	དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, zu 287b-288a. (ff.287v-288r (pp.573-575))	dpal nag po chen po'i sgrub thabs
+	N4974	དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, 'u 53b-55a. (ff.53v-55r (pp.106-109))	dpal nag po chen po'i sgrub thabs
+	Q2628	དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, la 275b3-276a8 (vol.59, p.158)	dpal nag po chen po'i sgrub thabs zhes bya ba
+	Q2630	དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, la 277a2-278a6 (vol.59, p.159)	dpal nag po chen po'i sgrub thabs zhes bya ba
+	Q4897	དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, zu 250b2-253b8 (vol.86, p.152153)	dpal nag po chen po'i sgrub thabs zhes bya ba
+	Q4900	དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, zu 258b3-259a7 (vol.86, p.155)	dpal nag po chen po'i sgrub thabs zhes bya ba
+	Q4932	དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, zu 285a5-286a1 (vol.86, p.166)	dpal nag po chen po'i sgrub thabs zhes bya ba
+	Q4964	དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, 'u 58b6-59b7 (vol.86, p.195196)	dpal nag po chen po'i sgrub thabs zhes bya ba
+
+K0638
+    1!=2
+
+	D1772	ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཤ། 268a3-268b1.
+	D3644	ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 256b5-257b3.
+	G641	ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས་	rgyud 'grel, la 364a1-364b (p.184-3-1)	nag po chen po'i sgrub thabs
+	N2650	ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, la 267a4-267b3. (ff.267r-267v(pp.535-536))	nag po chen po'i sgrub thabs
+	N4476	ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 303b5-304b4. (ff.303v-304v (pp.608-610))	nag po chen po'i sgrub thabs
+	N5179	ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 197b-198a. (ff.197v-198r (pp.394-395))	nag po chen po'i sgrub thabs
+	N5180	ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 198a-199a. (ff.198r-199r (pp.395-397))	nag po chen po'i sgrub thabs
+	Q2638	ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, la 293a2-293b2 (vol.59, p.165)	nag po chen po'i sgrub thabs
+	Q4466	ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 334a3-335a5 (vol.81, p.58)	nag po chen po'i sgrub thabs
+	Q5171	ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 201a7-201b7 (vol.87, p.254)	nag po chen po'i sgrub thabs
+	Q5172	ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 201b7-203a3 (vol.87, p.254-255)	nag po chen po'i sgrub thabs
+
+K0639
+    1=2  འདིར་གཞུང་གཅིག་པ་དང་མཛད་པ་པོ་གཅིག་རེད། ཡིན་ཡང་། 1 ལ་བསྒྱུར་པ་པོ་བྲིས་མི་འདུག 2 ལ་བསྒྱུར་པ་པོ་བྲིས་འདུག
+
+	D1773	དཔལ་ནག་པོ་ཆེན་པོ་ལ་བསྟོད་པ་རྐང་པ་བརྒྱད་པ་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཤ། 268b1-269a7.
+	D1779	དཔལ་ནག་པོ་ཆེན་པོ་ལ་བསྟོད་པ་རྐང་པ་བརྒྱད་པ་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཤ། 273a6-274a6.
+	G642	དཔལ་ནག་པོ་ཆེན་པོ་ལ་བསྟོད་པ་རྐང་པ་བརྒྱད་པ་ཞེས་བྱ་བ་	rgyud 'grel, la 364b2-366a (p.185-3-2)	dpal nag po chen po la bstod pa rkang pa brgyad pa zhes bya ba
+	N2651	དཔལ་ནག་པོ་ཆེན་པོ་ལ་བསྟོད་པ་རྐང་པ་བརྒྱད་པ་ཞེས་བྱ་བ	rgyud 'grel, la 267b3-268b4. (ff.267v-268v (pp.536-538))	dpal nag po chen po la bstod pa rkang pa brgyad pa zhes bya ba
+	N2657	དཔལ་ནག་པོ་ཆེན་པོ་ལ་བསྟོད་པ་རྐང་པ་བརྒྱད་པ་ཞེས་བྱ་བ	rgyud 'grel, la 273a5-274a7. (ff.273r-274r (pp.547-549))	dpal nag po chen po la bstod pa rkang pa brgyad pa zhes bya ba
+	Q2639	དཔལ་ནག་པོ་ཆེན་པོ་ལ་བསྟོད་པ་རྐང་པ་བརྒྱད་པ་ཞེས་བྱ་བ	rgyud 'grel, la 293b2-294b3 (vol.59, p.166)	dpal nag po chen po la bstod pa rkang pa brgyad pa zhes bya ba
+	Q2645	དཔལ་ནག་པོ་ཆེན་པོ་ལ་བསྟོད་པ་རྐང་པ་བརྒྱད་པ་ཞེས་བྱ་བ	rgyud 'grel, la 299a6-300b1 (vol.59, p.168)	dpal nag po chen po la bstod pa rkang pa brgyad pa zhes bya ba
+
+K0662
+	1!=2
+
+	D1798	དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ངི། 15b1-35a7.
+	D1865	དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། དི། 69a4-87a3.
+	G666	དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ་	rgyud 'grel, gi 22b1-30a (p.13-1-1)	dpal gsang ba 'dus pa'i dkyil 'khor gyi cho ga zhes bya ba
+	N2675	དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, gi 17a6-38b4. (ff.17r-38v (pp.33-76))	dpal gsang ba 'dus pa'i dkyil 'khor gyi cho ga zhes bya ba
+	N2740	དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, ti 82b6-102b6. (ff. 82v-102v (pp.164-204))	dpal gsang ba 'dus pa'i dkyil 'khor gyi cho ga zhes bya ba
+	Q2663	དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, gi 17a7-39b3 (vol.61, p.275)	dpal gsang ba 'dus pa'i dkyil 'khor gyi cho ga zhes bya ba
+	Q2728	དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, ti 83a6-104b2 (vol.65, p.35)	dpal gsang ba 'dus pa'i dkyil 'khor gyi cho ga zhes bya ba
+
+K0667
+    1!=2
+
+	D1803	སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ	རྒྱུད་འགྲེལ། ངི། 57a1-106b7.
+	D3960	སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ	མདོ་འགྲེལ་༼དབུ་མ༽། ཁི། 312b-313a
+	G671	སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ་	rgyud 'grel, gi 84b1-153a (p.43-3-1)	spyod pa bsdus pa'i sgron ma
+	N2680	སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ	rgyud 'grel, gi 62b2-118b5. (ff. 62v-118v (pp.124-236))	spyod pa bsdus pa'i sgron ma
+	Q2668	སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ	rgyud 'grel, gi 64a1-121b3 (vol.61, p.293)	spyod pa bsdus pa'i sgron ma
+	Q5357	སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ	dbu ma, ki 364a2-365a6 (vol.103, p.56)	spyod pa bsdus pa'i sgron ma
+	Q5379	སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ	dbu ma, gi 5b5-6b7 (vol.103, p.186)	spyod pa bsdus pa'i sgron ma
+
+K0745
+    1!=2      འདིའི་ 2་པ་རྙེད་མ་སོང་།
+	
+	D1882	དཀྱིལ་འཁོར་གྱི་ཆོ་ག	རྒྱུད་འགྲེལ། པི། 115b1-128a2.
+	D1983	དཀྱིལ་འཁོར་གྱི་ཆོ་ག	རྒྱུད་འགྲེལ། མི། 166a7-171b4.
+	G748	དཀྱིལ་འཁོར་གྱི་ཆོ་ག་	rgyud 'grel, thi 164b1-182a (p.83-3-1)	dkyil 'khor gyi cho ga
+	N2757	དཀྱིལ་འཁོར་གྱི་ཆོ་ག	rgyud 'grel, thi 124b3-138b4. (ff.124v-138v (pp.248-276))	dkyil 'khor gyi cho ga
+	N2858	དཀྱིལ་འཁོར་གྱི་ཆོ་ག	rgyud 'grel, pi 179a5-185a7. (ff.179r-185r (pp.357-369))	dkyil 'khor gyi cho ga
+	Q2746	དཀྱིལ་འཁོར་གྱི་ཆོ་ག	rgyud 'grel, thi 136a6-151b6 (vol.65, p.278)	dkyil 'khor gyi cho ga
+	Q2846	དཀྱིལ་འཁོར་གྱི་ཆོ་ག	rgyud 'grel, pi 202a4-208a8 (vol.67, p.119)	dkyil 'khor gyi cho ga
+
+K0759
+    1!=2!=3!=4!=5!=6!=7
+
+	D1896	རབ་ཏུ་གནས་པའི་ཆོ་ག	རྒྱུད་འགྲེལ། པི། 253b7-259b7.
+	D1904	རབ་ཏུ་གནས་པའི་ཆོ་ག	རྒྱུད་འགྲེལ། ཕི། 8b4-16b4.
+	D1905	རབ་ཏུ་གནས་པའི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཕི། 16b4-21b4.
+	D2523	རབ་ཏུ་གནས་པའི་ཆོ་ག	རྒྱུད་འགྲེལ། ཀུ། 132b6-138a3.
+	D2847	རབ་ཏུ་གནས་པའི་ཆོ་ག	རྒྱུད་འགྲེལ། ནུ། 185a1-185b2.
+	D3113	རབ་ཏུ་གནས་པའི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། པུ། 212a3-214a3.
+	D3139	རབ་ཏུ་གནས་པའི་ཆོ་ག	རྒྱུད་འགྲེལ། པུ། 320a5-321a7.
+	G762	རབ་ཏུ་གནས་པའི་ཆོ་ག་	rgyud 'grel, thi 378b1-388a (p.191-1-1)	rab tu gnas pa'i cho ga
+	N2771	རབ་ཏུ་གནས་པའི་ཆོ་ག	rgyud 'grel, thi 290b4-298a2. (ff.290v-298r (pp.580-595))	rab tu gnas pa'i cho ga
+	N2779	རབ་ཏུ་གནས་པའི་ཆོ་ག	rgyud 'grel, di 10a3-19a7. (ff.10r-19r (pp.19-37))	rab tu gnas pa'i cho ga
+	N2780	རབ་ཏུ་གནས་པའི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, di 19a7-24a6. (ff.19r-24r (pp.37-47))	rab tu gnas pa'i cho ga zhes bya ba
+	N3358	རབ་ཏུ་གནས་པའི་ཆོ་ག	rgyud 'grel, shi 135a3-140b5. (ff.135r-140v (pp.269-280))	rab tu gnas pa'i cho ga
+	N3684	རབ་ཏུ་གནས་པའི་ཆོ་ག	rgyud 'grel, nyu 249b3-250a6. (ff.249v-250r (pp.498-499))	rab tu gnas pa'i cho ga
+	N3944	རབ་ཏུ་གནས་པའི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, tu 222b1-224b4. (ff.222v-224v (pp.444-448))	rab tu gnas pa'i cho ga zhes bya ba
+	N3970	རབ་ཏུ་གནས་པའི་ཆོ་ག	rgyud 'grel, tu 347b6-349a5. (ff.347v-349v (pp.694-698))	rab tu gnas pa'i cho ga
+	Q2760	རབ་ཏུ་གནས་པའི་ཆོ་ག	rgyud 'grel, thi 305b7-313a8 (vol.66, p.41)	rab tu gnas pa'i cho ga
+	Q2768	རབ་ཏུ་གནས་པའི་ཆོ་ག	rgyud 'grel, di 10a4-19b5 (vol.66, p.66)	rab tu gnas pa'i cho ga
+	Q2769	རབ་ཏུ་གནས་པའི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, di 19b5-25b3 (vol.66, p.70)	rab tu gnas pa'i cho ga zhes bya ba
+	Q3345	རབ་ཏུ་གནས་པའི་ཆོ་ག	rgyud 'grel, shi 149b5-155b4 (vol.74, p.62)	rab tu gnas pa'i cho ga
+	Q3668	རབ་ཏུ་གནས་པའི་ཆོ་ག	rgyud 'grel, nyu 215a8-216a3 (vol.79, p.132)	rab tu gnas pa'i cho ga
+	Q3934	རབ་ཏུ་གནས་པའི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, tu 238b8-241a8 (vol.80, p.19)	rab tu gnas pa'i cho ga zhes bya ba
+	Q3960	རབ་ཏུ་གནས་པའི་ཆོ་ག	rgyud 'grel, tu 381b4-383a7 (vol.80, p.76)	rab tu gnas pa'i cho ga
+
+K0785
+    1!=2!=3!=4!=5!=6!=7=8=9!=10!=11!=12
+
+	D1923	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། མི། 1b1-8b4.
+	D1930	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་པའི་ཐབས	རྒྱུད་འགྲེལ། མི། 42a1-43a3.
+	D1936	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། མི། 64b-65a5.
+	D3282	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 28b2-29a2.
+	D3283	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 29a2-29b7.
+	D3284	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 29b7-30b3.
+	D3325	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་པའི་ཐབས	རྒྱུད་འགྲེལ། མུ། 20b2-20b5.
+	D3326	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 20b5-21a5.
+	D3327	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་པའི་ཐབས	རྒྱུད་འགྲེལ། མུ། 21a5-21b7.
+	D3628	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 246a7-246b7.
+	D3629	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 246b7-247b4.
+	D3630	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 247b4-248a6.
+	G788	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ་	rgyud 'grel, pi 1b1-10b (p.1-2-1)	gshin rje gshed nag po'i sgrub thabs zhes bya ba
+	N2797	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, pi 1-9a3. (ff.1r-9r (pp.1-17))	gshin rje gshed nag po'i sgrub thabs zhes bya ba
+	N2804	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, pi 43b2-44b3. (ff.43v-44v (pp.86-88))	gshin rje gshed nag po'i sgrub pa'i thabs
+	N2812	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, pi 68a7-69a1. (ff. 68r-69r (pp.135-137))	gshin rje gshed nag po'i sgrub thabs zhes bya ba
+	N4115	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 297b2-298a4. (ff.297v-298r (pp.594-595))	gshin rje gshed nag po'i sgrub thabs
+	N4116	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 298a4-299a5. (ff.298r-299r (pp.595-597))	gshin rje gshed nag po'i sgrub thabs
+	N4117	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 299a5-300a3. (ff.299r-300r (pp.597-599))	gshin rje gshed nag po'i sgrub thabs
+	N4156	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 23a5-23b2. (ff.23r-23v (pp.45-46))	gshin rje gshed nag po'i sgrub pa'i thabs
+	N4157	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 23b2-24a3. (ff.23v-24r (pp.46-47))	gshin rje gshed nag po'i sgrub thabs
+	N4158	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 24a3-24b6. (ff.24r-24v (pp.47-48))	gshin rje gshed nag po'i sgrub pa'i thabs
+	N4460	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 291b5-292a7. (ff.291v-292r (pp.584-585))	gshin rje gshed nag po'i sgrub thabs
+	N4461	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 292a7-293a5. (ff.292r-293r (pp.585-587))	gshin rje gshed nag po'i sgrub thabs
+	N4462	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 293a6-294a2. (ff.293r-294r (pp.587-589))	gshin rje gshed nag po'i sgrub thabs
+	N4804	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, zhu 60a-67b. (ff.60r-67v (pp.119-134))	gshin rje gshed nag po'i sgrub thabs
+	Q2786	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, pi 1b1-9b2 (vol.67, p.37)	gshin rje gshed nag po'i sgrub thabs zhes bya ba
+	Q2793	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, pi 52a4-53b1 (vol.67, p.59)	gshin rje gshed nag po'i sgrub pa'i thabs
+	Q2801	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, pi 78b8-79b2 (vol.67, p.69)	gshin rje gshed nag po'i sgrub thabs zhes bya ba
+	Q4105	གཤིན་རྗེ་༼གཤེད་༽ནག་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 313a3-313b7 (vol.80, p.205)	gshin rje (gshed )nag po'i sgrub thabs
+	Q4106	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 313b7-315a1 (vol.80, p.205)	gshin rje gshed nag po'i sgrub thabs
+	Q4107	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 315a1-315b7 (vol.80, p.206)	gshin rje gshed nag po'i sgrub thabs
+	Q4146	གཤིན་རྗེ་ནག་པོའི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 25a4-25b1 (vol.80, p.228)	gshin rje nag po'i sgrub pa'i thabs
+	Q4147	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 25b1-26a3 (vol.80, p.228)	gshin rje gshed nag po'i sgrub thabs
+	Q4148	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 26a3-26b7 (vol.80, p.228)	gshin rje gshed nag po'i sgrub pa'i thabs
+	Q4450	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 319b8-320b3 (vol.81, p.52-53)	gshin rje gshed nag po'i sgrub thabs
+	Q4451	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 320b3-321b3 (vol.81, p.53)	gshin rje gshed nag po'i sgrub thabs
+	Q4452	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 321b3-322b2 (vol.81, p.53)	gshin rje gshed nag po'i sgrub thabs
+	Q4794	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, zhu 65b1-73a2 (vol.85, p.198301)	gshin rje gshed nag po'i sgrub thabs zhes bya ba
+	Q5148	གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 173a6-174a5 (vol.87, p.243)	gshin rje gshed nag po'i sgrub thabs
+
+K0795
+    1!=2!=3!=4!=5!=6!=7
+
+	D1933	མཎཌལ་གྱི་ཆོ་ག	རྒྱུད་འགྲེལ། མི། 57a7-58a3.
+	D1934	མཎཌལ་གྱི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། མི། 58a3-58b5.
+	D2324	མཎཌལ་གྱི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཞི། 265b6-266b2.
+	D3760/4530	མཎཌལ་གྱི་ཆོ་ག	རྒྱུད་འགྲེལ། ཚུ། 114b7-114b7.
+	D3763	མཎཌལ་གྱི་ཆོ་ག	རྒྱུད་འགྲེལ། ཚུ། 116a7-116a7.
+	D3764	མཎཌལ་གྱི་ཆོ་ག	རྒྱུད་འགྲེལ། ཚུ། 117a2-117a2.
+	D3767	མཎཌལ་གྱི་ཆོ་ག	རྒྱུད་འགྲེལ། ཚུ། 127a7-127b6.
+	G798	མཎཌལ་གྱི་ཆོ་ག་	rgyud 'grel, pi 87a1-88a (p.44-2-1)	maNDal gyi cho ga
+	N2807	མཎཌལ་གྱི་ཆོ་ག	rgyud 'grel, pi 60a3-60b7. (ff.60r-60v (pp.119-120))	maNDal gyi cho ga
+	N2808	མཎཌལ་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, pi 60b7-61b4. (ff.60v-61v (pp.120-122))	maNDal gyi cho ga zhes bya ba
+	N3176	མཎཌལ་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, tsi 270b5-271b2. (ff.270v-271v (pp.540-542))	maNDal gyi cho ga zhes bya ba
+	N4589	མནདལ་གྱི་ཆོ་ག	rgyud 'grel, nu 328b5-329b. (ff.328v-329v (656-658))	mandala gyi cho ga
+	N4591	མནདལ་གྱི་ཆོ་ག	rgyud 'grel, nu 330a-330b. (ff.330r-330v (659-660))	mandala gyi cho ga
+	N4592	མནདལ་གྱི་ཆོ་ག	rgyud 'grel, nu 330b-331b2. (ff.330v-331v (660-662))	mandala gyi cho ga
+	N4595	མཎཌལ་གྱི་ཆོ་ག	rgyud 'grel, nu 343b3-344a3. (ff.343v-344r (pp.686-687))	maNDal gyi cho ga
+	Q2796	མཎཌལ་གྱི་ཆོ་ག	rgyud 'grel, pi 70a4-71a1 (vol.67, p.66)	maNDal gyi cho ga
+	Q2797	མཎཌལ་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, pi 71a1-71b6 (vol.67, p.66)	maNDal gyi cho ga zhes bya ba
+	Q3163	མཎཌལ་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, tsi 282b1-283a7 (vol.69, p.185)	maNDal gyi cho ga zhes bya ba
+	Q4580	མཎཌལ་གྱི་ཆོ་ག	rgyud 'grel, nu 330b6-331b5 (vol.81, p.240)	maNDal gyi cho ga
+	Q4582	མཎཌལ་གྱི་ཆོ་ག	rgyud 'grel, nu 332a3-332b7 (vol.81, p.241)	maNDal gyi cho ga
+	Q4583	མཎཌལ་གྱི་ཆོ་ག༹	rgyud 'grel, nu 332b7-333b3 (vol.81, p.241)	maNDal gyi cho ga^
+	Q4586	མཎཌལ་གྱི་ཆོ་ག	rgyud 'grel, nu 345b2-346a3 (vol.81, p.246)	maNDal gyi cho ga
+	Q5088	མཎཌལ་གྱི་ཆོ་ག	rgyud 'grel, ru 143b2-149a4 (vol.87, p.167-169)	maNDal gyi cho ga
+	Q5440	མཎཌལ་གྱི་ཆོ་ག	dbu ma, gi 163b1-164a5 (vol.103, p.249)	maNDal gyi cho ga
+	Q5441	མཎཌལ་གྱི་ཆོ་ག	dbu ma, gi 146a5-146b8 (vol.103, p.249-250)	maNDal gyi cho ga
+	Q5442	མཎཌལ་གྱི་ཆོ་ག	dbu ma, gi 164b8-165b4 (vol.103, p.250)	maNDal gyi cho ga
+	Q5443	མཎཌལ་གྱི་ཆོ་ག	dbu ma, gi 165b4-166b1 (vol.103, p.250)	maNDal gyi cho ga
+
+K0872
+    1!=2!=3
+
+	D2018	གཤིན་རྗེ་གཤེད་དམར་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཙི། 77b7-80b5.
+	D2026	གཤིན་རྗེ་གཤེད་དམར་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཙི། 113b2-115a7.
+	D2031	གཤིན་རྗེ་གཤེད་དམར་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཙི། 119b4-120b5.
+	G876	གཤིན་རྗེ་གཤེད་དམར་པོའི་སྒྲུབ་ཐབས་	rgyud 'grel, pi 464b1-468b (p.235-2-1)	gshin rje gshed dmar po'i sgrub thabs
+	N2884	གཤིན་རྗེ་གཤེད་དམར་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, pi 341b4-345a2. (ff.341v-345r (pp.682-689))	gshin rje gshed dmar po'i sgrub thabs
+	N2893	གཤིན་རྗེ་གཤེད་དམར་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, pi 383b4-385b6. (ff.383v-385v (pp.766-770))	gshin rje gshed dmar po'i sgrub thabs
+	N2898	གཤིན་རྗེ་གཤེད་དམར་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, pi 391a1-392b1. (ff.391r-392r (pp.781-783 ))	gshin rje gshed dmar po'i sgrub thabs
+	Q2873	གཤིན་རྗེ་གཤེད་དམར་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, pi 371b8-375b2 (vol.67, p.186)	gshin rje gshed dmar po'i sgrub thabs
+	Q2882	གཤིན་རྗེ་གཤེད་དམར་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, pi 419b3-422a2 (vol.67, p.206)	gshin rje gshed dmar po'i sgrub thabs
+	Q2887	གཤིན་རྗེ་གཤེད་དམར་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, pi 427b4-429a3 (vol.67, p.209)	gshin rje gshed dmar po'i sgrub thabs
+
+K0958
+    1!=2!=3!=4!=5
+
+	D2108	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཚི། 143a2-146a7.
+	D2579	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ངུ། 59a3-70b2.
+	D2599	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཅུ། 63a2-67a2.
+	D2600	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཅུ། 67a2-68b5.
+	D2619	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཅུ། 92a3-109a2.
+	G962	ཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་སྒྲུབ་ཐབས་	rgyud 'grel, phi 212b1 (p.107-3-1)	phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i sgrub thabs
+	N2970	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་སྒྲུབ་ཐབས	rgyud 'grel, phi 159a5-163a2. (ff.159r-163r (pp.317-325))	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i sgrub thabs
+	N3419	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་སྒྲུབ་ཐབས	rgyud 'grel, i 64b3-77a6. (ff.64v-77r (pp.128-153))	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i sgrub thabs
+	N3438	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་སྒྲུབ་ཐབས	rgyud 'grel, ku 55b7-57b4. (ff.55v-57v (pp.110-114))	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i sgrub thabs
+	N3440	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, ku 67b6-72a3. (ff.67v-72r (pp.134-143))	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i sgrub thabs zhes bya ba
+	N3459	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, ku 97a5-114b5. (ff.97r-114v (pp.193-228))	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i sgrub thabs zhes bya ba
+	Q2959	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་སྒྲུབ་ཐབས	rgyud 'grel, phi 171a5-175b3 (vol.67, p.302)	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i sgrub thabs
+	Q3406	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་སྒྲུབ་ཐབས	rgyud 'grel, i 72a7-85a1 (vol.75, p.147)	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i sgrub thabs
+	Q3425	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་སྒྲུབ་ཐབས	rgyud 'grel, ku 63a5-65a7 (vol.75, p.273)	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i sgrub thabs
+	Q3427	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, ku 77a8-82a4 (vol.75, p.279)	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i sgrub thabs zhes bya ba
+	Q3446	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, ku 110a1-129a2 (vol.75, p.292)	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i sgrub thabs zhes bya ba
+
+K0973
+    1!=2
+
+	D2123	དཔལ་བཅོམ་ལྡན་འདས་རལ་པ་གཅིག་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཚི། 170a6-170b6.
+	D2125	དཔལ་བཅོམ་ལྡན་འདས་རལ་པ་གཅིག་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཚི། 171b1-172a7.
+	G977	དཔལ་བཅོམ་ལྡན་འདས་རལ་པ་གཅིག་པའི་སྒྲུབ་ཐབས་	rgyud 'grel, phi 259a2-259b (p.126-4-2)	dpal bcom ldan 'das ral pa gcig pa'i sgrub thabs
+	N2985	དཔལ་བཅོམ་ལྡན་འདས་རལ་པ་གཅིག་པའི་སྒྲུབ་ཐབས	rgyud 'grel, phi 191a1-191b2. (ff.191r-191v (pp.381-382))	dpal bcom ldan 'das ral pa gcig pa'i sgrub thabs
+	N2987	དཔལ་བཅོམ་ལྡན་འདས་རལ་པ་གཅིག་པའི་སྒྲུབ་ཐབས	rgyud 'grel, phi 192a4-193a6. (ff.192r-193r (pp.383-385))	dpal bcom ldan 'das ral pa gcig pa'i sgrub thabs
+	Q2974	དཔལ་བཅོམ་ལྡན་འདས་རལ་པ་གཅིག་པའི་སྒྲུབ་ཐབས	rgyud 'grel, phi 206b8-207b2 (vol.68, p.11)	dpal bcom ldan 'das ral pa gcig pa'i sgrub thabs
+	Q2976	དཔལ་བཅོམ་ལྡན་འདས་རལ་པ་གཅིག་པའི་སྒྲུབ་ཐབས	rgyud 'grel, phi 208a7-209b2 (vol.68, p.12)	dpal bcom ldan 'das ral pa gcig pa'i sgrub thabs
+
+K0994
+    1!=2!=3!=4!=5!=6!=7
+
+	D2142	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཚི། 215b4-216a5.
+	D3053	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། པུ། 105b6-107b2.
+	D3054	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། པུ། 107b2-108a2.
+	D3055	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། པུ། 108a2-108a7.
+	D3056	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། པུ། 108a7-109b4.
+	D3277	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 26a5-26b3.
+	D3621	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 242a4-242b1.
+	G998	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས་	rgyud 'grel, phi 348a6-349a (p.170-3-6)	rta mgrin gyi sgrub thabs
+	N3006	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, phi 251a2-251b6. (ff.251r-251v (pp.501-502))	rta mgrin gyi sgrub thabs
+	N3887	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, tu 112b3-114b1. (ff.112v-114v (224-228))	rta mgrin gyi sgrub thabs
+	N3888	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, tu 114b2-115a3. (ff.114v-115r (pp.228-229))	rta mgrin gyi sgrub thabs zhes bya ba
+	N3889	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, tu 115a3-115b1. (ff.115r-115v (pp.229-230))	rta mgrin gyi sgrub thabs zhes bya ba
+	N3890	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, tu 115b1-116b7. (ff.115v-117r (pp.230-233))	rta mgrin gyi sgrub thabs zhes bya ba
+	N4110	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 294b6-295a4. (ff.294v-295r (pp.588-589))	rta mgrin gyi sgrub thabs
+	N4453	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 287a4-287b2. (ff.287r-287v (pp.575-576))	rta mgrin gyi sgrub thabs
+	Q2995	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, phi 270b1-271a5 (vol.68, p.37)	rta mgrin gyi sgrub thabs
+	Q3877	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, tu 121a5-123a8 (vol.79, p.260)	rta mgrin gyi sgrub thabs
+	Q3878	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, tu 123a8-124a1 (vol.79, p.261)	rta mgrin gyi sgrub thabs zhes bya ba
+	Q3879	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, tu 124a1-124a6 (vol.79, p.261)	rta mgrin gyi sgrub thabs zhes bya ba
+	Q3880	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, tu 124a7-125b7 (vol.79, p.261)	rta mgrin gyi sgrub thabs zhes bya ba
+	Q4100	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 310a6-310b4 (vol.80, p.204)	rta mgrin gyi sgrub thabs
+	Q4443	རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 314b2-314b8 (vol.81, p.50)	rta mgrin gyi sgrub thabs
+
+K1002
+    1!=2
+
+	D2154	དཔལ་ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་གཟུངས་ཀྱི་གཏོར་མའི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཚི། 249a6-249b7.
+	D2874	དཔལ་ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་གཟུངས་ཀྱི་གཏོར་མའི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ནུ། 216b5-217b4.
+	G1006	དཔལ་ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་གཟུངས་ཀྱི་གཏོར་མའི་ཆོ་ག་ཞེས་བྱ་བ་	rgyud 'grel, phi 382a5-383b (p.188-1-5)	dpal phyag na rdo rje gos sngon po can gyi gzungs kyi gtor ma'i cho ga zhes bya ba
+	N3014	དཔལ་ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་གཟུངས་ཀྱི་གཏོར་མའི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, phi 275a2-276a1. (ff.275r-276r (pp.549-551))	dpal phyag na rdo rje gos sngon po can gyi gzungs kyi gtor ma'i cho ga zhes bya ba
+	N3711	དཔལ་ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་གཟུངས་ཀྱི་གཏོར་མའི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, nyu 286a5-287a7. (ff.286r-287r (pp.571-573))	dpal phyag na rdo rje gos sngon po can gyi gzungs kyi gtor ma'i cho ga zhes bya ba
+	Q3003	དཔལ་ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་གཟུངས་ཀྱི་གཏོར་མའི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, phi 296a3-297a4 (vol.68, p.47)	dpal phyag na rdo rje gos sngon po can gyi gzungs kyi gtor ma'i cho ga zhes bya ba
+	Q3697	དཔལ་ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་གཟུངས་ཀྱི་གཏོར་མའི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, nyu 260a5-261b7 (vol.79, p.150)	dpal phyag na rdo rje gos sngon po can gyi gzungs kyi gtor ma'i cho ga zhes bya ba
+
+K1008
+    1!=2
+
+	D2160	ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྦྱིན་སྲེག་གི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཚི། 255a7-256a4.
+	D2161	ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྦྱིན་སྲེག་གི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཚི། 256a4-257a3.
+	G1012	ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྦྱིན་སྲེག་གི་ཆོ་ག་ཞེས་བྱ་བ་	rgyud 'grel, phi 393b1-394b (p.195-1-1)	phyag na rdo rje gos sngon po can gyi sbyin sreg gi cho ga zhes bya ba
+	N3020	ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྦྱིན་སྲེག་གི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, phi 282b5-283b5. (ff.282v-283v (pp.564-566))	phyag na rdo rje gos sngon po can gyi sbyin sreg gi cho ga zhes bya ba
+	N3021	ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྦྱིན་སྲེག་གི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, phi 283b6-284b7. (ff.283v-284v (pp.566-568))	phyag na rdo rje gos sngon po can gyi sbyin sreg gi cho ga zhes bya ba
+	Q3009	ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྦྱིན་སྲེག་གི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, phi 305a2-306a3 (vol.68, p.51)	phyag na rdo rje gos sngon po can gyi sbyin sreg gi cho ga zhes bya ba
+	Q3010	ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྦྱིན་སྲེག་གི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, phi 306a3-307a6 (vol.68, p.51)	phyag na rdo rje gos sngon po can gyi sbyin sreg gi cho ga zhes bya ba
+
+K1010
+    1!=2
+
+	D2162	གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཚི། 257a3-267a3.
+	D2171	གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཚི། 323a2-328a4.
+	G1014	གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ་	rgyud 'grel, phi 396a4-412a (p.194-4-4)	gnod sbyin gyi sde dpon chen po lag na rdo rje gos sngon po can gyi dkyil 'khor gyi cho ga zhes bya ba
+	N3022	གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, phi 284b7-296a5. (ff.284v-296r (pp.568-591))	gnod sbyin gyi sde dpon chen po lag na rdo rje gos sngon po can gyi dkyil 'khor gyi cho ga zhes bya ba
+	N3031	གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, phi 360a6-366a2. (ff.360r-366r (pp.719-731))	gnod sbyin gyi sde dpon chen po lag na rdo rje gos sngon po can gyi dkyil 'khor gyi cho ga zhes bya ba
+	Q3011	གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, phi 307a6-320a3 (vol.68, p.51)	gnod sbyin gyi sde dpon chen po lag na rdo rje gos sngon po can gyi dkyil 'khor gyi cho ga zhes bya ba
+	Q3019	གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, phi 392b1-398b8 (vol.68, p.86)	gnod sbyin gyi sde dpon chen po lag na rdo rje gos sngon po can gyi dkyil 'khor gyi cho ga zhes bya ba
+
+K1016
+    1!=2
+
+	D2169	གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཚི། 313b-321a5.
+	D2170	གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཚི། 321a5-323a2.
+	G1021	གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་ཐབས་	rgyud 'grel, phi 486b1-497a (p.239-3-1)	gnod sbyin gyi sde dpon chen po lag na rdo rje gos sngon po can gyi sgrub thabs
+	N3029	གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, phi 349b5-358a5. (ff.349v-358r (pp.698-715))	gnod sbyin gyi sde dpon chen po lag na rdo rje gos sngon po can gyi sgrub thabs
+	N3030	གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, phi 358a5-360a6. (ff.358r-360r (pp.715-719))	gnod sbyin gyi sde dpon chen po lag na rdo rje gos sngon po can gyi sgrub thabs
+	Q3017	གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, phi 380a2-390a2 (vol.68, p.81)	gnod sbyin gyi sde dpon chen po lag na rdo rje gos sngon po can gyi sgrub thabs
+	Q3018	གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, phi 390a2-392b1 (vol.68, p.85)	gnod sbyin gyi sde dpon chen po lag na rdo rje gos sngon po can gyi sgrub thabs
+
+K1022
+    1!=2
+
+	D2175	ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་གཏོར་མའི་ཆོ་ག	རྒྱུད་འགྲེལ། ཛི། 29a4-31a6.
+	D2891	ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་གཏོར་མའི་ཆོ་ག	རྒྱུད་འགྲེལ། ནུ། 241b2-242a7.
+	G1027	ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་གཏོར་མའི་ཆོ་ག་	rgyud 'grel, bi 37b1-40a (p.19-4-1)	phyag na rdo rje gos sngon po can gyi gtor ma'i cho ga
+	N3035	ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་གཏོར་མའི་ཆོ་ག	rgyud 'grel, bi 31a6-33b1. (ff.31r-33v (pp.61-66))	phyag na rdo rje gos sngon po can gyi gtor ma'i cho ga
+	N3729	ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་གཏོར་མའི་ཆོ་ག	rgyud 'grel, nyu 317a2-318a5. (ff.317r-318r (pp.633-635))	phyag na rdo rje gos sngon po can gyi gtor ma'i cho ga
+	Q3023	ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་གཏོར་མའི་ཆོ་ག	rgyud 'grel, bi 35a5-37b8 (vol.68, p.114)	phyag na rdo rje gos sngon po can gyi gtor ma'i cho ga
+	Q3717	ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་གཏོར་མའི་ཆོ་ག	rgyud 'grel, nyu 292a5-293a7 (vol.79, p.163)	phyag na rdo rje gos sngon po can gyi gtor ma'i cho ga
+
+K1054
+    1!=2
+
+	D2213	འཕགས་པ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་ཐབས་ཀྱི་མན་ངག་རྒྱ་ཆེར་བཤད་པ་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཛི། 194a2-202a6.
+	D2214	འཕགས་པ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་ཐབས་ཀྱི་མན་ངག་རྒྱ་ཆེར་བཤད་པ་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཛི། 202a6-209a6.
+	G1059	ཕགས་པ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་ཐབས་ཀྱི་མན་ངག་རྒྱ་ཆེར་བཤད་པ་ཞེས་བྱ་བ་	rgyud 'grel, bi 275a4-287b (p.139-2-4)	phags pa lag na rdo rje gos sngon po can gyi sgrub thabs kyi man ngag rgya cher bshad pa zhes bya ba
+	N3068	འཕགས་པ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་ཐབས་ཀྱི་མན་ངག་རྒྱ་ཆེར་བཤད་པ་ཞེས་བྱ་བ	rgyud 'grel, bi 200b1-209b1. (ff.200v-209v (PP.400-418))	'phags pa lag na rdo rje gos sngon po can gyi sgrub thabs kyi man ngag rgya cher bshad pa zhes bya ba
+	N3071	འཕགས་པ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་ཐབས་ཀྱི་མན་ངག་རྒྱ་ཆེར་བཤད་པ་ཞེས་བྱ་བ	rgyud 'grel, bi 221a7-229a4. (ff.221r-229r (pp.441-457))	'phags pa lag na rdo rje gos sngon po can gyi sgrub thabs kyi man ngag rgya cher bshad pa zhes bya ba
+	Q3055	འཕགས་པ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་ཐབས་ཀྱི་མན་ངག་རྒྱ་ཆེར་བཤད་པ་ཞེས་བྱ་བ	rgyud 'grel, bi 228a3-238b4 (vol.68, p.191)	'phags pa lag na rdo rje gos sngon po can gyi sgrub thabs kyi man ngag rgya cher bshad pa zhes bya ba
+	Q3058	འཕགས་པ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་ཐབས་ཀྱི་མན་ངག་རྒྱ་ཆེར་བཤད་པ་ཞེས་བྱ་བ	rgyud 'grel, bi 252b2-261a4 (vol.68, p.201)	'phags pa lag na rdo rje gos sngon po can gyi sgrub thabs kyi man ngag rgya cher bshad pa zhes bya ba
+
+K1135
+    1!=2!=3!=4
+
+	D2288	རྡོ་རྗེའི་གླུ	རྒྱུད་འགྲེལ། ཞི། 152b6-153a1.
+	D2289	རྡོ་རྗེའི་གླུ	རྒྱུད་འགྲེལ། ཞི། 153a1-153a4.
+	D2290	རྡོ་རྗེའི་གླུ	རྒྱུད་འགྲེལ། ཞི། 153a4-153a5.
+	D2291	རྡོ་རྗེའི་གླུ	རྒྱུད་འགྲེལ། ཞི། 153a5-153a6.
+	G1140	རྡོ་རྗེའི་གླུ་	rgyud 'grel, tsi 219a4-219b (p.110-3-4)	rdo rje'i glu
+	N3149	རྡོ་རྗེའི་གླུ	rgyud 'grel, tsi 156b5-156b6. (ff.156v (pp.312))	rdo rje'i glu
+	N3150	རྡོ་རྗེའི་གླུ	rgyud 'grel, tsi 156b7-157a3. (ff.156v-157r (pp.312-313))	rdo rje'i glu
+	N3151	རྡོ་རྗེའི་གླུ	rgyud 'grel, tsi 157a3-157a4. (ff.157r (pp.313))	rdo rje'i glu
+	N3152	རྡོ་རྗེའི་གླུ	rgyud 'grel, tsi 157a4-157a5. (ff.157r (pp.313))	rdo rje'i glu
+	N5060	རྡོ་རྗེའི་གླུ	rgyud 'grel, ru 44a-44a. (ff.44r-44r (pp.87-87))	rdo rje'i glu
+	Q3136	རྡོ་རྗེའི་གླུ	rgyud 'grel, tsi 168a2-168a4 (vol.69, p.139)	rdo rje'i glu
+	Q3137	རྡོ་རྗེའི་གླུ	rgyud 'grel, tsi 168a4-168a8 (vol.69, p.139)	rdo rje'i glu
+	Q3138	རྡོ་རྗེའི་གླུ	rgyud 'grel, tsi 168a8-168b1 (vol.69, p.139)	rdo rje'i glu
+	Q3139	རྡོ་རྗེའི་གླུ	rgyud 'grel, tsi 168b1-168b3 (vol.69, p.139)	rdo rje'i glu
+	Q5050	རྡོ་རྗེའི་གླུ	rgyud 'grel, ru 48a4-48a7 (vol.87, p.129)	rdo rje'i glu
+
+K1186
+    1!=2!=3!=4
+
+	D2359	གླུ	རྒྱུད་འགྲེལ། ཟི། 7a4-7a7.
+	D2360	གླུ	རྒྱུད་འགྲེལ། ཟི། 7a7-7b3.
+	D2363	གླུ	རྒྱུད་འགྲེལ། ཟི། 8a2-8a4.
+	D2364	གླུ	རྒྱུད་འགྲེལ། ཟི། 8a4-8a7.
+	G1191	གླུ་	rgyud 'grel, tshi 9a2-9a (p.4-4-2)	glu
+	N3200	གླུ	rgyud 'grel, tshi 8a6-8b2. (ff.8r-8v (pp.15-16))	glu
+	N3201	གླུ	rgyud 'grel, tshi 8b2-8b6. (ff.8v (pp.16))	glu
+	N3204	གླུ	rgyud 'grel, tshi 9a5-9a8. (ff.9r (pp.17))	glu
+	N3205	གླུ	rgyud 'grel, tshi 9a8-9b2. (ff.9r-9v(pp.17-18))	glu
+	Q3187	གླུ	rgyud 'grel, tshi 8b5-9a1 (vol.69, p.193)	glu
+	Q3188	གླུ	rgyud 'grel, tshi 9a1-9a6 (vol.69, p.193)	glu
+	Q3191	གླུ	rgyud 'grel, tshi 9b6-10a1 (vol.69, p.194)	glu
+	Q3192	གླུ	rgyud 'grel, tshi 10a1-10a4 (vol.69, p.194)	glu
+
+K1205
+    1!=2
+
+	D2428	འབྲེལ་མེད་ཀྱི་ལྟ་བ་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཟི། 41a1-46a5.
+	D2437	འབྲེལ་མེད་ཀྱི་ལྟ་བ་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཟི། 49a6-49b4.
+	G1210	བྲེལ་མེད་ཀྱི་ལྟ་བ་ཞེས་བྱ་བ་	rgyud 'grel, tshi 16a1-22b (p.8-3-1)	brel med kyi lta ba zhes bya ba
+	N3219	འབྲེལ་མེད་ཀྱི་ལྟ་བ་ཞེས་བྱ་བ	rgyud 'grel, tshi 12b4-18b3. (ff.12v-18v (pp.24-36))	'brel med kyi lta ba zhes bya ba
+	N3228	འབྲེལ་མེད་ཀྱི་ལྟ་བ་ཞེས་བྱ་བ	rgyud 'grel, tshi 21b5-22a2. (ff.21v-22r (pp.42-43))	'brel med kyi lta ba zhes bya ba
+	Q3206	འབྲེལ་མེད་ཀྱི་ལྟ་བ་ཞེས་བྱ་བ	rgyud 'grel, tshi 14a6-21a4 (vol.69, p.195)	'brel med kyi lta ba zhes bya ba
+	Q3215	འབྲེལ་མེད་ཀྱི་ལྟ་བ་ཞེས་བྱ་བ	rgyud 'grel, tshi 25a2-25a8 (vol.69, p.200)	'brel med kyi lta ba zhes bya ba
+
+K1218
+    1!=2
+
+	D2377	རླུང་གི་དེ་ཉིད་བསྒོམ་པའི་མན་ངག་ཅེས་བྱ་བ	རྒྱུད་འགྲེལ། ཟི། 11a4-11b2.
+	D2378	རླུང་གི་དེ་ཉིད་བསྒོམ་པའི་མན་ངག་ཅེས་བྱ་བ	རྒྱུད་འགྲེལ། ཟི། 11b2-12a6.
+	G1223	རླུང་གི་དེ་ཉིད་བསྒོམ་པའི་མན་ངག་ཅེས་བྱ་བ་	rgyud 'grel, tshi 29a6-29b (p.14-4-6)	rlung gi de nyid bsgom pa'i man ngag ces bya ba
+	N3232	རླུང་གི་དེ་ཉིད་བསྒོམ་པའི་མན་ངག་ཅེས་བྱ་བ	rgyud 'grel, tshi 23a3-23a7. (ff.23r (pp.45))	rlung gi de nyid bsgom pa'i man ngag ces bya ba
+	N3233	རླུང་གི་དེ་ཉིད་བསྒོམ་པའི་མན་ངག་ཅེས་བྱ་བ	rgyud 'grel, tshi 23a7-24a4. (ff.23r-24r (pp.45-47))	rlung gi de nyid bsgom pa'i man ngag ces bya ba
+	Q3219	རླུང་གི་དེ་ཉིད་བསྒོམ་པའི་མན་ངག་ཅེས་བྱ་བ	rgyud 'grel, tshi 26b4-27a2 (vol.69, p.200)	rlung gi de nyid bsgom pa'i man ngag ces bya ba
+	Q3220	རླུང་གི་དེ་ཉིད་བསྒོམ་པའི་མན་ངག་ཅེས་བྱ་བ	rgyud 'grel, tshi 27a2-28a2 (vol.69, p.201)	rlung gi de nyid bsgom pa'i man ngag ces bya ba
+
+K1287
+    1!=2
+
+	D2460	ཏིང་ངེ་འཛིན་གྱི་ཚོགས་ཀྱི་ལེའུ	རྒྱུད་འགྲེལ། ཟི། 134b5-135a6.
+	D3924	ཏིང་ངེ་འཛིན་གྱི་ཚོགས་ཀྱི་ལེའུ	མདོ་འགྲེལ་༼དབུ་མ༽། ཀི། 79b-91a
+	G1292	ཏིང་ངེ་འཛིན་གྱི་ཚོགས་ཀྱི་ལེའུ་	rgyud 'grel, tshi 203a6-204a (p.102-2-6)	ting nge 'dzin gyi tshogs kyi le'u
+	N3301	ཏིང་ངེ་འཛིན་གྱི་ཚོགས་ཀྱི་ལེའུ	rgyud 'grel, tshi 146b6-147b1. (ff.146v-147v (pp.292-294))	ting nge 'dzin gyi tshogs kyi le'u
+	Q3288	ཏིང་ངེ་འཛིན་གྱི་ཚོགས་ཀྱི་ལེའུ	rgyud 'grel, tshi 169a2-169b5 (vol.69, p.257)	ting nge 'dzin gyi tshogs kyi le'u
+	Q5319	ཏིང་ངེ་འཛིན་གྱི་ཚོགས་ཀྱི་ལེའུ་ཞེས་བྱ་བ	dbu ma, a 87a2-100a8 (vol.102, p.47-52)	ting nge 'dzin gyi tshogs kyi le'u zhes bya ba
+	Q5320	ཏིང་ངེ་འཛིན་གྱི་ཚོགས་ཀྱི་ལེའུ་ཞེས་བྱ་བ	dbu ma, a 100a8-102a5 (vol.102, p.52-53)	ting nge 'dzin gyi tshogs kyi le'u zhes bya ba
+	Q5398	ཏིང་ངེ་འཛིན་གྱི་ཚོགས་ཀྱི་ལེའུ	dbu ma, gi 46b8-47b2 (vol.103, p.202-203)	ting nge 'dzin gyi tshogs kyi le'u
+	Q5444	ཏིང་ངེ་འཛིན་ཚོགས་ཀྱི་ལེའུ་ཞེས་བྱ་བ	dbu ma, gi 166b2-179a4 (vol.103, p.250-255)	ting nge 'dzin tshogs kyi le'u zhes bya ba
+	Q5445	ཏིང་ངེ་འཛིན་གྱི་ཚོགས་ཀྱི་ལེའུ་ཞེས་བྱ་བ	dbu ma, gi 179a4-181a1 (vol.103, p.255-256)	ting nge 'dzin gyi tshogs kyi le'u zhes bya ba
+
+K1298
+    1=གཞུང་འདྲ་ཀྱང་ ༢ པར་བསྒྱུར་བྱང་བྲིས་མི་འདུག
+
+	D2471	ཕ་རོལ་དབང་དུ་བྱ་བ	རྒྱུད་འགྲེལ། ཟི། 143b1-143b7.
+	D2828	ཕ་རོལ་དབང་དུ་བྱ་བ	རྒྱུད་འགྲེལ། ནུ། 174b4-175a3.
+	G1303	ཕ་རོལ་དབང་དུ་བྱ་བ་	rgyud 'grel, tshi 215b3-216a (p.109-2-3)	pha rol dbang du bya ba
+	N3312	ཕ་རོལ་དབང་དུ་བྱ་བ	rgyud 'grel, tshi 156a7-156b7. (ff.156r-157r (pp.311-313))	pha rol dbang du bya ba
+	N3665	ཕ་རོལ་དབང་དུ་བྱ་བ	rgyud 'grel, nyu 237b4-238a4. (ff.237v-238r (pp.474-475))	pha rol dbang du bya ba
+	Q3299	ཕ་རོལ་དབང་དུ་བྱ་བ	rgyud 'grel, tshi 180a5-180b7 (vol.69, p.262)	pha rol dbang du bya ba
+	Q3649	ཕ་རོལ་དབང་དུ་བྱ་བ	rgyud 'grel, nyu 203a8-203b7 (vol.79, p.127)	pha rol dbang du bya ba
+
+K1354
+    1!=2
+
+	D2532	མཚན་ཡང་དག་པར་བརྗོད་པའི་འགྲེལ་པ	རྒྱུད་འགྲེལ། ཁུ། 1b1-27b1.
+	D2542	མཚན་ཡང་དག་པར་བརྗོད་པའི་འགྲེལ་པ	རྒྱུད་འགྲེལ། གུ། 235a1-275a7.
+	G1359	མཚན་ཡང་དག་པར་བརྗོད་པའི་འགྲེལ་པ་	rgyud 'grel, si 1b1-41b (p.1-2-1)	mtshan yang dag par brjod pa'i 'grel pa
+	N3368	མཚན་ཡང་དག་པར་བརྗོད་པའི་འགྲེལ་པ	rgyud 'grel, si 1a1-31a4. (ff.1r-31r (pp.1-61))	mtshan yang dag par brjod pa'i 'grel pa
+	N3378	མཚན་ཡང་དག་པར་བརྗོད་པའི་འགྲེལ་པ	rgyud 'grel, hi 215a3-267b4. (ff.215r-267v (pp.429-534))	mtshan yang dag par brjod pa'i 'grel pa
+	Q3355	མཚན་ཡང་དག་པར་བརྗོད་པའི་འགྲེལ་པ	rgyud 'grel, si 1-31a8 (vol.74, p.171)	mtshan yang dag par brjod pa'i 'grel pa
+	Q3365	མཚན་ཡང་དག་པར་བརྗོད་པའི་འགྲེལ་པ	rgyud 'grel, hi 217a8-265a8 (vol.75, p.89)	mtshan yang dag par brjod pa'i 'grel pa
+
+K1368
+    1!=2!=3!=4!=5
+
+	D2545	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ངུ། 16a5-17b2.
+	D2546	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ངུ། 17b2-18a4.
+	D2547	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ངུ། 18a4-18b6.
+	D2595	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག	རྒྱུད་འགྲེལ། ཅུ། 35a1-46b3.
+	D2620	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག	རྒྱུད་འགྲེལ། ཅུ། 109a2-120a4.
+	G1373	ཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ་	rgyud 'grel, i 20b1-21a (p.11-3-1)	phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga zhes bya ba
+	N3382	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, i 17a6-18a5. (ff.17r-18r (pp.33-35))	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga zhes bya ba
+	N3383	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, i 18a5-19b1. (ff.18r-19v (pp.35-38))	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga zhes bya ba
+	N3384	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, i 19b1-20a6. (ff.19v-20r (pp.38-39))	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga zhes bya ba
+	N3385	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག	rgyud 'grel, i 20a6-21a. (ff.20r-21r (pp.39-41))	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga
+	N3386	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག	rgyud 'grel, i 21a-21b. (ff.21r-21v (pp.41-42))	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga
+	N3387	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག	rgyud 'grel, i 21b-22a. (ff.21v-22r (42-44))	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga
+	N3435	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག	rgyud 'grel, ku 37a2-49a2. (ff.37r-49r (pp.73-97))	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga
+	N3460	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག	rgyud 'grel, ku 114b5-126a6. (ff.114v-126r (pp.228-251))	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga
+	Q3369	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, i 17b2-18a7 (vol.75, p.125)	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga zhes bya ba
+	Q3370	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, i 18a7-19b3 (vol.75, p.125)	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga zhes bya ba
+	Q3371	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, i 19b4-20b2 (vol.75, p.126)	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga zhes bya ba
+	Q3372	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, i 20b3-21a8 (vol.75, p.126)	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga zhes bya ba
+	Q3373	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, i 21b1-22a6 (vol.75, p.126)	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga zhes bya ba
+	Q3374	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ	rgyud 'grel, i 22a6-23a2 (vol.75, p.127)	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga zhes bya ba
+	Q3422	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག	rgyud 'grel, ku 41b5-55a3 (vol.75, p.264)	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga
+	Q3447	འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག	rgyud 'grel, ku 129a2-142a2 (vol.75, p.299)	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga
+
+K1413
+    1!=2!=3!=4
+
+	D2587	འཕགས་པ་འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ངུ། 151b3-154a3.
+	D2606	འཕགས་པ་འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	རྒྱུད་འགྲེལ། ཅུ། 79b4-80b4.
+	D3312	འཕགས་པ་འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 11a6-11b3.
+	D3440	འཕགས་པ་འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 99a6-100a2.
+	G1418	ཕགས་པ་འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ་	rgyud 'grel, i 231a4-234b (p.116-2-4)	phags pa 'jam dpal gyi sgrub thabs zhes bya ba
+	N3427	འཕགས་པ་འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, i 165b6-168b3. (ff.165v-168v (pp.330-336))	'phags pa 'jam dpal gyi sgrub thabs zhes bya ba
+	N3446	འཕགས་པ་འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, ku 83b6-85a1. (ff.83v-85r (pp.166-169))	'phags pa 'jam dpal gyi sgrub thabs zhes bya ba
+	N4143	འཕགས་པ་འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 13a2-13a6. (ff.13r-13r (pp.25-25))	'phags pa 'jam dpal gyi sgrub thabs
+	N4271	འཕགས་པ་འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 115b3-116b2. (ff.115v-116v (pp.232-234))	'phags pa 'jam dpal gyi sgrub thabs
+	Q3414	འཕགས་པ་འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, i 179b1-182a7 (vol.75, p.190)	'phags pa 'jam dpal gyi sgrub thabs zhes bya ba
+	Q3433	འཕགས་པ་འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, ku 95a3-96a6 (vol.75, p.286)	'phags pa 'jam dpal gyi sgrub thabs zhes bya ba
+	Q4133	འཕགས་པ་འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 13b5-14a3 (vol.80, p.223)	'phags pa 'jam dpal gyi sgrub thabs
+	Q4261	འཕགས་པ་འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 127a1-127b7 (vol.80, p.269)	'phags pa 'jam dpal gyi sgrub thabs
+
+K1417
+    1!=2
+
+	D2591	བྱང་ཆུབ་ཀྱི་སེམས་བསྒོམ་པ	རྒྱུད་འགྲེལ། ཅུ། 1b1-4b7.
+	D3913	བྱང་ཆུབ་ཀྱི་སེམས་བསྒོམ་པ	མདོ་འགྲེལ་༼དབུ་མ༽། ཀི། 16b-19a
+	G1422	བྱང་ཆུབ་ཀྱི་སེམས་བསྒོམ་པ་	rgyud 'grel, ku 1b1-6b (p.1-2-1)	byang chub kyi sems bsgom pa
+	N3431	བྱང་ཆུབ་ཀྱི་སེམས་བསྒོམ་པ	rgyud 'grel, ku 1a1-6a4. (ff.1r-6r (pp.1-11))	byang chub kyi sems bsgom pa
+	Q3418	བྱང་ཆུབ་ཀྱི་སེམས་བསྒོམ་པ	rgyud 'grel, ku 1-5b7 (vol.75, p.247)	byang chub kyi sems bsgom pa
+
+K1471
+    1!=2!=3
+
+	D2648	ཡི་གེ་བརྒྱ་པའི་ཆོ་ག	རྒྱུད་འགྲེལ། ཇུ། 294a5-298a7.
+	D2649	ཡི་གེ་བརྒྱ་པའི་ཆོ་ག	རྒྱུད་འགྲེལ། ཇུ། 298a7-299b4.
+	D3646	ཡི་གེ་བརྒྱ་པའི་ཆོ་ག	རྒྱུད་འགྲེལ། མུ། 259a6-260b1.
+	G1476	ཡི་གེ་བརྒྱ་པའི་ཆོ་ག་	rgyud 'grel, gu 390b1-396b (p.197-1-1)	yi ge brgya pa'i cho ga
+	N3485	ཡི་གེ་བརྒྱ་པའི་ཆོ་ག	rgyud 'grel, gu 304b3-309b6. (ff.304v-309v (pp.508-618))	yi ge brgya pa'i cho ga
+	N3486	ཡི་གེ་བརྒྱ་པའི་ཆོ་ག	rgyud 'grel, gu 309b7-311b1. (ff.309v-311v (pp.618-622))	yi ge brgya pa'i cho ga
+	N4478	ཡི་གེ་བརྒྱ་པའི་ཆོ་ག	rgyud 'grel, du 306b4-308a1. (ff.306v-308r (pp.614-617))	yi ge brgya pa'i cho ga
+	Q3472	ཡི་གེ་བརྒྱ་པའི་ཆོ་ག	rgyud 'grel, gu 320b8-326a8 (vol.77, p.54)	yi ge brgya pa'i cho ga
+	Q3473	ཡི་གེ་བརྒྱ་པའི་ཆོ་ག	rgyud 'grel, gu 326b1-328a2 (vol.77, p.56)	yi ge brgya pa'i cho ga
+	Q4468	ཡི་གེ་བརྒྱ་པའི་ཆོ་ག	rgyud 'grel, du 337b5-339a7 (vol.81, p.59-60)	yi ge brgya pa'i cho ga
+
+K1508
+    1!=2
+
+	D2685	རྡོ་རྗེ་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་མན་ངག	རྒྱུད་འགྲེལ། ཐུ། 233b2-236a5.
+	D2931	རྡོ་རྗེ་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་མན་ངག	རྒྱུད་འགྲེལ། ནུ། 336a4-339a1.
+	G1513	རྡོ་རྗེ་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་མན་ངག་	rgyud 'grel, chu 319a5-320b (p.160-2-5)	rdo rje rnam par 'joms pa zhes bya ba'i gzungs kyi man ngag
+	N3522	རྡོ་རྗེ་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་མན་ངག	rgyud 'grel, chu 236b4-237b. (ff.236v-237v (pp.472-474))	rdo rje rnam par 'joms pa zhes bya ba'i gzungs kyi man ngag
+	N3768	རྡོ་རྗེ་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་མན་ངག	rgyud 'grel, nyu 411a6-414b4. (ff.411r-414v (pp.821-828))	rdo rje rnam par 'joms pa zhes bya ba'i gzungs kyi man ngag
+	Q3509	རྡོ་རྗེ་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་མན་ངག	rgyud 'grel, chu 243b8-246b7 (vol.78, p.163)	rdo rje rnam par 'joms pa zhes bya ba'i gzungs kyi man ngag
+	Q3757	རྡོ་རྗེ་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་མན་ངག	rgyud 'grel, nyu 386a6-389a7 (vol.79, p.200)	rdo rje rnam par 'joms pa zhes bya ba'i gzungs kyi man ngag
+
+K1537
+    1!=2!=3!=4!=5
+
+	D2714	ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ནུ། 80b3-81b1.
+	D2715	ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ནུ། 81b1-82b2.
+	D3311	ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 10a6-11a6.
+	D3449	ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 106a6-107a4.
+	D3459	ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 113a6-114b4.
+	G1544	ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས་	rgyud 'grel, nyu 178a4-179b (p.90-1-4)	a ra pa tsa na'i sgrub thabs
+	N3554	ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	rgyud 'grel, nyu 130a2-131a4. (ff.130r-131r (pp.259-261))	a ra pa tsa na'i sgrub thabs
+	N4142	ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	rgyud 'grel, du 12a1-13a1. (ff.12r-13r (pp.23-25))	a ra pa tsa na'i sgrub thabs
+	N4280	ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	rgyud 'grel, du 124a7-125b2. (ff.124r-125v (pp.249-252))	a ra pa tsa na'i sgrub thabs
+	N4290	ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	rgyud 'grel, du 133b4-135b1. (ff.133v-135v (pp.268-272))	a ra pa tsa na'i sgrub thabs
+	N4847	ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	rgyud 'grel, zu 108a5-109b3. (ff.108r-109v (pp.215-218))	a ra pa tsa na'i sgrub thabs
+	Q3538	ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	rgyud 'grel, nyu 98a4-99a2 (vol.79, p.85)	a ra pa tsa na'i sgrub thabs
+	Q4132	ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	rgyud 'grel, du 12b2-13b3 (vol.80, p.223)	a ra pa tsa na'i sgrub thabs
+	Q4270	ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	rgyud 'grel, du 136a3-137a5 (vol.80, p.272-273)	a ra pa tsa na'i sgrub thabs
+	Q4280	ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	rgyud 'grel, du 145a8-147a4 (vol.80, p.276-277)	a ra pa tsa na'i sgrub thabs
+	Q4837	ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	rgyud 'grel, zu 112b6-114a4 (vol.86, p.97)	a ra pa tsa na'i sgrub thabs
+
+K1540
+    1!=2
+
+	D2720	འཕགས་པ་དོན་ཡོད་ཞགས་པ་ལྷ་ལྔའི་བསྟོད་པ	རྒྱུད་འགྲེལ། ནུ། 86b3-87a3.
+	D2725	འཕགས་པ་དོན་ཡོད་ཞགས་པ་ལྷ་ལྔའི་བསྟོད་པ	རྒྱུད་འགྲེལ། ནུ། 93a7-93b5.
+	G1547	ཕགས་པ་དོན་ཡོད་ཞགས་པ་ལྷ་ལྔའི་བསྟོད་པ་	rgyud 'grel, nyu 183b1-184a (p.93-2-1)	phags pa don yod zhags pa lha lnga'i bstod pa
+	N3557	འཕགས་པ་དོན་ཡོད་ཞགས་པ་ལྷ་ལྔའི་བསྟོད་པ	rgyud 'grel, nyu 133a7-134a1. (ff.133r-134r (pp.265-267))	'phags pa don yod zhags pa lha lnga'i bstod pa
+	N3562	འཕགས་པ་དོན་ཡོད་ཞགས་པ་ལྷ་ལྔའི་བསྟོད་པ	rgyud 'grel, nyu 141b4-142a3. (ff.141v-142r (pp.282-283))	'phags pa don yod zhags pa lha lnga'i bstod pa
+	Q3541	འཕགས་པ་དོན་ཡོད་ཞགས་པ་ལྷ་ལྔའི་བསྟོད་པ	rgyud 'grel, nyu 100b8-101b1 (vol.79, p.86)	'phags pa don yod zhags pa lha lnga'i bstod pa
+	Q3545	འཕགས་པ་དོན་ཡོད་ཞགས་པ་ལྷ་ལྔའི་བསྟོད་པ	rgyud 'grel, nyu 107a3-107b1 (vol.79, p.89)	'phags pa don yod zhags pa lha lnga'i bstod pa
+
+K1550
+    1!=2!=3!=4
+
+	D2731	འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་བསྟོད་པ	རྒྱུད་འགྲེལ། ནུ། 108a3-108b4.
+	D2735	འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ	རྒྱུད་འགྲེལ། ནུ། 113b5-114b2.
+	D2738	འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་བསྟོད་པ	རྒྱུད་འགྲེལ། ནུ། 125b2-126a4.
+	D2739	འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ	རྒྱུད་འགྲེལ། ནུ། 126a4-127a5.
+	G1557	ཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་བསྟོད་པ་	rgyud 'grel, nyu 216b5-217b (p.109-3-5)	phags pa spyan ras gzigs dbang phyug la bstod pa
+	N3567	འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་བསྟོད་པ	rgyud 'grel, nyu 158a7-159a2. (ff.158v-159r (pp.315-317))	'phags pa spyan ras gzigs dbang phyug la bstod pa
+	N3575	འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་བསྟོད་པ	rgyud 'grel, nyu 179b2-180a5. (ff.179v-180r (pp.358-359))	'phags pa spyan ras gzigs dbang phyug la bstod pa
+	N3576	འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ	rgyud 'grel, nyu 180a5-181b1. (ff.180r-181v (pp.359-362))	'phags pa spyan ras gzigs dbang phyug gi bstod pa
+	Q3551	འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་བསྟོད་པ	rgyud 'grel, nyu 125a3-125b5 (vol.79, p.96)	'phags pa spyan ras gzigs dbang phyug la bstod pa
+	Q3554	འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ	rgyud 'grel, nyu 128b2-128b8 (vol.79, p.97)	'phags pa spyan ras gzigs dbang phyug gi bstod pa
+	Q3560	འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་བསྟོད་པ	rgyud 'grel, nyu 142b4-143a8 (vol.79, p.103)	'phags pa spyan ras gzigs dbang phyug la bstod pa
+	Q3561	འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ	rgyud 'grel, nyu 143a8-144b4 (vol.79, p.103)	'phags pa spyan ras gzigs dbang phyug gi bstod pa
+
+K1562
+    1!=3!=3
+
+	D2742	འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ནུ། 127b7-128a3.
+	D2850	འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ནུ། 191b1-192a1.
+	D3416	འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 82a3-82a6.
+	G1571	ཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས་	rgyud 'grel, nyu 252b5-253a (p.127-3-5)	jig rten dbang phyug gi sgrub thabs
+	N3579	འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, nyu 182a5-182b1. (ff.182r-182v (pp.363-364))	'jig rten dbang phyug gi sgrub thabs
+	N3687	འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, nyu 256b7-257b1. (ff.256v-257v (pp.512-514))	'jig rten dbang phyug gi sgrub thabs
+	N4247	འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 94b6-95a2. (ff.94v-95r (pp.190-191))	'jig rten dbang phyug gi sgrub thabs
+	Q3563	འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, nyu 145a1-145a5 (vol.79, p.104)	'jig rten dbang phyug gi sgrub thabs
+	Q3671	འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, nyu 222b6-223b1 (vol.79, p.135)	'jig rten dbang phyug gi sgrub thabs
+	Q4237	འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 104b3-104b6 (vol.80, p.260)	'jig rten dbang phyug gi sgrub thabs
+
+K1636
+    1!=2
+
+	D2816	བསྲུང་བའི་འཁོར་ལོ	རྒྱུད་འགྲེལ། ནུ། 168b7-169a4.
+	D3086	བསྲུང་བའི་འཁོར་ལོ	རྒྱུད་འགྲེལ། པུ། 185b5-186a4.
+	G1645	བསྲུང་བའི་འཁོར་ལོ་	rgyud 'grel, nyu 311a5-311b (p.156-2-5)	bsrung ba'i 'khor lo
+	N3653	བསྲུང་བའི་འཁོར་ལོ	rgyud 'grel, nyu 230b4-231a1. (ff.230v-231r (pp.460-461))	bsrung ba'i 'khor lo
+	N3916	བསྲུང་བའི་འཁོར་ལོ	rgyud 'grel, tu 191b7-192a6. (ff.191v-192r (pp.382-383))	bsrung ba'i 'khor lo
+	Q3637	བསྲུང་བའི་འཁོར་ལོ	rgyud 'grel, nyu 196a2-196a7 (vol.79, p.124)	bsrung ba'i 'khor lo
+	Q3906	བསྲུང་བའི་འཁོར་ལོ	rgyud 'grel, tu 206a4-206b3 (vol.80, p.6)	bsrung ba'i 'khor lo
+
+K1678
+    1!=2!=3!=4!=5
+
+	D2858	སེང་གེ་སྒྲའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ནུ། 197a6-197b7.
+	D3155	སེང་གེ་སྒྲའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 177b4-178a2.
+	D3157	སེང་གེ་སྒྲའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 178a6-179a1.
+	D3414	སེང་གེ་སྒྲའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 81a2-81b7.
+	D3417	སེང་གེ་སྒྲའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 82a6-82b7.
+	G1686	སེང་གེ་སྒྲའི་སྒྲུབ་ཐབས་	rgyud 'grel, nyu 352b4-353a (p.177-3-4)	seng ge sgra'i sgrub thabs
+	N3695	སེང་གེ་སྒྲའི་སྒྲུབ་ཐབས	rgyud 'grel, nyu 263a1-263b2. (ff.263r-263v (pp.525-526))	seng ge sgra'i sgrub thabs
+	N3986	སེང་གེ་སྒྲའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 207b1-207b7. (ff.207v-207v (pp.414-414))	seng ge sgra'i sgrub thabs
+	N3988	སེང་གེ་སྒྲའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 208a4-209a1. (ff.208r-209r (pp.415-417))	seng ge sgra'i sgrub thabs
+	N4245	སེང་གེ་སྒྲའི་སྒྲུབ་ཐབས	rgyud 'grel, du 93b2-94b1. (ff.93v-94v (pp.188-190))	seng ge sgra'i sgrub thabs
+	N4248	སེང་གེ་སྒྲའི་སྒྲུབ་ཐབས	rgyud 'grel, du 95a2-95b4. (ff.95r-95v (pp.191-192))	seng ge sgra'i sgrub thabs
+	Q3679	སེང་གེ་སྒྲའི་སྒྲུབ་ཐབས	rgyud 'grel, nyu 229b7-230b2 (vol.79, p.138)	seng ge sgra'i sgrub thabs
+	Q3976	སེང་གེ་སྒྲའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 219a3-219b3 (vol.80, p.167)	seng ge sgra'i sgrub thabs
+	Q3978	སེང་གེ་སྒྲའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 219b7-220b3 (vol.80, p.168)	seng ge sgra'i sgrub thabs
+	Q4235	སེང་གེ་སྒྲའི་སྒྲུབ་ཐབས	rgyud 'grel, du 103a4-104a5 (vol.80, p.259)	seng ge sgra'i sgrub thabs
+	Q4238	སེང་གེ་སྒྲའི་སྒྲུབ་ཐབས	rgyud 'grel, du 104b7-105b1 (vol.80, p.260)	seng ge sgra'i sgrub thabs
+
+K1939
+    1!=2
+
+	D3119	སོ་སོར་འབྲང་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། པུ། 219a2-219b1.
+	D3585	སོ་སོར་འབྲང་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 217a4-217b5.
+	G1942	སོ་སོར་འབྲང་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, tu 314a4-314b (p.158-1-4)	so sor 'brang ma'i sgrub thabs
+	N3950	སོ་སོར་འབྲང་མའི་སྒྲུབ་ཐབས	rgyud 'grel, tu 230a5-230b4. (ff.230r-230v (pp.459-460))	so sor 'brang ma'i sgrub thabs
+	N4417	སོ་སོར་འབྲང་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 259a5-259b6. (ff.259r-259v (pp.519-520))	so sor 'brang ma'i sgrub thabs
+	Q3940	སོ་སོར་འབྲང་མའི་སྒྲུབ་ཐབས	rgyud 'grel, tu 247a7-247b6 (vol.89, p.22)	so sor 'brang ma'i sgrub thabs
+	Q4407	སོ་སོར་འབྲང་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 282b6-283b1 (vol.81, p.37-38)	so sor 'brang ma'i sgrub thabs
+
+K1940
+    1!=2!=3
+
+	D3120	འཕགས་མ་རྨ་བྱ་ཆེན་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། པུ། 219b1-219b5.
+	D3378	འཕགས་མ་རྨ་བྱ་ཆེན་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 52b7-53a5.
+	D3586	འཕགས་མ་རྨ་བྱ་ཆེན་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 217b5-218a2.
+	G1943	ཕགས་མ་རྨ་བྱ་ཆེན་མོའི་སྒྲུབ་ཐབས་	rgyud 'grel, tu 314b5-315a (p.159-1-5)	phags ma rma bya chen mo'i sgrub thabs
+	N3951	འཕགས་མ་རྨ་བྱ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, tu 230b4-231a2. (ff.230v-231r (pp.460-461))	'phags ma rma bya chen mo'i sgrub thabs
+	N4209	འཕགས་མ་རྨ་བྱ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 60b2-61a1. (ff.60v-61r (pp.120-121))	'phags ma rma bya chen mo'i sgrub thabs
+	N4418	འཕགས་མ་རྨ་བྱ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 259b6-260a4. (ff.259v-260r (pp.520-521))	'phags ma rma bya chen mo'i sgrub thabs
+	Q3941	འཕགས་མ་རྨ་བྱ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, tu 247b6-248a4 (vol.80, p.23)	'phags ma rma bya chen mo'i sgrub thabs
+	Q4199	འཕགས་མ་རྨ་བྱ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 67a8-67b7 (vol.80, p.245)	'phags ma rma bya chen mo'i sgrub thabs
+	Q4408	འཕགས་མ་རྨ་བྱ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 283b1-283b7 (vol.81, p.38)	'phags ma rma bya chen mo'i sgrub thabs
+
+K1941
+    1!=2
+
+	D3121	སྟོང་ཆེན་མོ་རབ་ཏུ་འཇོམས་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། པུ། 219b5-219b7.
+	D3379	སྟོང་ཆེན་མོ་རབ་ཏུ་འཇོམས་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 53a5-53b1.
+	G1944	སྟོང་ཆེན་མོ་རབ་ཏུ་འཇོམས་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, tu 315a4-315b (p.158-2-4)	stong chen mo rab tu 'joms ma'i sgrub thabs
+	N3952	སྟོང་ཆེན་མོ་རབ་ཏུ་འཇོམས་མའི་སྒྲུབ་ཐབས	rgyud 'grel, tu 231a2-231a4. (ff.231r-231r (pp.461-461))	stong chen mo rab tu 'joms ma'i sgrub thabs
+	N4210	སྟོང་ཆེན་མོ་རབ་ཏུ་འཇོམས་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 61a1-61a5. (ff.61r-61r (pp.121-121))	stong chen mo rab tu 'joms ma'i sgrub thabs
+	Q3942	སྟོང་ཆེན་མོ་རབ་ཏུ་འཇོམས་མའི་སྒྲུབ་ཐབས	rgyud 'grel, tu 248a4-248a7 (vol.80, p.23)	stong chen mo rab tu 'joms ma'i sgrub thabs
+	Q4200	སྟོང་ཆེན་མོ་རབ་ཏུ་འཇོམས་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 67b7-68a3 (vol.80, p.245)	stong chen mo rab tu 'joms ma'i sgrub thabs
+
+K1942
+    1!=2
+
+	D3122	འཕགས་མ་གསང་སྔགས་ཆེན་མོ་རྗེས་སུ་འཛིན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། པུ། 219b7-220a2.
+	D3588	འཕགས་མ་གསང་སྔགས་ཆེན་མོ་རྗེས་སུ་འཛིན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 218a5-218a7.
+	G1945	ཕགས་མ་གསང་སྔགས་ཆེན་མོ་རྗེས་སུ་འཛིན་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, tu 315b1-315b (p.159-2-1)	phags ma gsang sngags chen mo rjes su 'dzin ma'i sgrub thabs
+	N3953	འཕགས་མ་གསང་སྔགས་ཆེན་མོ་རྗེས་སུ་འཛིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, tu 231a5-231a6. (ff.231r-231r (pp.461-461))	'phags ma gsang sngags chen mo rjes su 'dzin ma'i sgrub thabs
+	N4420	འཕགས་མ་གསང་སྔགས་ཆེན་མོ་རྗེས་སུ་འཛིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 260a7-260b2. (ff.260r-260v (pp.521-522))	'phags ma gsang sngags chen mo rjes su 'dzin ma'i sgrub thabs
+	Q3943	འཕགས་མ་གསང་སྔགས་ཆེན་མོ་རྗེས་སུ་འཛིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, tu 248a7-248b1 (vol.80, p.23)	'phags ma gsang sngags chen mo rjes su 'dzin ma'i sgrub thabs
+	Q4410	འཕགས་མ་གསང་སྔགས་ཆེན་མོ་རྗེས་སུ་འཛིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 284a3-284a5 (vol.81, p.38)	'phags ma gsang sngags chen mo rjes su 'dzin ma'i sgrub thabs
+
+K1943
+    1!=2!=3
+
+	D3123	བསིལ་བའི་ཚལ་ཆེན་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། པུ། 220a2-220a5.
+	D3255	བསིལ་བའི་ཚལ་ཆེན་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 15b6-16a2.
+	D3589	བསིལ་བའི་ཚལ་ཆེན་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 218a7-218b2.
+	G1946	བསིལ་བའི་ཚལ་ཆེན་མོའི་སྒྲུབ་ཐབས་	rgyud 'grel, tu 315b3-315b (p.159-2-3)	bsil ba'i tshal chen mo'i sgrub thabs
+	N3954	བསིལ་བའི་ཚལ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, tu 231a6-231b2. (ff.231r-231v (pp.461-462))	bsil ba'i tshal chen mo'i sgrub thabs
+	N4088	བསིལ་བའི་ཚལ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 282b7-283a3. (ff.282v-283r (pp.564-565))	bsil ba'i tshal chen mo'i sgrub thabs
+	N4421	བསིལ་བའི་ཚལ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 260b2-260b4. (ff.260v-260v (pp.522-522))	bsil ba'i tshal chen mo'i sgrub thabs
+	Q3944	བསིལ་བའི་ཚལ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, tu 248b1-248b5 (vol.80, p.23)	bsil ba'i tshal chen mo'i sgrub thabs
+	Q4078	བསིལ་བའི་ཚལ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 297a4-297a8 (vol.80, p.199)	bsil ba'i tshal chen mo'i sgrub thabs
+	Q4411	བསིལ་བའི་ཚལ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 284a5-284a8 (vol.81, p.38)	bsil ba'i tshal chen mo'i sgrub thabs
+
+K1946
+    1!=2
+	
+	D3126	བསྲུང་བ་ལྔའི་ཆོ་ག	རྒྱུད་འགྲེལ། པུ། 225b6-228b6.
+	D3596	བསྲུང་བ་ལྔའི་ཆོ་ག	རྒྱུད་འགྲེལ། མུ། 220a2-224a7.
+	G1949	བསྲུང་བ་ལྔའི་ཆོ་ག་	rgyud 'grel, tu 324a6-328b (p.162-3-6)	bsrung ba lnga'i cho ga
+	N3957	བསྲུང་བ་ལྔའི་ཆོ་ག	rgyud 'grel, tu 238b2-242a3. (ff.238v-242r (pp.476-483))	bsrung ba lnga'i cho ga
+	N4428	བསྲུང་བ་ལྔའི་ཆོ་ག	rgyud 'grel, du 262b1-267a3. (ff.262v-267r (pp.526-535))	bsrung ba lnga'i cho ga
+	Q3947	བསྲུང་བ་ལྔའི་ཆོ་ག	rgyud 'grel, tu 256b1-260b2 (vol.80, p.26)	bsrung ba lnga'i cho ga
+	Q4418	བསྲུང་བ་ལྔའི་ཆོ་ག	rgyud 'grel, du 286b1-292a1 (vol.81, p.39-41)	bsrung ba lnga'i cho ga
+
+K1968
+    1!=2!=3!4
+
+	D3148	རྡོ་རྗེ་གདན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 170b5-172b4.
+	D3149	རྡོ་རྗེ་གདན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 172b4-173b2.
+	D3403	རྡོ་རྗེ་གདན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 68b7-69b5.
+	D3404	རྡོ་རྗེ་གདན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 69b5-70b1.
+	G1971	རྡོ་རྗེ་གདན་གྱི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 264a5-267a (p.131-3-5)	rdo rje gdan gyi sgrub thabs
+	N3979	རྡོ་རྗེ་གདན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 199a5-201b2. (ff.199r-201v (pp.397-402))	rdo rje gdan gyi sgrub thabs
+	N3980	རྡོ་རྗེ་གདན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 201b2-202b2. (ff.201v-202v (pp.402-404))	rdo rje gdan gyi sgrub thabs
+	N4234	རྡོ་རྗེ་གདན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 79a4-80a3. (ff.79r-80r (pp.159-161))	rdo rje gdan gyi sgrub thabs
+	N4235	རྡོ་རྗེ་གདན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 80a3-81a1. (ff.80r-81r (pp.161-163))	rdo rje gdan gyi sgrub thabs
+	Q3969	རྡོ་རྗེ་གདན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 210b2-212b8 (vol.80, p.164)	rdo rje gdan gyi sgrub thabs
+	Q3970	རྡོ་རྗེ་གདན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 213a1-214a2 (vol.80, p.165)	rdo rje gdan gyi sgrub thabs
+	Q4224	རྡོ་རྗེ་གདན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 87b3-88b3 (vol.80, p.253)	rdo rje gdan gyi sgrub thabs
+	Q4225	རྡོ་རྗེ་གདན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 88b3-89b2 (vol.80, p.253-254)	rdo rje gdan gyi sgrub thabs
+
+K1970
+    1!=2!=3
+	D3150	ཡི་གེ་དྲུག་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 173b2-174b1.
+	D3151	ཡི་གེ་གྲུབ་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 174b1-175a3.
+	D3408	ཡི་གེ་དྲུག་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 72b5-73b1.
+	G1973	ཡི་གེ་དྲུག་པའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 268b2-269b (p.134-3-2)	yi ge drug pa'i sgrub thabs
+	N3981	ཡི་གེ་དྲུག་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 202b2-203b4. (ff.202v-203v (pp.404-406))	yi ge drug pa'i sgrub thabs
+	N3982	ཡི་གེ་གྲུབ་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 203b4-204a7. (ff.203v-204r (pp.406-407))	yi ge grub pa'i sgrub thabs
+	N4239	ཡི་གེ་དྲུག་པའི་སྒྲུབ་ཐབས	rgyud 'grel, du 83b3-84b1. (ff.83v-84v (pp.168-170))	yi ge drug pa'i sgrub thabs
+	Q3971	ཡི་གེ་དྲུག་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 214a2-215a5 (vol.80, p.165)	yi ge drug pa'i sgrub thabs
+	Q3972	ཡི་གེ་གྲུབ་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 215a5-216a1 (vol.80, p.166)	yi ge grub pa'i sgrub thabs
+	Q4229	ཡི་གེ་དྲུག་པའི་སྒྲུབ་ཐབས	rgyud 'grel, du 92b1-93a8 (vol.80, p.255)	yi ge drug pa'i sgrub thabs
+
+K1973
+    1!=2
+
+	D3153	བདེ་བ་འབྱུང་བའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 175a6-175b6.
+	D3154	བདེ་བ་འབྱུང་བའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 175b6-177b4.
+	G1976	བདེ་བ་འབྱུང་བའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 271a3-271b (p.135-2-3)	bde ba 'byung ba'i sgrub thabs
+	N3984	བདེ་བ་འབྱུང་བའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 204b4-205a5. (ff.204v-205r (pp.408-409))	bde ba 'byung ba'i sgrub thabs
+	N3985	བདེ་བ་འབྱུང་བའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 205a5-207b1. (ff.205r-207v (pp.409-414))	bde ba 'byung ba'i sgrub thabs
+	Q3974	བདེ་བ་འབྱུང་བའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 216a6-216b7 (vol.80, p.166)	bde ba 'byung ba'i sgrub thabs
+	Q3975	བདེ་བ་འབྱུང་བའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 216b8-219a3 (vol.80, p.166)	bde ba 'byung ba'i sgrub thabs
+
+K1978
+    1!=2
+
+	D3158	སྙིང་རྗེ་ཁྲོས་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 179a1-179a7.
+	D3159	སྙིང་རྗེ་ཁྲོས་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 179a7-180b3.
+	G1981	སྙིང་རྗེ་ཁྲོས་པའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 276b2-277a (p.138-3-2)	snying rje khros pa'i sgrub thabs
+	N3989	སྙིང་རྗེ་ཁྲོས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 209a1-209b1. (ff.209r-209v (pp.417-418))	snying rje khros pa'i sgrub thabs
+	N3990	སྙིང་རྗེ་ཁྲོས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 209b1-210b7. (ff.209v-210v (pp.418-420))	snying rje khros pa'i sgrub thabs
+	Q3979	སྙིང་རྗེ་ཁྲོས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 220b3-221a4 (vol.80, p.168)	snying rje khros pa'i sgrub thabs
+	Q3980	སྙིང་རྗེ་ཁྲོས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 221a4-222b4 (vol.80, p.168)	snying rje khros pa'i sgrub thabs
+
+K1981
+    1!=2!=3!=4
+
+	D3161	པདྨ་གར་གྱི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 181a3-181a7.
+	D3335	པདྨ་གར་གྱི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 26b6-27a7.
+	D3423	པདྨ་གར་གྱི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 86a4-86b4.
+	D3424	པདྨ་གར་གྱི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 86b4-86b7.
+	G1984	པདམ་གར་གྱི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 276b4-280a (p.140-2-4)	padma gar gyi dbang phyug gi sgrub thabs
+	N3992	པདམ་གར་གྱི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, thu 211b2-211b6. (ff.211v-211v (pp.422-422))	padma gar gyi dbang phyug gi sgrub thabs
+	N4166	པདམ་གར་གྱི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 30b2-31a3. (ff.30v-31r (pp.60-61))	padma gar gyi dbang phyug gi sgrub thabs
+	N4254	པདམ་གར་གྱི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 99b6-100a7. (ff.99v-100r (pp.200-201))	padma gar gyi dbang phyug gi sgrub thabs
+	N4255	པདམ་གར་གྱི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 100a7-100b4. (ff.100r-100v (pp.201-202))	padma gar gyi dbang phyug gi sgrub thabs
+	Q3982	པདམ་གར་གྱི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, thu 223a6-223b3 (vol.80, p.169)	padma gar gyi dbang phyug gi sgrub thabs
+	Q4156	པདམ་གར་གྱི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 33b1-34a4 (vol.80, p.231)	padma gar gyi dbang phyug gi sgrub thabs
+	Q4244	པདམ་གར་གྱི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 109b8-110b2 (vol.80, p.262)	padma gar gyi dbang phyug gi sgrub thabs
+	Q4245	པདམ་གར་གྱི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 110b2-110b7 (vol.80, p.262)	padma gar gyi dbang phyug gi sgrub thabs
+
+K1982
+    1!=2
+
+	D3162	སེང་གེ་དང་བྱ་ཁྱུང་དང་ཁྱབ་འཇུག་ལ་བཞུགས་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 181a7-181b4.
+	D3163	སེང་གེ་དང་བྱ་ཁྱུང་དང་ཁྱབ་འཇུག་ལ་བཞུགས་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 181b4-182b2.
+	G1985	སེང་གེ་དང་བྱ་ཁྱུང་དང་ཁྱབ་འཇུག་ལ་བཞུགས་པའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 280a3-280b (p.139-3-3)	seng ge dang bya khyung dang khyab 'jug la bzhugs pa'i sgrub thabs
+	N3993	སེང་གེ་དང་བྱ་ཁྱུང་དང་ཁྱབ་འཇུག་ལ་བཞུགས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 211b6-212a4. (ff.211v-212r (pp.422-423))	seng ge dang bya khyung dang khyab 'jug la bzhugs pa'i sgrub thabs
+	N3994	སེང་གེ་དང་བྱ་ཁྱུང་དང་ཁྱབ་འཇུག་ལ་བཞུགས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 212a4-213a4. (ff.212r-213r (pp.423-425))	seng ge dang bya khyung dang khyab 'jug la bzhugs pa'i sgrub thabs
+	Q3983	སེང་གེ་དང་བྱ་ཁྱུང་དང་ཁྱབ་འཇུག་ལ་བཞུགས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 223b3-223b8 (vol.80, p.169)	seng ge dang bya khyung dang khyab 'jug la bzhugs pa'i sgrub thabs
+	Q3984	སེང་གེ་དང་བྱ་ཁྱུང་དང་ཁྱབ་འཇུག་ལ་བཞུགས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 223b8-224b8 (vol.80, p.169)	seng ge dang bya khyung dang khyab 'jug la bzhugs pa'i sgrub thabs
+
+K1989
+    1!=2
+
+	D3169	བརྟན་པའི་འཁོར་ལོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 186b3-187a5.
+	D3438	བརྟན་པའི་འཁོར་ལོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 97a7-98b4.
+	G1992	བརྟན་པའི་འཁོར་ལོའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 288a1-289a (p.144-3-1)	brtan pa'i 'khor lo'i sgrub thabs
+	N4000	བརྟན་པའི་འཁོར་ལོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 218a1-218b5. (ff.218r-218v (pp.435-436))	brtan pa'i 'khor lo'i sgrub thabs
+	N4269	བརྟན་པའི་འཁོར་ལོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 113a5-114b7. (ff.113r-114v (pp.227-230))	brtan pa'i 'khor lo'i sgrub thabs
+	Q3990	བརྟེན་པའི་འཁོར་ལོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 229b4-230b1 (vol.80, p.172)	brten pa'i 'khor lo'i sgrub thabs
+	Q4259	བརྟན་པའི་འཁོར་ལོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 124b2-126a5 (vol.80, p.268)	brtan pa'i 'khor lo'i sgrub thabs
+
+K1990
+    1!=2
+
+	D3170	གསུང་གི་མངའ་བདག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 187a5-188b2.
+	D3171	གསུང་གི་མངའ་བདག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 188b2-189a.
+	G1993	གསུང་གི་མངའ་བདག་གི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 289a2-291a (p.144-4-2)	gsung gi mnga' bdag gi sgrub thabs
+	N4001	གསུང་གི་མངའ་བདག་གི་སྒྲུབ་ཐབས	rgyud 'grel, thu 218b5-220a7. (ff.218v-220r (pp.436-439))	gsung gi mnga' bdag gi sgrub thabs
+	Q3991	གསུང་གི་མངའ་བདག་གི་སྒྲུབ་ཐབས	rgyud 'grel, thu 230b1-232a3 (vol.80, p.172)	gsung gi mnga' bdag gi sgrub thabs
+
+K1992
+    1!=2
+
+	D3172	སྤྲོས་པ་མེད་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 189a-190a.
+	D3173	སྤྲོས་པ་མེད་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 190a2-192a4.
+	G1995	སྤྲོས་པ་མེད་པའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 291b4 (p.147-2-4)	spros pa med pa'i sgrub thabs
+	N4003	སྤྲོས་པ་མེད་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 221a-222a4. (ff.221r-222r (pp.441-443))	spros pa med pa'i sgrub thabs
+	N4004	སྤྲོས་པ་མེད་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 222a4-224b6. (ff.222r-224v (443-448))	spros pa med pa'i sgrub thabs
+	Q3993	སྤྲོས་པ་མེད་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 232b5-233b8 (vol.80, p.173)	spros pa med pa'i sgrub thabs
+	Q3994	སྤྲོས་པ་མེད་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 233b8-236b3 (vol.80, p.173)	spros pa med pa'i sgrub thabs
+
+K1995
+    1!=2!=3!=!4=5
+
+	D3175	གདམས་ངག་གི་ཁྱད་པར	རྒྱུད་འགྲེལ། ཕུ། 193a2-193a5.
+	D3200	གདམས་ངག་གི་ཁྱད་པར	རྒྱུད་འགྲེལ། ཕུ། 208b4-208b6.
+	D3211	གདམས་ངག་གི་ཁྱད་པར	རྒྱུད་འགྲེལ། ཕུ། 217a3-217a5.
+	D3235	གདམས་ངག་གི་ཁྱད་པར	རྒྱུད་འགྲེལ། བུ། 8b1-8b3.
+	D3275	གདམས་ངག་གི་ཁྱད་པར	རྒྱུད་འགྲེལ། བུ། 26a2-26a4.
+	G1998	གདམས་ངག་གི་ཁྱད་པར་	rgyud 'grel, thu 297b4298a (p.149-4-4)	gdams ngag gi khyad par
+	N4006	གདམས་ངག་གི་ཁྱད་པར	rgyud 'grel, thu 225b6-226a3. (ff.225v-226r (pp.450-451))	gdams ngag gi khyad par
+	N4031	གདམས་ངག་གི་ཁྱད་པར	rgyud 'grel, thu 245a5-245b1. (ff.245r-245v (pp.489-490))	gdams ngag gi khyad par
+	N4042	གདམས་ངག་གི་ཁྱད་པར	rgyud 'grel, thu 254b6-255a1. (ff.254v-255r (pp.508-509))	gdams ngag gi khyad par
+	N4066	གདམས་ངག་གི་ཁྱད་པར	rgyud 'grel, thu 274a4-274a6. (ff.274r-274r (pp.547-547))	gdams ngag gi khyad par
+	N4108	གདམས་ངག་གི་ཁྱད་པར	rgyud 'grel, thu 294b2-294b4. (ff.294v-294v (pp.588-588))	gdams ngag gi khyad par
+	Q3996	གདམས་ངག་གི་ཁྱད་པར	rgyud 'grel, thu 237b3-237b8 (vol.80, p.175)	gdams ngag gi khyad par
+	Q4021	གདམས་ངག་གི་ཁྱད་པར	rgyud 'grel, thu 257b5-257b7 (vol.80, p.183)	gdams ngag gi khyad par
+	Q4032	གདམས་ངག་གི་ཁྱད་པར	rgyud 'grel, thu 267b3-267b5 (vol.80, p.187)	gdams ngag gi khyad par
+	Q4056	གདམས་ངག་གི་ཁྱད་པར	rgyud 'grel, thu 287b8-288a3 (vol.80, p.195)	gdams ngag gi khyad par
+	Q4098	གདམས་ངག་གི་ཁྱད་པར	rgyud 'grel, thu 309b8-310a3 (vol.80, p.204)	gdams ngag gi khyad par
+
+K1998
+    1!=2!=3
+
+	D3178	ངག་གི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 195a1-195b2.
+	D3179	ངག་གི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 195b2-195b6.
+	D3180	ངག་གི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 195b6-196a3.
+	G2001	ངག་གི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 300b5-301b (p.151-3-5)	ngag gi dbang phyug gi sgrub thabs
+	N4009	ངག་གི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, thu 228a5-228b7. (ff.228r-228v (pp.455-456))	ngag gi dbang phyug gi sgrub thabs
+	N4010	ངག་གི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, thu 228b7-229a5. (ff.228v-229r (pp.456-457))	ngag gi dbang phyug gi sgrub thabs
+	N4011	ངག་གི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, thu 229a5-229b4. (ff.229r-229v (pp.457-458))	ngag gi dbang phyug gi sgrub thabs
+	Q3999	ངག་གི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, thu 240a3-240b6 (vol.80, p.176)	ngag gi dbang phyug gi sgrub thabs
+	Q4000	ངག་གི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, thu 240b6-241a5 (vol.80, p.176)	ngag gi dbang phyug gi sgrub thabs
+	Q4001	ངག་གི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, thu 241a5-241b4 (vol.80, p.176)	ngag gi dbang phyug gi sgrub thabs
+
+K2001
+	D3181	ངག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 196a3-197a4.
+	D3460	ངག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 114b4-115b2.
+	D3462	ངག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 117b2-117b5.
+	G2004	ངག་གི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 302b2-304a (p.153-1-2)	ngag gi sgrub thabs
+	N4012	ངག་གི་སྒྲུབ་ཐབས	rgyud 'grel, thu 229b4-231a1. (ff.229v-230r (pp.458-461))	ngag gi sgrub thabs
+	N4291	ངག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 135b1-136b2. (ff.135v-136v (pp.272-274))	ngag gi sgrub thabs
+	N4293	ངག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 139a3-139a6. (ff.139r-139r (pp.279-279))	ngag gi sgrub thabs
+	Q4002	ངག་གི་སྒྲུབ་ཐབས	rgyud 'grel, thu 241b4-243a2 (vol.80, p.176)	ngag gi sgrub thabs
+	Q4281	ངག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 147a5-148a7 (vol.80, p.277)	ngag gi sgrub thabs
+	Q4283	ངག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 150b8-151a3 (vol.80, p.278)	ngag gi sgrub thabs
+
+K2003
+	D3183	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 197a7-197b3.
+	D3187	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 200b1-200b4.
+	D3188	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 200b4-200b7.
+	D3189	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 200b7-201a3.
+	D3464	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 118a1-118a3.
+	D3469	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 121a4-121b1.
+	G2006	ཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 304b1-304b (p.153-3-1)	jam dpal gyi sgrub thabs
+	N4014	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 231a5-231b2. (ff.231r-231v (pp.461-462))	'jam dpal gyi sgrub thabs
+	N4018	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 235a3-235a7. (ff.235r-235r (pp.469-469))	'jam dpal gyi sgrub thabs
+	N4019	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 235a7-235b4. (ff.235r-235v (pp.469-470))	'jam dpal gyi sgrub thabs
+	N4020	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 235b4-235b7. (ff.235v-235v (pp.470-470))	'jam dpal gyi sgrub thabs
+	N4295	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 139b3-139b6. (ff.139v-139v (pp.280-280))	'jam dpal gyi sgrub thabs
+	N4300	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 143b4-144a2. (ff.143v-144r (pp.288-289))	'jam dpal gyi sgrub thabs
+	Q4004	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 243a6-243b3 (vol.80, p.177)	'jam dpal gyi sgrub thabs
+	Q4008	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 247a6-247b3 (vol.80, p.179)	'jam dpal gyi sgrub thabs
+	Q4009	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 247b3-247b8 (vol.80, p.179)	'jam dpal gyi sgrub thabs
+	Q4010	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 247b8-248a3 (vol.80, p.179)	'jam dpal gyi sgrub thabs
+	Q4285	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 151a8-151b3 (vol.80, p.278)	'jam dpal gyi sgrub thabs
+	Q4290	འཇམ་དཔལ་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 155b1-155b7 (vol.80, p.280)	'jam dpal gyi sgrub thabs
+
+K2004
+	D3184	དཔའ་བོ་གཅིག་ཏུ་གྲུབ་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 197b3-199a2.
+	D3185	དཔའ་བོ་གཅིག་ཏུ་གྲུབ་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 199a2-199a6.
+	D3461	དཔའ་བོ་གཅིག་ཏུ་གྲུབ་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 115b2-117b2.
+	D3466	དཔའ་བོ་གཅིག་ཏུ་གྲུབ་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 119a6-119b4.
+	G2007	དཔའ་བོ་གཅིག་ཏུ་གྲུབ་པའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 304b5-307a (p.153-3-5)	dpa' bo gcig tu grub pa'i sgrub thabs
+	N4015	དཔའ་བོ་གཅིག་ཏུ་གྲུབ་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 231b2-233a5. (ff.231v-233r (pp.462-465))	dpa' bo gcig tu grub pa'i sgrub thabs
+	N4016	དཔའ་བོ་གཅིག་ཏུ་གྲུབ་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 233a5-233b3. (f.233r-233v (pp.465-466))	dpa' bo gcig tu grub pa'i sgrub thabs
+	N4292	དཔའ་བོ་གཅིག་ཏུ་གྲུབ་པའི་སྒྲུབ་ཐབས	rgyud 'grel, du 136b3-139a3. (ff.136v-139r (pp.274-279))	dpa' bo gcig tu grub pa'i sgrub thabs
+	N4297	དཔའ་བོ་གཅིག་ཏུ་གྲུབ་པའི་སྒྲུབ་ཐབས	rgyud 'grel, du 141a6-141b5. (ff.141r-141v (pp.283-284))	dpa' bo gcig tu grub pa'i sgrub thabs
+	Q4005	དཔའ་བོ་གཅིག་ཏུ་གྲུབ་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 243b4-245a8 (vol.80, p.177)	dpa' bo gcig tu grub pa'i sgrub thabs
+	Q4006	དཔའ་བོ་གཅིག་ཏུ་གྲུབ་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 245a8-245b6 (vol.80, p.178)	dpa' bo gcig tu grub pa'i sgrub thabs
+	Q4282	དཔའ་བོ་གཅིག་ཏུ་གྲུབ་པའི་སྒྲུབ་ཐབས	rgyud 'grel, du 148a7-150b8 (vol.80, p.277-278)	dpa' bo gcig tu grub pa'i sgrub thabs
+	Q4287	དཔའ་བོ་གཅིག་ཏུ་གྲུབ་པའི་སྒྲུབ་ཐབས	rgyud 'grel, du 153a3-153b2 (vol.80, p.279)	dpa' bo gcig tu grub pa'i sgrub thabs
+
+K2023
+	D3203	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 210a3-210b5.
+	D3204	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 210b5-211a4.
+	D3205	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 211a4-211b3.
+	D3337	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་པའི་ཐབས	རྒྱུད་འགྲེལ། མུ། 27b3-28a2.
+	D3339	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་པའི་ཐབས	རྒྱུད་འགྲེལ། མུ། 28a6-29a1.
+	D3398	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 58b7-59b7.
+	D3497	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 150b3-151a1.
+	D3673	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 286a7-287a2.
+	G2026	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 324b5-325b (p.163-3-5)	sgrol ma dkar mo'i sgrub thabs
+	N4034	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 246b6-247b3. (ff.246v-247v (pp.492-494))	sgrol ma dkar mo'i sgrub thabs
+	N4035	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 247b3-248a3. (ff.247v-248r (pp.494-495))	sgrol ma dkar mo'i sgrub thabs
+	N4036	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 248a3-248b2. (ff.248r-248v (pp.495-496))	sgrol ma dkar mo'i sgrub thabs
+	N4168	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 31a7-31b6. (ff.31r-31v (pp.61-62))	sgrol ma dkar mo'i sgrub pa'i thabs
+	N4170	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 32a4-32b7. (ff.32r-32v (pp.63-64))	sgrol ma dkar mo'i sgrub pa'i thabs
+	N4229	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 68a1-69a3. (ff.68r-69r (p.135-137))	sgrol ma dkar mo'i sgrub thabs
+	N4329	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 180b2-181a1. (ff.180v-181r (pp.362-363))	sgrol ma dkar mo'i sgrub thabs
+	N4505	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 337a1-337b4. (ff.337r-337v (pp.675-676))	sgrol ma dkar mo'i sgrub thabs
+	Q4024	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 259a8-260a4 (vol.80, p.183)	sgrol ma dkar mo'i sgrub thabs
+	Q4025	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 260a4-260b5 (vol.80, p.184)	sgrol ma dkar mo'i sgrub thabs
+	Q4026	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 260b5-261a4 (vol.80, p.184)	sgrol ma dkar mo'i sgrub thabs
+	Q4158	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 34b1-35a2 (vol.80, p.232)	sgrol ma dkar mo'i sgrub pa'i thabs
+	Q4160	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 35b1-36a6 (vol.80, p.232)	sgrol ma dkar mo'i sgrub pa'i thabs
+	Q4219	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 75a1-76a4 (vol.80, p.248)	sgrol ma dkar mo'i sgrub thabs
+	Q4319	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 194b1-195a2 (vol.81, p.2)	sgrol ma dkar mo'i sgrub thabs
+	Q4495	སྒྲོལ་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 375a4-376a2 (vol.81, p.74-75)	sgrol ma dkar mo'i sgrub thabs
+
+K2027
+	D3207	སྒྲོལ་མ་ནོར་སྦྱིན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 212a4-213b4.
+	D3500	སྒྲོལ་མ་ནོར་སྦྱིན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 151b6-153a4.
+	G2030	སྒྲོལ་མ་ནོར་སྦྱིན་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 327b4-329b (p.165-2-4)	sgrol ma nor sbyin ma'i sgrub thabs
+	N4038	སྒྲོལ་མ་ནོར་སྦྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 249a4-251a1. (ff.249r-251r (pp.497-501))	sgrol ma nor sbyin ma'i sgrub thabs
+	N4332	སྒྲོལ་མ་ནོར་སྦྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 182a2-183b4. (ff.182r-183v (pp.365-368))	sgrol ma nor sbyin ma'i sgrub thabs
+	N4863	སྒྲོལ་མ་ནོར་སྦྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, zu 157b-161a. (ff.157v-161r (pp.314-321))	sgrol ma nor sbyin ma'i sgrub thabs
+	Q4028	སྒྲོལ་མ་ནོར་སྦྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 261b6-263b2 (vol.80, p.184)	sgrol ma nor sbyin ma'i sgrub thabs
+	Q4322	སྒྲོལ་མ་ནོར་སྦྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 196a3-197b6 (vol.81, p.3)	sgrol ma nor sbyin ma'i sgrub thabs
+	Q4853	སྒྲོལ་མ་ནོར་སྦྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, zu 160a5-163a4 (vol.86, p.116117)	sgrol ma nor sbyin ma'i sgrub thabs
+
+K2029
+	D3209	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 215a6-217a1.
+	D3212	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 217a5-217b6.
+	D3213	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 217b6-218a6.
+	D3214	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 218a6-219a6.
+	D3215	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 219a6-219b6.
+	D3216	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 219b6-220a4.
+	D3217	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 220a4-221a2.
+	D3218	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 221a2-223a2.
+	D3573	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 204a5-204b4.
+	D3576	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 209a7-212b5.
+	D3577	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 212b5-213a6.
+	G2032	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 332a4-334b (p.166-3-4)	ku ru ku lle'i sgrub thabs
+	N4040	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 252b6-254b4. (ff.252r-254v (pp.504-508))	ku ru ku lle'i sgrub thabs
+	N4043	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 255a2-255b3. (ff.255r-255v (pp.509-510))	ku ru ku lle'i sgrub thabs
+	N4044	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 255b3-256a4. (ff.255v-256r (pp.510-511))	ku ru ku lle'i sgrub thabs
+	N4045	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 256a4-257a6. (ff.256r-257r (pp.511-513))	ku ru ku lle'i sgrub thabs
+	N4046	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 257a6-257b6. (ff.257r-257v (pp.513-514))	ku ru ku lle'i sgrub thabs
+	N4047	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 257b6-258a5. (ff.257v-258r (pp.514-515))	ku ru ku lle'i sgrub thabs
+	N4048	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 258a5-259a5. (ff.258r-259r (pp.515-517))	ku ru ku lle'i sgrub thabs
+	N4049	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 259a5-261b1. (ff.259r-261v (pp.517-522))	ku ru ku lle'i sgrub thabs
+	N4405	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, du 244b1-245a1. (ff.244v-245r (pp.490-491))	ku ru ku lle'i sgrub thabs
+	N4408	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, du 250b1-254a3. (ff.250r-254r (pp.502-509))	ku ru ku lle'i sgrub thabs
+	N4409	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, du 254a4-254b6. (ff.254r-254v (pp.509-510))	ku ru ku lle'i sgrub thabs
+	Q4030	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 265b1-267a8 (vol.80, p.186)	ku ru ku lle'i sgrub thabs
+	Q4033	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 267b5-268a8 (vol.80, p.187)	ku ru ku lle'i sgrub thabs
+	Q4034	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 268a8-269a1 (vol.80, p.187)	ku ru ku lle'i sgrub thabs
+	Q4035	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 269a1-270a4 (vol.80, p.187)	ku ru ku lle'i sgrub thabs
+	Q4036	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 270a4-270b5 (vol.80, p.188)	ku ru ku lle'i sgrub thabs
+	Q4037	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 270b5-271a4 (vol.80, p.188)	ku ru ku lle'i sgrub thabs
+	Q4038	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 271a4-272a5 (vol.80, p.188)	ku ru ku lle'i sgrub thabs
+	Q4039	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 272a5-274b2 (vol.80, p.189)	ku ru ku lle'i sgrub thabs
+	Q4395	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, du 265a3-265b4 (vol.81, p.30-31)	ku ru ku lle'i sgrub thabs
+	Q4398	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, du 272a3-276b1 (vol.81, p.33-35)	ku ru ku lle'i sgrub thabs
+	Q4399	ཀུ་རུ་ཀུ་ལླེའི་སྒྲུབ་ཐབས	rgyud 'grel, du 276b1-277a5 (vol.81, p.35)	ku ru ku lle'i sgrub thabs
+
+K2039
+	D3219	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 223a2-223b1.
+	D3220	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 223b1-223b3.
+	D3221	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 223b3-224a2.
+	D3222	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 224a2-224b1.
+	D3352	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 35a7-35b6.
+	D3353	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 35b6-36a6.
+	D3354	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 36a6-36b7.
+	D3355	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 36b7-37a6.
+	D3548	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 184a4-184b4.
+	D3550	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 185a4-186b6.
+	G2042	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 343b1-344a (p.173-2-1)	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	N4050	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 261b1-262a2. (ff.261v-262r (pp.522-523))	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	N4051	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 262a2-262a5. (ff.262r-262r (pp.523-523))	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	N4052	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 262a6-262b6. (ff.262r-262v (pp.523-524))	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	N4053	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 262b6-263b1. (ff.262v-263v (pp.524-526))	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	N4183	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 40a2-40b2. (ff.40r-40v (pp.79-80))	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	N4184	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 40b2-41a3. (ff.40v-41r (pp.80-81))	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	N4185	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 41a3-41b5. (ff.41r-41v (pp.81-82))	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	N4186	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 41b5-42a5. (ff.41v-42r (pp.82-83))	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	N4380	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 221b1-222a3. (ff.221v-222r (pp.444-445))	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	N4382	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 222b3-224b3. (ff.222v-224v (pp.446-450))	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	Q4040	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 274b2-275a4 (vol.80, p.190)	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	Q4041	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 275a4-275a8 (vol.80, p.190)	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	Q4042	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 275a8-276a1 (vol.80, p.190)	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	Q4043	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 276a1-276b3 (vol.80, p.190)	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	Q4173	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 44b6-45a6 (vol.80, p.236)	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	Q4174	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 45a6-46a1 (vol.80, p.236)	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	Q4175	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 46a1-46b4 (vol.80, p.236)	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	Q4176	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 46b4-47a5 (vol.80, p.236-237)	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	Q4370	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 38a6-239a2 (vol.81, p.20)	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	Q4372	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 239b4-241b7 (vol.81, p.20-21)	shes rab kyi pha rol tu phyin ma'i sgrub thabs
+
+K2044
+	D3224	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 225a4-225a7.
+	D3553	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 188b2-188b6.
+	D3554	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 188b6-190a5.
+	D3556	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 190b6-191a2.
+	D3557	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 191a2-191b7.
+	D3558	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 191b7-192a5.
+	G2047	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 347a3-347b (p.174-2-3)	rdo rje dbyangs can ma'i sgrub thabs
+	N4055	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 264a7-264b5. (ff.264r-264v (pp.527-528))	rdo rje dbyangs can ma'i sgrub thabs
+	N4385	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 226b4-227a2. (ff.226v-227r (pp.454-455))	rdo rje dbyangs can ma'i sgrub thabs
+	N4386	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 227a2-228b4. (ff.227r-228v (pp.455-458))	rdo rje dbyangs can ma'i sgrub thabs
+	N4388	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 229a5-229b2. (ff.229r-229v (pp.459-460))	rdo rje dbyangs can ma'i sgrub thabs
+	N4389	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 229b2-230b2. (ff.229v-230v (pp.460-462))	rdo rje dbyangs can ma'i sgrub thabs
+	N4390	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 230b2-231a1. (ff.230v-231r (pp.462-463))	rdo rje dbyangs can ma'i sgrub thabs
+	Q4045	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 277b3-278a1 (vol.80, p.191)	rdo rje dbyangs can ma'i sgrub thabs
+	Q4375	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 244a4-244b1 (vol.81, p.22)	rdo rje dbyangs can ma'i sgrub thabs
+	Q4376	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 244b2-246b1 (vol.81, p.22-23)	rdo rje dbyangs can ma'i sgrub thabs
+	Q4378	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 247a4-247b1 (vol.81, p.23)	rdo rje dbyangs can ma'i sgrub thabs
+	Q4379	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 427b1-248b3 (vol.81, p.23-24)	rdo rje dbyangs can ma'i sgrub thabs
+	Q4380	རྡོ་རྗེ་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 248b3-249a3 (vol.81, p.24)	rdo rje dbyangs can ma'i sgrub thabs
+
+K2045
+	D3225	དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཕུ། 225a7-226a7.
+	D3697	དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 329a2-329a6.
+	G2048	དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 347b3-349a (p.175-2-3)	dbyangs can ma'i sgrub thabs
+	N4056	དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 264b5-266a2. (ff.264v-266r (pp.528-531))	dbyangs can ma'i sgrub thabs
+	N4531	དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 383b1-383b5. (ff.383v-383v (pp.768-768))	dbyangs can ma'i sgrub thabs
+	Q4046	དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 278a2-279a7 (vol.80, p.191)	dbyangs can ma'i sgrub thabs
+	Q4520	དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 433a4-433b2 (vol.81, p.98)	dbyangs can ma'i sgrub thabs
+
+K2046
+	D3226	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 1b1-2b3.
+	D3227	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 2b3-3a1.
+	D3229	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 4a3-4b4.
+	D3230	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 4b4-5b7.
+	D3232	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 6b1-7a3.
+	D3233	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 7a3-8a1.
+	D3533	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 175a7-175b5.
+	D3535	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 176b4-178a2.
+	G2049	ཨོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 349a4-350a (p.174-4-4)	od zer can gyi sgrub thabs
+	N4057	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 266a2-267a1. (ff.266r-267r (pp.531-533))	'od zer can gyi sgrub thabs
+	N4058	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 267a1-267a7. (ff.267r-267r (pp.533-533))	'od zer can gyi sgrub thabs
+	N4060	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 268b6-269a1. (ff.268v-269v (pp.536-538))	'od zer can gyi sgrub thabs
+	N4061	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 269a2-271a2. (ff.269v-271r (pp.538-541))	'od zer can gyi sgrub thabs
+	N4063	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 271b4-272b1. (ff.271v-272v (pp.542-544))	'od zer can gyi sgrub thabs
+	N4064	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 272b2-273b3. (ff.272v-273v (pp.544-546))	'od zer can gyi sgrub thabs
+	N4365	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 210b7-211a7. (ff.210v-211r (pp.422-423))	'od zer can gyi sgrub thabs
+	N4367	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 212b1-214a3. (ff.212r-214r (pp.426-429))	'od zer can gyi sgrub thabs
+	Q4047	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 279a7-280a7 (vol.80, p.191)	'od zer can gyi sgrub thabs
+	Q4048	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 280a7-280b6 (vol.80, p.192)	'od zer can gyi sgrub thabs
+	Q4050	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 282a7-283a2 (vol.80, p.193)	'od zer can gyi sgrub thabs
+	Q4051	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 283a2-284b4 (vol.80, p.193)	'od zer can gyi sgrub thabs
+	Q4053	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 285a7-286a4 (vol.80, p.194)	'od zer can gyi sgrub thabs
+	Q4054	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 286a4-287a6 (vol.80, p.194)	'od zer can gyi sgrub thabs
+	Q4355	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 226b6-227a6 (vol.81, p.15)	'od zer can gyi sgrub thabs
+	Q4357	འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 228a8-230a5 (vol.81, p.16)	'od zer can gyi sgrub thabs
+
+K2048
+	D3228	རྟོག་པ་ལས་གསུངས་པའི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 3a1-4a3.
+	D3524	རྟོག་པ་ལས་གསུངས་པའི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 167a1-168a2.
+	D3532	རྟོག་པ་ལས་གསུངས་པའི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 172b7-175a7.
+	G2051	རྟོག་པ་ལས་གསུངས་པའི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 350b5-352b (p.177-1-5)	rtog pa las gsungs pa'i 'od zer can gyi sgrub thabs
+	N4059	རྟོག་པ་ལས་གསུངས་པའི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 267a7-268b6. (ff.267r-268v (pp.533-536))	rtog pa las gsungs pa'i 'od zer can gyi sgrub thabs
+	N4356	རྟོག་པ་ལས་གསུངས་པའི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 200b2-201b6. (ff.200v-201v (pp.402-404))	rtog pa las gsungs pa'i 'od zer can gyi sgrub thabs
+	N4364	རྟོག་པ་ལས་གསུངས་པའི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 207b7-210b7. (ff.207v-210v (pp.416-422))	rtog pa las gsungs pa'i 'od zer can gyi sgrub thabs
+	Q4049	རྟོག་པ་ལས་གསུངས་པའི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 280b6-282a7 (vol.80, p.192)	rtog pa las gsungs pa'i 'od zer can gyi sgrub thabs
+	Q4346	རྟོག་པ་ལས་གསུངས་པའི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 215b6-217a4 (vol.81, p.11)	rtog pa las gsungs pa'i 'od zer can gyi sgrub thabs
+	Q4354	རྟོག་པ་ལས་གསུངས་པའི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 223b5-446b6 (vol.81, p.14-15)	rtog pa las gsungs pa'i 'od zer can gyi sgrub thabs
+
+K2057
+	D3237	ནོར་རྒྱུན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 9a3-9b2.
+	D3238	ནོར་རྒྱུན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 9b2-9b5.
+	D3239	ནོར་རྒྱུན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 9b5-10a2.
+	D3604	ནོར་རྒྱུན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 228b6-229a2.
+	D3605	ནོར་རྒྱུན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 229a2-229a6.
+	G2060	ནོར་རྒྱུན་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 359b5-360a (p.181-2-5)	nor rgyun ma'i sgrub thabs
+	N4068	ནོར་རྒྱུན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 274b7-275a7. (ff.274v-275r (pp.548-549))	nor rgyun ma'i sgrub thabs
+	N4069	ནོར་རྒྱུན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 275a7-275b4. (ff.275r-275v (pp.549-550))	nor rgyun ma'i sgrub thabs
+	N4070	ནོར་རྒྱུན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 275b4-276a1. (ff.275v-276r (pp.550-551))	nor rgyun ma'i sgrub thabs
+	N4436	ནོར་རྒྱུན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 271b4-272a1. (ff.271v-272r (pp.544-545))	nor rgyun ma'i sgrub thabs
+	N4437	ནོར་རྒྱུན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 272a1-272a5. (ff.272r-272r (pp.545-545))	nor rgyun ma'i sgrub thabs
+	Q4058	ནོར་རྒྱུན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 288b5-289a5 (vol.80, p.195)	nor rgyun ma'i sgrub thabs
+	Q4059	ནོར་རྒྱུན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 289a5-289b1 (vol.80, p.195)	nor rgyun ma'i sgrub thabs
+	Q4060	ནོར་རྒྱུན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 289b2-289b6 (vol.80, p.196)	nor rgyun ma'i sgrub thabs
+	Q4426	ནོར་རྒྱུན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 297b2-297b7 (vol.81, p.43)	nor rgyun ma'i sgrub thabs
+	Q4427	ནོར་རྒྱུན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 297b7-298a4 (vol.81, p.43-44)	nor rgyun ma'i sgrub thabs
+
+K2060
+	D3240	ནོར་རྒྱུན་མའི་གཟུངས་ཀྱི་མན་ངག	རྒྱུད་འགྲེལ། བུ། 10a2-10a6.
+	D3606	ནོར་རྒྱུན་མའི་གཟུངས་ཀྱི་མན་ངག	རྒྱུད་འགྲེལ། མུ། 229a6-229b2.
+	G2063	ནོར་རྒྱུན་མའི་གཟུངས་ཀྱི་མན་ངག་	rgyud 'grel, thu 361a2-361b (p.180-4-2)	nor rgyun ma'i gzungs kyi man ngag
+	N4071	ནོར་རྒྱུན་མའི་གཟུངས་ཀྱི་མན་ངག	rgyud 'grel, thu 276a1-276a6. (ff.276r-276r (pp.551-551))	nor rgyun ma'i gzungs kyi man ngag
+	N4438	ནོར་རྒྱུན་མའི་གཟུངས་ཀྱི་མན་ངག	rgyud 'grel, du 272a5-272b2. (ff.272r-272v (pp.545-546))	nor rgyun ma'i gzungs kyi man ngag
+	Q4061	ནོར་རྒྱུན་མའི་གཟུངས་ཀྱི་མན་ངག	rgyud 'grel, thu 289b6-290a4 (vol.80, p.196)	nor rgyun ma'i gzungs kyi man ngag
+	Q4428	ནོར་རྒྱུན་མའི་གཟུངས་ཀྱི་མན་ངག	rgyud 'grel, du 298a4-298b1 (vol.81, p.44)	nor rgyun ma'i gzungs kyi man ngag
+
+K2061
+	D3241	རྡོ་རྗེ་ལྕགས་སྒྲོག་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 10a6-10b3.
+	D3242	རྡོ་རྗེ་ལྕགས་སྒྲོག་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 10b3-10b7.
+	G2064	རྡོ་རྗེ་ལྕགས་སྒྲོག་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 361b1-361b (p.181-4-1)	rdo rje lcags sgrog ma'i sgrub thabs
+	N4072	རྡོ་རྗེ་ལྕགས་སྒྲོག་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 276a6-276b4. (ff.276r-276v (pp.551-552))	rdo rje lcags sgrog ma'i sgrub thabs
+	N4073	རྡོ་རྗེ་ལྕགས་སྒྲོག་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 276b4-277a2. (ff.276v-277r (pp.552-553))	rdo rje lcags sgrog ma'i sgrub thabs
+	Q4062	རྡོ་རྗེ་ལྕགས་སྒྲོག་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 290a4-290b2 (vol.80, p.196)	rdo rje lcags sgrog ma'i sgrub thabs
+	Q4063	རྡོ་རྗེ་ལྕགས་སྒྲོག་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 290b2-290b8 (vol.80, p.196)	rdo rje lcags sgrog ma'i sgrub thabs
+
+K2063
+	D3243	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 10b7-11a3.
+	D3244	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 11a3-11a6.
+	D3559	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 192a5-192b1.
+	D3560	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 192b1-192b4.
+	G2066	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 362a5-362b (p.182-1-5)	khro gnyer can gyi sgrub thabs
+	N4074	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 277a2-277a6. (ff.277r-277r (pp.553-553))	khro gnyer can gyi sgrub thabs
+	N4075	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 277a6-277b3. (ff.277r-277v (pp.553-554))	khro gnyer can gyi sgrub thabs
+	N4391	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 231a1-231a4. (ff.231r-231r (pp.463-463))	khro gnyer can gyi sgrub thabs
+	N4392	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 231a4-231b1. (ff.231r-231v (pp.463-464))	khro gnyer can gyi sgrub thabs
+	Q4064	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 290b8-291a4 (vol.80, p.196)	khro gnyer can gyi sgrub thabs
+	Q4065	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 291a4-291b1 (vol.80, p.196)	khro gnyer can gyi sgrub thabs
+	Q4381	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 249a3-249a7 (vol.81, p.24)	khro gnyer can gyi sgrub thabs
+	Q4382	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 249a7-249b4 (vol.81, p.24)	khro gnyer can gyi sgrub thabs
+
+K2067
+	D3365	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 41b4-42a3.
+	D3508	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 156b4-157a3.
+	D3510	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 157a7-157b3.
+	G2070	ཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 365b1 (p.183-4-1)	phags ma dug sel ma'i sgrub thabs
+	N4078	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 278b-278b5. ((ff.278v-278v (pp.556-556)))	'phags ma dug sel ma'i sgrub thabs
+	N4196	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 47a4-47b3. (ff.47r-47v (pp.93-94))	'phags ma dug sel ma'i sgrub thabs
+	N4340	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 187b5-188a5. (ff.187v-188r (pp.376-377))	'phags ma dug sel ma'i sgrub thabs
+	N4342	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 188b3-188b7. (ff.188v-188v (pp.378-378))	'phags ma dug sel ma'i sgrub thabs
+	Q4068	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 292a7-292b4 (vol.80, p.197)	'phags ma dug sel ma'i sgrub thabs
+	Q4186	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 53a1-53b1 (vol.80, p.239)	'phags ma dug sel ma'i sgrub thabs
+	Q4330	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 202a6-202b7 (vol.81, p.5)	'phags ma dug sel ma'i sgrub thabs
+	Q4332	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 203a4-203b1 (vol.81, p.6)	'phags ma dug sel ma'i sgrub thabs
+
+K2070
+	D3248	གཙུག་ཏོར་རྣམ་པར་རྒྱལ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 13b3-14a1.
+	D3377	གཙུག་ཏོར་རྣམ་པར་རྒྱལ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 52b3-52b7.
+	D3580	གཙུག་ཏོར་རྣམ་པར་རྒྱལ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 215a5-215b2.
+	D3602	གཙུག་ཏོར་རྣམ་པར་རྒྱལ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 227a7-228a7.
+	G2073	གཙུག་ཏོར་རྣམ་པར་རྒྱལ་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 367b3-368a (p.185-2-3)	gtsug tor rnam par rgyal ma'i sgrub thabs
+	N4081	གཙུག་ཏོར་རྣམ་པར་རྒྱལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 280a6-280b4. (f.280r-280v (pp.559-560))	gtsug tor rnam par rgyal ma'i sgrub thabs
+	N4208	གཙུག་ཏོར་རྣམ་པར་རྒྱལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 60a4-60b2. (ff.60r-60v (pp.119-120))	gtsug tor rnam par rgyal ma'i sgrub thabs
+	N4412	གཙུག་ཏོར་རྣམ་པར་རྒྱལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 257a1-257a5. (ff.257r-257r (pp.515-515))	gtsug tor rnam par rgyal ma'i sgrub thabs
+	N4434	གཙུག་ཏོར་རྣམ་པར་རྒྱལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 270a6-271a6. (ff.270r-271r (pp.541-543))	gtsug tor rnam par rgyal ma'i sgrub thabs
+	Q4071	གཙུག་ཏོར་རྣམ་པར་རྒྱལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 294a7-294b6 (vol.80, p.197)	gtsug tor rnam par rgyal ma'i sgrub thabs
+	Q4198	གཙུག་ཏོར་རྣམ་པར་རྒྱལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 67a2-67a8 (vol.80, p.245)	gtsug tor rnam par rgyal ma'i sgrub thabs
+	Q4402	གཙུག་ཏོར་རྣམ་པར་རྒྱལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 280a1-280a7 (vol.81, p.36)	gtsug tor rnam par rgyal ma'i sgrub thabs
+	Q4424	གཙུག་ཏོར་རྣམ་པར་རྒྱལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 295b6-297b2 (vol.81, p.43)	gtsug tor rnam par rgyal ma'i sgrub thabs
+
+K2071
+1!=2!=3
+	D3249	གཞན་གྱིས་མི་ཐུབ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 14a1-14a5.
+	D3259	གཞན་གྱིས་མི་ཐུབ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 16b6-17a2.
+	D3593	གཞན་གྱིས་མི་ཐུབ་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 219a6-219b2.
+	G2074	གཞན་གྱིས་མི་ཐུབ་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 368a3 (p.184-3-3)	gzhan gyis mi thub ma'i sgrub thabs
+	N4082	གཞན་གྱིས་མི་ཐུབ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 280b4-281a2. (ff.280v-281r (pp.560-561))	gzhan gyis mi thub ma'i sgrub thabs
+	N4092	གཞན་གྱིས་མི་ཐུབ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 284a2-284a5. (ff.284r-284r (pp.567-567))	gzhan gyis mi thub ma'i sgrub thabs
+	N4425	གཞན་གྱིས་མི་ཐུབ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 261b3-261b5. (ff.261v-261v (pp.524-524))	gzhan gyis mi thub ma'i sgrub thabs
+	Q4072	གཞན་གྱིས་མི་ཐུབ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 294b6-295a4 (vol.80, p.198)	gzhan gyis mi thub ma'i sgrub thabs
+	Q4082	གཞན་གྱིས་མི་ཐུབ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 298a7-298b3 (vol.80, p.199)	gzhan gyis mi thub ma'i sgrub thabs
+	Q4415	གཞན་གྱིས་མི་ཐུབ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 285b1-285b4 (vol.81, p.39)	gzhan gyis mi thub ma'i sgrub thabs
+
+K2073
+1!=2!=3!=4
+	D3251	སོ་སོར་འབྲང་མ་ཆེན་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 14b3-15a3.
+	D3376	སོ་སོར་འབྲང་མ་ཆེན་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 52a4-52b3.
+	D3583	སོ་སོར་འབྲང་མ་ཆེན་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 216a3-216b1.
+	D3584	སོ་སོར་འབྲང་མ་ཆེན་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 216b1-217a4.
+	G2076	སོ་སོར་འབྲང་མ་ཆེན་མོའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 369a3-369b (p.184-4-3)	so sor 'brang ma chen mo'i sgrub thabs
+	N4084	སོ་སོར་འབྲང་མ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 281b2-282a2. (ff.281v-282r (pp.562-563))	so sor 'brang ma chen mo'i sgrub thabs
+	N4207	སོ་སོར་འབྲང་མ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 59b4-60a4. (ff.59v-60r (pp.118-119))	so sor 'brang ma chen mo'i sgrub thabs
+	N4415	སོ་སོར་འབྲང་མ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 258a1-258a7. (ff.258r-258r (pp.517-517))	so sor 'brang ma chen mo'i sgrub thabs
+	N4416	སོ་སོར་འབྲང་མ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 258a7-259a5. (ff.258r-259r (pp.517-519))	so sor 'brang ma chen mo'i sgrub thabs
+	Q4074	སོ་སོར་འབྲང་མ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 295b3-296a5 (vol.80, p.198)	so sor 'brang ma chen mo'i sgrub thabs
+	Q4197	སོ་སོར་འབྲང་མ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 66b1-67a2 (vol.80, p.244-245)	so sor 'brang ma chen mo'i sgrub thabs
+	Q4405	སོ་སོར་འབྲང་མ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 281a5-281b6 (vol.81, p.37)	so sor 'brang ma chen mo'i sgrub thabs
+	Q4406	སོ་སོར་འབྲང་མ་ཆེན་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 281b6-282b6 (vol.81, p.37)	so sor 'brang ma chen mo'i sgrub thabs
+
+K2080
+1!=2!=3
+	D3258	རྒྱལ་མཚན་རྩེ་མོའི་དཔུང་རྒྱན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 16b3-16b6.
+	D3383	རྒྱལ་མཚན་རྩེ་མོའི་དཔུང་རྒྱན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 54a2-54a5.
+	D3600	རྒྱལ་མཚན་རྩེ་མོའི་དཔུང་རྒྱན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 225a6-226b1.
+	G2083	རྒྱལ་མཚན་རྩེ་མོའི་དཔུང་རྒྱན་གྱི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 372a4-372b (p.186-3-4)	rgyal mtshan rtse mo'i dpung rgyan gyi sgrub thabs
+	N4091	རྒྱལ་མཚན་རྩེ་མོའི་དཔུང་རྒྱན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 283b5-284a2. (ff.283v-284r (pp.566-567))	rgyal mtshan rtse mo'i dpung rgyan gyi sgrub thabs
+	N4214	རྒྱལ་མཚན་རྩེ་མོའི་དཔུང་རྒྱན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 61b7-62a4. (ff.61v-62r (pp.122-123))	rgyal mtshan rtse mo'i dpung rgyan gyi sgrub thabs
+	N4432	རྒྱལ་མཚན་རྩེ་མོའི་དཔུང་རྒྱན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 268a3-269a5. (ff.268r-269r (pp.537-539))	rgyal mtshan rtse mo'i dpung rgyan gyi sgrub thabs
+	Q4081	རྒྱལ་མཚན་རྩེ་མོའི་དཔུང་རྒྱན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 298a3-298a7 (vol.80, p.199)	rgyal mtshan rtse mo'i dpung rgyan gyi sgrub thabs
+	Q4204	རྒྱལ་མཚན་རྩེ་མོའི་དཔུང་རྒྱན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 68b6-69a2 (vol.80, p.245)	rgyal mtshan rtse mo'i dpung rgyan gyi sgrub thabs
+	Q4422	རྒྱལ་མཚན་རྩེ་མོའི་དཔུང་རྒྱན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 293a5-294b2 (vol.81, p.42)	rgyal mtshan rtse mo'i dpung rgyan gyi sgrub thabs
+
+K2085
+1!=2!=3!=4!=5
+	D3263	གཏུམ་པོ་ཁྲོ་བོ་ཆེན་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 18b6-19a4.
+	D3358	གཏུམ་པོ་ཁྲོ་བོ་ཆེན་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 38b1-38b6.
+	D3479	གཏུམ་པོ་ཁྲོ་བོ་ཆེན་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 129a5-129b3.
+	D3480	གཏུམ་པོ་ཁྲོ་བོ་ཆེན་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 129b3-130a4.
+	D3481	གཏུམ་པོ་ཁྲོ་བོ་ཆེན་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 130a4-131b2.
+	G2088	གཏུམ་པོ་ཁྲོ་བོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 375b1-376a (p.189-2-1)	gtum po khro bo chen po'i sgrub thabs
+	N4096	གཏུམ་པོ་ཁྲོ་བོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 286a6-286b4. (ff.286r-286v (pp.571-572))	gtum po khro bo chen po'i sgrub thabs
+	N4189	གཏུམ་པོ་ཁྲོ་བོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 43b1-43b7. (ff.43v-43v (pp.86-86))	gtum po khro bo chen po'i sgrub thabs
+	N4311	གཏུམ་པོ་ཁྲོ་བོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 154a1-154a6. (ff.154r-154r (pp.309-309))	gtum po khro bo chen po'i sgrub thabs
+	N4312	གཏུམ་པོ་ཁྲོ་བོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 154a6-155a2. (ff.154r-155r (pp.309-311))	gtum po khro bo chen po'i sgrub thabs
+	N4313	གཏུམ་པོ་ཁྲོ་བོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 155a2-156b3. (ff.155r-156v (pp.311-314))	gtum po khro bo chen po'i sgrub thabs
+	N4904	གཏུམ་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, zu 247a-247b. (ff.247r-247v (pp.493-494))	gtum po'i sgrub thabs
+	N5119	གཏུམ་པོ་ཁྲོ་བོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 143a-144b. (ff.143r-144v (pp.285-288))	gtum po khro bo chen po'i sgrub thabs
+	Q4086	གཏུམ་པོ་༼ཁྲོ་བོ་༽ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 300b8-301a7 (vol.80, p.200)	gtum po (khro bo )chen po'i sgrub thabs
+	Q4179	གཏུམ་པོ་༼ཁྲོ་བོ་༽ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 48b5-49a4 (vol.80, p.237)	gtum po (khro bo )chen po'i sgrub thabs
+	Q4301	གཏུམ་པོ་༼ཁྲོ་བོ་༽ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 166a2-166a8 (vol.80, p.284)	gtum po (khro bo )chen po'i sgrub thabs
+	Q4302	གཏུམ་པོ་༼ཁྲོ་བོ་༽ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 166a8-167a3 (vol.80, p.284-285)	gtum po (khro bo )chen po'i sgrub thabs
+	Q4303	གཏུམ་པོ་༼ཁྲོ་བོ་༽ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 167a3-168b5 (vol.80, p.285)	gtum po (khro bo )chen po'i sgrub thabs
+	Q4894	གཏུམ་པོ་ཁྲོ་བོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, zu 247b2-247b8 (vol.86, p.151)	gtum po khro bo chen po'i sgrub thabs
+	Q5111	གཏུམ་པོ་ཁྲོ་བོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 145b5-147a6 (vol.87, p.232-233)	gtum po khro bo chen po'i sgrub thabs
+
+K2086
+1!=2!=3!=4!=5
+	D3264	བྱམས་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 19a4-19b1.
+	D3265	བྱམས་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 19b1-19b5.
+	D3351	བྱམས་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 35a3-35a7.
+	D3611	བྱམས་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 236a3-236a6.
+	D3612	བྱམས་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 236a6-236b2.
+	G2089	བྱམས་པའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 376a1-376a (p.188-3-1)	byams pa'i sgrub thabs
+	N4097	བྱམས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 286b4-287a1. (ff.286v-287r (pp.572-573))	byams pa'i sgrub thabs
+	N4098	བྱམས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 287a1-287a6. (ff.287r-287r (pp.573-573))	byams pa'i sgrub thabs
+	N4182	བྱམས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, du 39b4-40a2. (ff.39v-40r (pp.78-79))	byams pa'i sgrub thabs
+	N4443	བྱམས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, du 280a2-280a5. (ff.280r-280r (pp.561-561))	byams pa'i sgrub thabs
+	N4444	བྱམས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, du 280a5-280b2. (ff.280r-280v (pp.561-562))	byams pa'i sgrub thabs
+	Q4087	བྱམས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 301a7-301b4 (vol.80, p.200)	byams pa'i sgrub thabs
+	Q4088	བྱམས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 301b4-302a1 (vol.80, p.200)	byams pa'i sgrub thabs
+	Q4172	བྱམས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, du 44a8-44b6 (vol.80, p.235-236)	byams pa'i sgrub thabs
+	Q4433	བྱམས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, du 307a2-307a7 (vol.81, p.47)	byams pa'i sgrub thabs
+	Q4434	བྱམས་པའི་སྒྲུབ་ཐབས	rgyud 'grel, du 307a7-307b4 (vol.81, p.47)	byams pa'i sgrub thabs
+
+K2089
+1!=2!=3!=4!=5
+	D3267	ཛམབྷ་ལའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 21b4-22a6.
+	D3268	ཛམབྷ་ལའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 22a6-23a7.
+	D3269	ཛམབྷ་ལའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 23a7-23b3.
+	D3614	ཛམ་བྷ་ལའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 238a6-238b7.
+	D3615	ཛམ་བྷ་ལའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 238b7-239a3.
+	G2092	ཛམབྷ་ལའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 379b6-380b (p.191-2-6)	dzambha la'i sgrub thabs
+	N4100	ཛམབྷ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 289b2-290a5. (ff.289v-290r (pp.578-579))	dzambha la'i sgrub thabs
+	N4101	ཛམབྷ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 290a6-291b1. (ff.290r-291v (pp.579-582))	dzambha la'i sgrub thabs
+	N4102	ཛམབྷ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 291b1-291b5. (ff.291v-291v (pp.582-582))	dzambha la'i sgrub thabs
+	N4446	ཛམ་བྷ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, du 282b4-283a6. (ff.282v-283r (pp.566-567))	dzam bha la'i sgrub thabs
+	N4448	ཛམ་བྷ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, du 284a7-284b3. (ff.284r-284v (pp.569-570))	dzam bha la'i sgrub thabs
+	Q4090	ཛམབྷ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 304b1-305a6 (vol.80, p.202)	dzambha la'i sgrub thabs
+	Q4091	ཛམབྷ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 305a6-306b2 (vol.80, p.202)	dzambha la'i sgrub thabs
+	Q4092	ཛམབྷ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 306b2-306b7 (vol.80, p.202)	dzambha la'i sgrub thabs
+	Q4436	ཛཾ་བྷ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, du 309b7-310b2 (vol.81, p.48-49)	dzaM bha la'i sgrub thabs
+	Q4437	ཛཾ་བྷ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, du 310b2-310b6 (vol.81, p.49)	dzaM bha la'i sgrub thabs
+
+K2092
+1!=2
+	D3270	དཔལ་ཛམབྷ་ལའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 23b3-24a2.
+	D3272	དཔལ་ཛམབྷ་ལའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 24b1-25b4.
+	G2095	དཔལ་ཛམབྷ་ལའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 382b5-383a (p.193-1-5)	dpal dzambha la'i sgrub thabs
+	N4103	དཔལ་ཛམབྷ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 291b5-292a4. (ff.291v-292r (pp.582-583))	dpal dzambha la'i sgrub thabs
+	N4105	དཔལ་ཛམབྷ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 292b4-294a4. (ff.292v-294r (pp.584-587))	dpal dzambha la'i sgrub thabs
+	Q4093	དཔལ་ཛམབྷ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 306b7-307a7 (vol.80, p.202)	dpal dzambha la'i sgrub thabs
+	Q4095	དཔལ་ཛམབྷ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 307b8-309b2 (vol.80, p.203)	dpal dzambha la'i sgrub thabs
+
+K2102
+1!=2
+	D3280	རྟ་མཆོག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 27a6-27b4.
+	D3626	རྟ་མཆོག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 245a6-245b4.
+	G2105	རྟ་མཆོག་གི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 388b1-389a (p.195-3-1)	rta mchog gi sgrub thabs
+	N4113	རྟ་མཆོག་གི་སྒྲུབ་ཐབས	rgyud 'grel, thu 296a2-296b2. (ff.296r-296v (pp.591-592))	rta mchog gi sgrub thabs
+	N4458	རྟ་མཆོག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 290b3-291a1. (ff.290v-291r (pp.582-583))	rta mchog gi sgrub thabs
+	Q4103	རྟ་མཆོག་གི་སྒྲུབ་ཐབས	rgyud 'grel, thu 311b2-312a3 (vol.80, p.204)	rta mchog gi sgrub thabs
+	Q4448	རྟ་མཆོག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 318b1-318b8 (vol.81, p.52)	rta mchog gi sgrub thabs
+
+K2103
+1!=2
+	D3281	འཕགས་པ་གཤིན་རྗེ་གཤེད་དམར་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 27b4-28b2.
+	D3627	འཕགས་པ་གཤིན་རྗེ་གཤེད་དམར་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 245b4-246a7.
+	G2106	ཕགས་པ་གཤིན་རྗེ་གཤེད་དམར་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 389a2-390a (p.194-4-2)	phags pa gshin rje gshed dmar po'i sgrub thabs
+	N4114	འཕགས་པ་གཤིན་རྗེ་གཤེད་དམར་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 296b2-297b1. (ff.296v-297v (pp.592-594))	'phags pa gshin rje gshed dmar po'i sgrub thabs
+	N4459	འཕགས་པ་གཤིན་རྗེ་གཤེད་དམར་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 291a1-291b5. (ff.291r-291v (pp.583-584))	'phags pa gshin rje gshed dmar po'i sgrub thabs
+	Q4104	འཕགས་པ་གཤིན་རྗེ་༼གཤེད་༽དམར་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 312a3-313a3 (vol.80, p.205)	'phags pa gshin rje (gshed )dmar po'i sgrub thabs
+	Q4449	འཕགས་པ་གཤིན་རྗེ་གཤེད་དམར་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 318b8-319b7 (vol.81, p.52)	'phags pa gshin rje gshed dmar po'i sgrub thabs
+
+K2108
+1!=2!=3
+	D3286	གཤིན་རྗེ་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 31a5-32a6.
+	D3631	གཤིན་རྗེ་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 248a6-248b7.
+	D3632	གཤིན་རྗེ་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 248b7-249b6.
+	G2111	གཤིན་རྗེ་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 394b2-396a (p.199-1-2)	gshin rje mthar byed kyi sgrub thabs
+	N4119	གཤིན་རྗེ་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 300b6-302a3. (ff.300v-302r (pp.600-603))	gshin rje mthar byed kyi sgrub thabs
+	N4463	གཤིན་རྗེ་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 294a2-294b3. (ff.294r-294v (pp.589-590))	gshin rje mthar byed kyi sgrub thabs
+	N4464	གཤིན་རྗེ་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 294b3-295b5. (ff.294v-295v (pp.590-592))	gshin rje mthar byed kyi sgrub thabs
+	N5155	གཤིན་རྗེ་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, lu 169b-170b. (ff.169v-170v (pp.338-340))	gshin rje mthar byed kyi sgrub thabs
+	Q4109	གཤིན་རྗེ་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 316b4-318a2 (vol.80, p.206)	gshin rje mthar byed kyi sgrub thabs
+	Q4453	གཤིན་རྗེ་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 322b2-323a6 (vol.81, p.53-54)	gshin rje mthar byed kyi sgrub thabs
+	Q4454	གཤིན་རྗེ་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 323a6-324b3 (vol.81, p.54)	gshin rje mthar byed kyi sgrub thabs
+	Q5147	གཤིན་རྗེ་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, lu 172a6-173a6 (vol.87, p.243)	gshin rje mthar byed kyi sgrub thabs
+
+K2109
+1!=2
+	D3287	བགེགས་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 32a6-32b6.
+	D3633	བགེགས་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 249b6-250a7.
+	G2112	བགེགས་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 396a3-396b (p.198-3-3)	bgegs mthar byed kyi sgrub thabs
+	N4120	བགེགས་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 302a3-302b4. (ff.302r-302v (pp.603-604))	bgegs mthar byed kyi sgrub thabs
+	N4465	བགེགས་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 295b5-296a7. (ff.295v-296r (pp.592-593))	bgegs mthar byed kyi sgrub thabs
+	Q4110	བགེགས་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 318a3-318b5 (vol.80, p.207)	bgegs mthar byed kyi sgrub thabs
+	Q4455	བགེགས་མཐར་བྱེད་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 324b3-325a7 (vol.81, p.54)	bgegs mthar byed kyi sgrub thabs
+
+K2111
+1!=2
+	D3289	རྡོ་རྗེ་ཧའུཾ་མཛད་ཀྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 33a1-33a4.
+	D3634	རྡོ་རྗེ་ཧུམ་མཛད་ཀྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 250a7-250b3.
+	G2114	རྡོ་རྗེ་ཧའུཾ་མཛད་ཀྱི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 397a2-397a (p.198-4-2)	rdo rje h'uM mdzad kyi sgrub thabs
+	N4122	རྡོ་རྗེ་ཧའུཾ་མཛད་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 302b6-303a3. (ff.302v-303r (pp.604-605))	rdo rje h'uM mdzad kyi sgrub thabs
+	N4466	རྡོ་རྗེ་ཧུམ་མཛད་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 296a7-296b3. (ff.296r-296v (pp.593-594))	rdo rje hum mdzad kyi sgrub thabs
+	Q4112	རྡོ་རྗེ་ཧའུཾ་མཛད་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, thu 318b8-319a4 (vol.80, p.207)	rdo rje h'uM mdzad kyi sgrub thabs
+	Q4456	རྡོ་རྗེ་ཧའུཾ་མཛད་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 325a7-325b4 (vol.81, p.54-55)	rdo rje h'uM mdzad kyi sgrub thabs
+
+K2112
+1!=2!=3
+	D3290	སྟོབས་པོ་ཆེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 33a4-33b1.
+	D3388	སྟོབས་པོ་ཆེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 55b4-56a1.
+	D3635	སྟོབས་པོ་ཆེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 250b3-250b6.
+	G2115	སྟོབས་པོ་ཆེའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 397a6-397b (p.198-4-6)	stobs po che'i sgrub thabs
+	N4123	སྟོབས་པོ་ཆེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 303a3-303a7. (ff.303r-303r (pp.605-605))	stobs po che'i sgrub thabs
+	N4219	སྟོབས་པོ་ཆེའི་སྒྲུབ་ཐབས	rgyud 'grel, du 63b7-64a5. (ff.63v-64r (pp.126-127))	stobs po che'i sgrub thabs
+	N4467	སྟོབས་པོ་ཆེའི་སྒྲུབ་ཐབས	rgyud 'grel, du 296b3-296b6. (ff.296v-296v (pp.594-594))	stobs po che'i sgrub thabs
+	Q4113	སྟོབས་པོ་ཆེའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 319a5-319b2 (vol.80, p.207)	stobs po che'i sgrub thabs
+	Q4209	སྟོབས་པོ་ཆེའི་སྒྲུབ་ཐབས	rgyud 'grel, du 70b7-71a5 (vol.80, p.246)	stobs po che'i sgrub thabs
+	Q4457	སྟོབས་པོ་ཆེའི་སྒྲུབ་ཐབས	rgyud 'grel, du 325b4-326a1 (vol.81, p.55)	stobs po che'i sgrub thabs
+
+K2113
+1!=2
+	D3291	ཧེ་རུ་ཀའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། བུ། 33b1-33b5.
+	D3637	ཧེ་རུ་ཀའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 251a3-251a6.
+	G2116	ཧེ་རུ་ཀའི་སྒྲུབ་ཐབས་	rgyud 'grel, thu 397b4-398a (p.199-4-4)	he ru ka'i sgrub thabs
+	N4124	ཧེ་རུ་ཀའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 303a7-303b5. (ff.303r-303v (pp.605-606))	he ru ka'i sgrub thabs
+	N4469	ཧེ་རུ་ཀའི་སྒྲུབ་ཐབས	rgyud 'grel, du 297a4-297b1. (ff.297r-297v (pp.595-596))	he ru ka'i sgrub thabs
+	Q4114	ཧེ་རུ་ཀའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 319b2-319b8 (vol.80, p.208)	he ru ka'i sgrub thabs
+	Q4459	ཧེ་རུ་ཀའི་སྒྲུབ་ཐབས	rgyud 'grel, du 326a7-326b5 (vol.81, p.55)	he ru ka'i sgrub thabs
+
+K2130
+1!=2
+	D3310	ཚིག་ལྷུག་པའི་ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 8a6-10a6.
+	D3450	ཚིག་ལྷུག་པའི་ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 107a4-109a2.
+	G2133	ཚིག་ལྷུག་པའི་ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས་	rgyud 'grel, du 11a2-13b (p.6-2-2)	tshig lhug pa'i a ra pa tsa na'i sgrub thabs
+	N4141	ཚིག་ལྷུག་པའི་ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	rgyud 'grel, du 9b5-12a1. (ff.9v-12r (pp.18-23))	tshig lhug pa'i a ra pa tsa na'i sgrub thabs
+	N4281	ཚིག་ལྷུག་པའི་ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	rgyud 'grel, du 125b2-128a2. (ff.125v-128r (pp.252-257))	tshig lhug pa'i a ra pa tsa na'i sgrub thabs
+	Q4131	ཚིག་ལྷུག་པའི་ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	rgyud 'grel, du 10a1-12b2 (vol.80, p.222-223)	tshig lhug pa'i a ra pa tsa na'i sgrub thabs
+	Q4271	ཚིག་ལྷུག་པའི་ཨ་ར་པ་ཙ་ནའི་སྒྲུབ་ཐབས	rgyud 'grel, du 137a5-139b6 (vol.80, p.273-274)	tshig lhug pa'i a ra pa tsa na'i sgrub thabs
+
+K2150
+1!=2
+	D3330	ཧཱ་ལ་ཧཱ་ལའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 23a7-24b1.
+	D3421	ཧཱ་ལ་ཧཱ་ལའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 84b1-85b2.
+	G2153	ཧའ་ལ་ཧའ་ལའི་སྒྲུབ་ཐབས་	rgyud 'grel, du 31a6-32b (p.16-2-6)	h'a la h'a la'i sgrub thabs
+	N4161	ཧ་ལ་ཧ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, du 26b2-27b6. (ff.26r-27v (pp.52-54))	ha la ha la'i sgrub thabs
+	N4252	ཧའ་ལ་ཧའ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, du 97b4-99a1. (ff.97v-99r (pp.196-199))	h'a la h'a la'i sgrub thabs
+	Q4151	ཧཱ་ལ་ཧཱ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, du 28b8-30a7 (vol.80, p.229-230)	hA la hA la'i sgrub thabs
+	Q4242	ཧཱ་ལ་ཧཱ་ལའི་སྒྲུབ་ཐབས	rgyud 'grel, du 107b3-109a1 (vol.80, p.261)	hA la hA la'i sgrub thabs
+
+K2151
+1!=2
+	D3331	ཁ་སརཔ་ཎའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 24b1-24b7.
+	D3410	ཁ་སརཔ་ཎའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 73b7-75b2.
+	G2154	ཁ་སརཔ་ཎའི་སྒྲུབ་ཐབས་	rgyud 'grel, du 32b5-33a (p.17-3-5)	kha sarpa Na'i sgrub thabs
+	N4162	ཁ་སརཔ་ཎའི་སྒྲུབ་ཐབས	rgyud 'grel, du 27b6-28a5. (ff.27v-28r (pp.54-55))	kha sarpa Na'i sgrub thabs
+	N4241	ཁ་སརཔ་ཎའི་སྒྲུབ་ཐབས	rgyud 'grel, du 85a1-86b7. (ff.85r-86v (pp.171-174))	kha sarpa Na'i sgrub thabs
+	Q4152	ཁ་སརཔ་ཎའི་སྒྲུབ་ཐབས	rgyud 'grel, du 30a7-30b7 (vol.80, p.230)	kha sarpa Na'i sgrub thabs
+	Q4231	ཁ་སརཔ་ཎའི་སྒྲུབ་ཐབས	rgyud 'grel, du 94a3-96a3 (vol.80, p.255-256)	kha sarpa Na'i sgrub thabs
+
+K2160
+1!=2
+	D3340	ཨུ་རྒྱན་གྱི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་པའི་ཐབས	རྒྱུད་འགྲེལ། མུ། 29a1-29b1.
+	D3344	ཨུ་རྒྱན་གྱི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་པའི་ཐབས	རྒྱུད་འགྲེལ། མུ། 31b6-32a7.
+	G2163	ཨུ་རྒྱན་གྱི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་པའི་ཐབས་	rgyud 'grel, du 38b6-39b (p.21-1-6)	u rgyan gyi 'od zer can gyi sgrub pa'i thabs
+	N4171	ཨུ་རྒྱན་གྱི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 32b7-33a7. (ff.32v-33r (pp.64-65))	u rgyan gyi 'od zer can gyi sgrub pa'i thabs
+	N4175	ཨུ་རྒྱན་གྱི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 36a2-36b4. (ff.36r-36v (pp.71-72))	u rgyan gyi 'od zer can gyi sgrub pa'i thabs
+	Q4161	ཨུ་རྒྱན་གྱི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 36a6-36b8 (vol.80, p.232)	u rgyan gyi 'od zer can gyi sgrub pa'i thabs
+	Q4165	ཨུ་རྒྱན་གྱི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 40a1-40b5 (vol.80, p.234)	u rgyan gyi 'od zer can gyi sgrub pa'i thabs
+
+K2170
+1!=2
+	D3350	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་པའི་ཐབས	རྒྱུད་འགྲེལ། མུ། 34b6-35a3.
+	D3659	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་པའི་ཐབས	རྒྱུད་འགྲེལ། མུ། 264b5-265a1.
+	G2173	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་པའི་ཐབས་	rgyud 'grel, du 46b3-46b (p.25-1-3)	khro gnyer can gyi sgrub pa'i thabs
+	N4181	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 39b1-39b4. (ff.39v-39v (pp.78-78))	khro gnyer can gyi sgrub pa'i thabs
+	N4491	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 312b7-313a3. (ff.312v-313r (pp.626-627))	khro gnyer can gyi sgrub pa'i thabs
+	Q4171	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 44a3-44a8 (vol.80, p.235)	khro gnyer can gyi sgrub pa'i thabs
+	Q4481	ཁྲོ་གཉེར་ཅན་གྱི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 345b4-345b8 (vol.81, p.63)	khro gnyer can gyi sgrub pa'i thabs
+
+K2186
+1!=2
+	D3366	འཕགས་མ་དུག་སེལ་མའི་གཟུངས	རྒྱུད་འགྲེལ། མུ། 42a3-42a6.
+	D3509	འཕགས་མ་དུག་སེལ་མའི་གཟུངས	རྒྱུད་འགྲེལ། མུ། 157a3-157a7.
+	G2189	ཕགས་མ་དུག་སེལ་མའི་གཟུངས་	rgyud 'grel, du 55b6-56a (p.29-2-6)	phags ma dug sel ma'i gzungs
+	N4197	འཕགས་མ་དུག་སེལ་མའི་གཟུངས	rgyud 'grel, du 47b3-47b6. (ff.47v-47v (pp.94-94))	'phags ma dug sel ma'i gzungs
+	N4341	འཕགས་མ་དུག་སེལ་མའི་གཟུངས	rgyud 'grel, du 188a5-188b3. (ff.188r-188v (pp.377-378))	'phags ma dug sel ma'i gzungs
+	Q4187	འཕགས་མ་དུག་སེལ་མའི་གཟུངས	rgyud 'grel, du 53b1-53b6 (vol.80, p.239)	'phags ma dug sel ma'i gzungs
+	Q4331	འཕགས་མ་དུག་སེལ་མའི་གཟུངས	rgyud 'grel, du 202b7-203a4 (vol.81, p.5-6)	'phags ma dug sel ma'i gzungs
+
+K2187
+1!=2
+	D3367	ལྷ་མོ་རིགས་བྱེད་མའི་སྒྲུབ་པའི་ཐབས	རྒྱུད་འགྲེལ། མུ། 42a6-42b3.
+	D3369	ལྷ་མོ་རིགས་བྱེད་མའི་སྒྲུབ་པའི་ཐབས	རྒྱུད་འགྲེལ། མུ། 44a2-44b5.
+	G2190	ལྷ་མོ་རིགས་བྱེད་མའི་སྒྲུབ་པའི་ཐབས་	rgyud 'grel, du 56a3-56b (p.28-3-3)	lha mo rigs byed ma'i sgrub pa'i thabs
+	N4198	ལྷ་མོ་རིགས་བྱེད་མའི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 47b6-48a4. (ff.47v-48r (pp.94-95))	lha mo rigs byed ma'i sgrub pa'i thabs
+	N4200	ལྷ་མོ་རིགས་བྱེད་མའི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 49b7-50b5. (ff.49v-50v (pp.98-100))	lha mo rigs byed ma'i sgrub pa'i thabs
+	Q4188	ལྷ་མོ་རིགས་བྱེད་མའི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 53b6-54a5 (vol.80, p.239)	lha mo rigs byed ma'i sgrub pa'i thabs
+	Q4190	ལྷ་མོ་རིགས་བྱེད་མའི་སྒྲུབ་པའི་ཐབས	rgyud 'grel, du 56a3-57a3 (vol.80, p.240)	lha mo rigs byed ma'i sgrub pa'i thabs
+
+K2214
+1!=2
+	D3394	གསེར་མདོག་ཅན་གྱི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 57a7-57b7.
+	D3549	གསེར་མདོག་ཅན་གྱི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 184b4-185a4.
+	G2217	གསེར་མདོག་ཅན་གྱི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, du 76a3-76b (p.38-3-3)	gser mdog can gyi shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	N4225	གསེར་མདོག་ཅན་གྱི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 66a4-66b4. (ff.66r-66v (p.131-132))	gser mdog can gyi shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	N4381	གསེར་མདོག་ཅན་གྱི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 222a3-222b3. (ff.222r-222v (pp.445-446))	gser mdog can gyi shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	Q4215	གསེར་མདོག་ཅན་གྱི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 73a4-73b5 (vol.80, p.247)	gser mdog can gyi shes rab kyi pha rol tu phyin ma'i sgrub thabs
+	Q4371	གསེར་མདོག་ཅན་གྱི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 239a2-239b3 (vol.81, p.20)	gser mdog can gyi shes rab kyi pha rol tu phyin ma'i sgrub thabs
+
+K2227
+1!=2
+	D3407	འཇིག་རྟེན་མགོན་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 72b1-72b5.
+	D3415	འཇིག་རྟེན་མགོན་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 81b7-82a3.
+	G2230	ཇིག་རྟེན་མགོན་པོའི་སྒྲུབ་ཐབས་	rgyud 'grel, du 97a1-97a (p.50-1-1)	jig rten mgon po'i sgrub thabs
+	N4238	འཇིག་རྟེན་མགོན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 83a6-83b2. (ff.83r-83v (pp.167-168))	'jig rten mgon po'i sgrub thabs
+	N4246	འཇིག་རྟེན་མགོན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 94b1-94b5. (f.94v-94v (pp.190-190))	'jig rten mgon po'i sgrub thabs
+	Q4228	འཇིག་རྟེན་མགོན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 92a4-92b1 (vol.80, p.255)	'jig rten mgon po'i sgrub thabs
+	Q4236	འཇིག་རྟེན་མགོན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 104a6-104b3 (vol.80, p.259-260)	'jig rten mgon po'i sgrub thabs
+
+K2242
+1!=2
+	D2660	རྡོ་རྗེ་ཆོས་ཀྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། ཇུ། 311b7-317a.
+	D3422	རྡོ་རྗེ་ཆོས་ཀྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 85b2-86a4.
+	G2245	རྡོ་རྗེ་ཆོས་ཀྱི་སྒྲུབ་ཐབས་	rgyud 'grel, du 114b2-115b (p.59-2-2)	rdo rje chos kyi sgrub thabs
+	N4253	རྡོ་རྗེ་ཆོས་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 99a2-99b6. (ff.99r-99v (pp.199-200))	rdo rje chos kyi sgrub thabs
+	Q4243	རྡོ་རྗེ་ཆོས་ཀྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 109a1-109b7 (vol.80, p.261-262)	rdo rje chos kyi sgrub thabs
+
+K2245
+1!=2  
+	D3425	ཧ་རི་ཧ་རི་ཧ་རི་ལ་ཞོན་པར་གྱུར་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 86b7-87a4.
+	D3426	ཧ་རི་ཧ་རི་ཧ་རི་ལ་ཞོན་པར་གྱུར་པའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 87a4-88a1.
+	G2248	ཧ་རི་ཧ་རི་ཧ་རི་ལ་ཞོན་པར་གྱུར་པའི་སྒྲུབ་ཐབས་	rgyud 'grel, du 116b1-116b (p.59-4-1)	ha ri ha ri ha ri la zhon par gyur pa'i sgrub thabs
+	N4256	ཧ་རི་ཧ་རི་ཧ་རི་ལ་ཞོན་པར་གྱུར་པའི་སྒྲུབ་ཐབས	rgyud 'grel, du 100b4-101a2. (ff.100v-101r (pp.202-203))	ha ri ha ri ha ri la zhon par gyur pa'i sgrub thabs
+	N4257	ཧ་རི་ཧ་རི་ཧ་རི་ལ་ཞོན་པར་གྱུར་པའི་སྒྲུབ་ཐབས	rgyud 'grel, du 101a2-102a1. (ff.101r-102r (pp.203-205))	ha ri ha ri ha ri la zhon par gyur pa'i sgrub thabs
+	Q4246	ཧ་རི་ཧ་རི་ཧ་རི་ལ་ཞོན་པར་གྱུར་པའི་སྒྲུབ་ཐབས	rgyud 'grel, du 110b8-111a6 (vol.80, p.262)	ha ri ha ri ha ri la zhon par gyur pa'i sgrub thabs
+
+K2247
+1!=2  
+	D3427	འཇིག་རྟེན་གསུམ་པོ་དབང་དུ་བྱེད་པའི་འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 88a1-88b3.
+	D3428	འཇིག་རྟེན་གསུམ་པོ་དབང་དུ་བྱེད་པའི་འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 88b3-89b1.
+	G2250	ཇིག་རྟེན་གསུམ་པོ་དབང་དུ་བྱེད་པའི་འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས་	rgyud 'grel, du 117b6-118b (p.61-1-6)	jig rten gsum po dbang du byed pa'i 'jig rten dbang phyug gi sgrub thabs
+	N4258	འཇིག་རྟེན་གསུམ་པོ་དབང་དུ་བྱེད་པའི་འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 102a1-102b5. (ff.102r-102v (pp.205-206))	'jig rten gsum po dbang du byed pa'i 'jig rten dbang phyug gi sgrub thabs
+	N4259	འཇིག་རྟེན་གསུམ་པོ་དབང་དུ་བྱེད་པའི་འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 102b5-103b6. (ff.102v-103v (pp.206-208))	'jig rten gsum po dbang du byed pa'i 'jig rten dbang phyug gi sgrub thabs
+	Q4248	འཇིག་རྟེན་གསུམ་པོ་དབང་དུ་བྱེད་པའི་འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 112a6-113a4 (vol.80, p.263)	'jig rten gsum po dbang du byed pa'i 'jig rten dbang phyug gi sgrub thabs
+	Q4249	འཇིག་རྟེན་གསུམ་པོ་དབང་དུ་བྱེད་པའི་འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 113a4-114a7 (vol.80, p.263)	'jig rten gsum po dbang du byed pa'i 'jig rten dbang phyug gi sgrub thabs
+
+K2263
+1!=2!=3
+	D3443	ངག་གི་རྒྱལ་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 102b7-103a5.
+	D3446	ངག་གི་རྒྱལ་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 104b7-105a6.
+	D3448	ངག་གི་རྒྱལ་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 105b2-106a6.
+	G2266	ངག་གི་རྒྱལ་པོའི་སྒྲུབ་ཐབས་	rgyud 'grel, du 139b2-140a (p.71-3-2)	ngag gi rgyal po'i sgrub thabs
+	N4274	ངག་གི་རྒྱལ་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 120a2-120b1. (ff.120r-120v (pp.241-242))	ngag gi rgyal po'i sgrub thabs
+	N4277	ངག་གི་རྒྱལ་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 122b2-123a3. (ff.122v-123r (pp.246-247))	ngag gi rgyal po'i sgrub thabs
+	N4279	ངག་གི་རྒྱལ་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 123a7-124a7. (ff.123r-124r (pp.247-249))	ngag gi rgyal po'i sgrub thabs
+	Q4264	ངག་གི་རྒྱལ་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 131b1-131b8 (vol.80, p.270)	ngag gi rgyal po'i sgrub thabs
+	Q4267	ངག་གི་རྒྱལ་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 134a4-134b4 (vol.80, p.271-272)	ngag gi rgyal po'i sgrub thabs
+	Q4269	ངག་གི་རྒྱལ་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 135a2-136a2 (vol.80, p.272)	ngag gi rgyal po'i sgrub thabs
+
+K2275
+1!=2  
+	D3455	ཆོས་ཀྱི་དབྱིངས་ངག་གི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 111b6-112a7.
+	D3458	ཆོས་ཀྱི་དབྱིངས་ངག་གི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 113a2-113a6.
+	G2278	ཆོས་ཀྱི་དབྱིངས་ངག་གི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས་	rgyud 'grel, du 153b4-154b (p.79-1-4)	chos kyi dbyings ngag gi dbang phyug gi sgrub thabs
+	N4286	ཆོས་ཀྱི་དབྱིངས་ངག་གི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 131b4-132a7. (ff.131v-132r (pp.264-265))	chos kyi dbyings ngag gi dbang phyug gi sgrub thabs
+	N4289	ཆོས་ཀྱི་དབྱིངས་ངག་གི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 133a5-133b4. (ff.133r-133v (pp.267-268))	chos kyi dbyings ngag gi dbang phyug gi sgrub thabs
+	Q4276	ཆོས་ཀྱི་དབྱིངས་ངག་གི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 143b1-144a4 (vol.80, p.275)	chos kyi dbyings ngag gi dbang phyug gi sgrub thabs
+	Q4279	ཆོས་ཀྱི་དབྱིངས་ངག་གི་དབང་ཕྱུག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 145a2-145a8 (vol.80, p.276)	chos kyi dbyings ngag gi dbang phyug gi sgrub thabs
+
+K2340
+1!=2!=3
+	D3519	ཙུནདེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 165a1-165b1.
+	D3520	ཙུནདེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 165b1-165b5.
+	D3521	ཙུནདེའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 165b5-166a3.
+	G2343	ཙུནདེའི་སྒྲུབ་ཐབས་	rgyud 'grel, du 234b3-235a (p.119-2-3)	tsunde'i sgrub thabs
+	N4351	ཙུནདེའི་སྒྲུབ་ཐབས	rgyud 'grel, du 197b7-198b2. (ff.197v-198v (pp.396-398))	tsunde'i sgrub thabs
+	N4352	ཙུནདེའི་སྒྲུབ་ཐབས	rgyud 'grel, du 198b2-198b7. (ff.198v-198v (pp.398-398))	tsunde'i sgrub thabs
+	N4353	ཙུནདེའི་སྒྲུབ་ཐབས	rgyud 'grel, du 198b7-199a6. (ff.198v-199r (pp.398-399))	tsunde'i sgrub thabs
+	Q4341	ཙུནདེའི་སྒྲུབ་ཐབས	rgyud 'grel, du 213a2-213b4 (vol.81, p.10)	tsunde'i sgrub thabs
+	Q4342	ཙུནདེའི་སྒྲུབ་ཐབས	rgyud 'grel, du 213b4-214a3 (vol.81, p.10)	tsunde'i sgrub thabs
+	Q4343	ཙུནདེའི་སྒྲུབ་ཐབས	rgyud 'grel, du 214a3-214b2 (vol.81, p.10)	tsunde'i sgrub thabs
+
+K2344
+1!=2  
+	D3523	མྱ་ངན་མེད་པའི་ཤིང་གི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 166b5-167a1.
+	D3531	མྱ་ངན་མེད་པའི་ཤིང་གི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 172a7-172b7.
+	G2347	མྱ་ངན་མེད་པའི་ཤིང་གི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས་	rgyud 'grel, du 237a5-237b (p.120-1-5)	mya ngan med pa'i shing gi 'od zer can gyi sgrub thabs
+	N4355	མྱ་ངན་མེད་པའི་ཤིང་གི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 200a4-200b2. (ff.200r-200v (pp.401-402))	mya ngan med pa'i shing gi 'od zer can gyi sgrub thabs
+	N4363	མྱ་ངན་མེད་པའི་ཤིང་གི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 207a6-207b7. (ff.207r-207v (pp.415-416))	mya ngan med pa'i shing gi 'od zer can gyi sgrub thabs
+	Q4345	མྱ་ངན་མེད་པའི་ཤིང་གི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 215b1-215b6 (vol.81, p.11)	mya ngan med pa'i shing gi 'od zer can gyi sgrub thabs
+	Q4353	མྱ་ངན་མེད་པའི་ཤིང་གི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 223a2-223b4 (vol.81, p.14)	mya ngan med pa'i shing gi 'od zer can gyi sgrub thabs
+
+K2349
+1!=2  
+	D3528	ཨོ་ཌི་ཡཱ་ནའི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 170b2-171a2.
+	D3529	ཨོ་ཌི་ཡཱ་ནའི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 171a2-171b4.
+	G2352	ཨོ་ཌི་ཡའ་ནའི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས་	rgyud 'grel, du 243a1-243b (p.122-3-1)	o Di y'a na'i 'od zer can gyi sgrub thabs
+	N4360	ཨོ་ཌི་ཡའ་ནའི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 205a1-205b2. (ff.205r-205v (pp.411-412))	o Di y'a na'i 'od zer can gyi sgrub thabs
+	N4361	ཨོ་ཌི་ཡའ་ནའི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 205b2-206a6. (ff.205v-206r (pp.412-413))	o Di y'a na'i 'od zer can gyi sgrub thabs
+	Q4350	ཨོ་ཌི་ཡཱ་ནའི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 220b1-221a4 (vol.81, p.13)	o Di yA na'i 'od zer can gyi sgrub thabs
+	Q4351	ཨོ་ཌི་ཡཱ་ནའི་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 221a4-222a1 (vol.81, p.13)	o Di yA na'i 'od zer can gyi sgrub thabs
+
+K2361
+1!=2!=3  
+	D3542	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་དཀར་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 180b7-181a6.
+	D3545	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་དཀར་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 182a1-182b1.
+	D3546	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་དཀར་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 182b1-183b1.
+	G2364	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་དཀར་མོའི་སྒྲུབ་ཐབས་	rgyud 'grel, du 256a5-258b (p.128-4-5)	shes rab kyi pha rol tu phyin ma dkar mo'i sgrub thabs
+	N4372	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 216b1-216b7. (ff.216v-216v (pp.434-434))	shes rab kyi pha rol tu phyin ma dkar mo'i sgrub thabs
+	N4377	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 218b5-219a7. (ff.218v-219r (pp.438-439))	shes rab kyi pha rol tu phyin ma dkar mo'i sgrub thabs
+	N4378	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 219a7-220b3. (ff.218v-220v (pp.438-442))	shes rab kyi pha rol tu phyin ma dkar mo'i sgrub thabs
+	Q4362	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 232b7-233a7 (vol.81, p.17-18)	shes rab kyi pha rol tu phyin ma dkar mo'i sgrub thabs
+	Q4367	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 235a8-236a3 (vol.81, p.18-19)	shes rab kyi pha rol tu phyin ma dkar mo'i sgrub thabs
+	Q4368	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་དཀར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 236a3-237a7 (vol.81, p.19)	shes rab kyi pha rol tu phyin ma dkar mo'i sgrub thabs
+
+K2363
+1!=2  
+	D3541	དཔལ་ལྡན་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 180a7-180b7.
+	D3543	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་སྐུ་མདོག་གསེར་མོའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 181a6-181b5.
+	G2366	དཔལ་ལྡན་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས་	rgyud 'grel, du 257b1-258a (p.131-1-1)	dpal ldan nag po chen po'i sgrub thabs
+	N4374	དཔལ་ལྡན་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 217b1-218a2. (ff.217v-218r (pp.436-437))	dpal ldan nag po chen po'i sgrub thabs
+	N4375	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་སྐུ་མདོག་གསེར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 218a2-218b2. (ff.218r-218v (pp.437-438))	shes rab kyi pha rol tu phyin ma sku mdog gser mo'i sgrub thabs
+	Q4364	དཔལ་ལྡན་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 233b8-234b2 (vol.81, p.18)	dpal ldan nag po chen po'i sgrub thabs
+	Q4365	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་སྐུ་མདོག་གསེར་མོའི་སྒྲུབ་ཐབས	rgyud 'grel, du 234b2-235a3 (vol.81, p.18)	shes rab kyi pha rol tu phyin ma sku mdog gser mo'i sgrub thabs
+
+K2385
+1!=2  
+	D3564	རིག་བྱེད་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 195b6-196a3.
+	D3567	རིག་བྱེད་མའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 198b3-200a5.
+	G2388	རིག་བྱེད་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, du 278a5-278b (p.140-2-5)	rig byed ma'i sgrub thabs
+	N4396	རིག་བྱེད་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 235a1-235a6. (ff.235r-235r (pp.471-471))	rig byed ma'i sgrub thabs
+	N4399	རིག་བྱེད་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 238a4-240a1. (ff.238r-240r (pp.477-481))	rig byed ma'i sgrub thabs
+	Q4386	རིགས་བྱེད་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 253b6-254a5 (vol.81, p.26)	rigs byed ma'i sgrub thabs
+	Q4389	རིགས་བྱེད་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 257b2-259b4 (vol.81, p.27-28)	rigs byed ma'i sgrub thabs
+
+K2415
+1!=2  
+	D3594	རྡོ་རྗེ་གཱན་དྷ་རིའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 219b2-219b4.
+	D3595	རྡོ་རྗེ་གཱན་དྷ་རིའི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 219b4-220a2.
+	G2418	རྡོ་རྗེ་གའན་དྷ་རིའི་སྒྲུབ་ཐབས་	rgyud 'grel, du 310b3-310b (p.157-2-3)	rdo rje g'an dha ri'i sgrub thabs
+	N4426	རྡོ་རྗེ་གའན་དྷ་རིའི་སྒྲུབ་ཐབས	rgyud 'grel, du 261b6-262a2. (ff.261v-262r (pp.524-525))	rdo rje g'an dha ri'i sgrub thabs
+	N4427	རྡོ་རྗེ་གའན་དྷ་རིའི་སྒྲུབ་ཐབས	rgyud 'grel, du 262a2-262b1. (ff.262r-262v (pp.525-526))	rdo rje g'an dha ri'i sgrub thabs
+	Q4416	རྡོ་རྗེ་གཱན་དྷ་རིའི་སྒྲུབ་ཐབས	rgyud 'grel, du 285b4-286a1 (vol.81, p.39)	rdo rje gAn dha ri'i sgrub thabs
+	Q4417	རྡོ་རྗེ་གཱན་དྷ་རིའི་སྒྲུབ་ཐབས	rgyud 'grel, du 286a1-286b1 (vol.81, p.39)	rdo rje gAn dha ri'i sgrub thabs
+
+K2418
+1!=2  
+	D3597	རྡོ་རྗེ་ལྕགས་སྒྲོག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 224a7-224b4.
+	D3598	རྡོ་རྗེ་ལྕགས་སྒྲོག་གི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 224b4-224b7.
+	G2421	རྡོ་རྗེ་ལྕགས་སྒྲོག་གི་སྒྲུབ་ཐབས་	rgyud 'grel, du 317a1-317a (p.160-1-1)	rdo rje lcags sgrog gi sgrub thabs
+	N4429	རྡོ་རྗེ་ལྕགས་སྒྲོག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 267a3-267a7. (ff.267r-267r (pp.535-535))	rdo rje lcags sgrog gi sgrub thabs
+	N4430	རྡོ་རྗེ་ལྕགས་སྒྲོག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 267a7-267b4. (ff.267r-267v (pp.535-536))	rdo rje lcags sgrog gi sgrub thabs
+	Q4419	རྡོ་རྗེ་ལྕགས་སྒྲོག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 292a1-292a7 (vol.81, p.41)	rdo rje lcags sgrog gi sgrub thabs
+	Q4420	རྡོ་རྗེ་ལྕགས་སྒྲོག་གི་སྒྲུབ་ཐབས	rgyud 'grel, du 292a7-292b4 (vol.81, p.41)	rdo rje lcags sgrog gi sgrub thabs
+
+K2430
+1!=2  
+	D3296	རྡོ་རྗེ་ཕག་མོའི་དབང་དུ་བྱ་བའི་ཆོ་ག	རྒྱུད་འགྲེལ། བུ། 39a-39b.
+	D3609	རྡོ་རྗེ་ཕག་མོའི་དབང་དུ་བྱ་བའི་ཆོ་ག	རྒྱུད་འགྲེལ། མུ། 233b4-234b1.
+	G2433	རྡོ་རྗེ་ཕག་མོའི་དབང་དུ་བྱ་བའི་ཆོ་ག་	rgyud 'grel, du 329a5-330a (p.166-1-5)	rdo rje phag mo'i dbang du bya ba'i cho ga
+	N4441	རྡོ་རྗེ་ཕག་མོའི་དབང་དུ་བྱ་བའི་ཆོ་ག	rgyud 'grel, du 277a5-278a4. (ff.277r-278r (pp.555-557))	rdo rje phag mo'i dbang du bya ba'i cho ga
+	Q4431	རྡོ་རྗེ་ཕག་མོའི་དབང་དུ་བྱ་བའི་ཆོ་ག	rgyud 'grel, du 303b8-304b8 (vol.81, p.46)	rdo rje phag mo'i dbang du bya ba'i cho ga
+
+K2481
+1!=2   (མཇུག་ཅུང་མི་འདྲ།)
+	D3660	ལྷ་མོ་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 265a1-265a7.
+	D3661	ལྷ་མོ་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	རྒྱུད་འགྲེལ། མུ། 265a7-265b6.
+	G2484	ལྷ་མོ་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས་	rgyud 'grel, du 375a3-375b (p.188-2-3)	lha mo 'od zer can gyi sgrub thabs
+	N4492	ལྷ་མོ་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 313a3-313b2. (ff.313r-313v (pp.627-628))	lha mo 'od zer can gyi sgrub thabs
+	N4493	ལྷ་མོ་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 313b2-314a2. (ff.313v-314r (pp.628-629))	lha mo 'od zer can gyi sgrub thabs
+	N4494	ལྷ་མོ་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 314a2-315b1. (ff.314r-315v (pp.629-632))	lha mo 'od zer can gyi sgrub thabs
+	Q4482	ལྷ་མོ་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 345b8-346b2 (vol.81, p.63)	lha mo 'od zer can gyi sgrub thabs
+	Q4483	ལྷ་མོ་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 346b2-347a3 (vol.81, p.63)	lha mo 'od zer can gyi sgrub thabs
+	Q4484	ལྷ་མོ་འོད་ཟེར་ཅན་གྱི་སྒྲུབ་ཐབས	rgyud 'grel, du 347a3-348b7 (vol.81, p.63-64)	lha mo 'od zer can gyi sgrub thabs
+
+K2602
+1!=2!=3!=4
+	D3785	བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ	རྒྱུད་འགྲེལ། ཚུ། 224b3-225a7.
+	D4400	བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ	མདོ་འགྲེལ་༼བསྟན་བཅོས་སྣ་ཚོགས༽། ཉོ། 337b-338a
+	D4410	བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ	མདོ་འགྲེལ་༼བསྟན་བཅོས་སྣ་ཚོགས༽། ཉོ། 346a-347a
+	D4411	བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ	མདོ་འགྲེལ་༼བསྟན་བཅོས་སྣ་ཚོགས༽། ཉོ། 347a-349a
+	G2602	བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ་	rgyud 'grel, nu 540a1-541a (p.270-3-1)	bkra shis kyi tshigs su bcad pa
+	N4612	བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ	rgyud 'grel, nu 443b1-444a7. (ff.443v-444v (pp.886-888))	bkra shis kyi tshigs su bcad pa
+	Q4603	བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ	rgyud 'grel, nu 442b2-443a8 (vol.81, p.285-)	bkra shis kyi tshigs su bcad pa
+	Q5954	བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ	ngo mtshar bstan bcos, mo 343a5-345a1 (vol.150, p.257-258)	bkra shis kyi tshigs su bcad pa
+	Q5956	བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ	ngo mtshar bstan bcos, mo 345b1-348a4 (vol.150, p.258-259)	bkra shis kyi tshigs su bcad pa
+
+K3060
+1=2
+	D1215	གནས་ལ་སོགས་པ་གཏན་ལ་དབབ་པ	རྒྱུད་འགྲེལ། ཇ། 316a4-323b.
+	D1606	གནས་ལ་སོགས་པ་གཏན་ལ་དབབ་པ	རྒྱུད་འགྲེལ། འ། 129b-137a.
+
+K3114
+1=2
+	D2677	དཔལ་འབྱུང་པོ་འདུལ་བྱེད་ཀྱི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག	རྒྱུད་འགྲེལ། ཐུ། 142a7-156b.
+	D2905	དཔལ་འབྱུང་པོ་འདུལ་བྱེད་ཀྱི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག	རྒྱུད་འགྲེལ། ནུ། 264b2-278a.
+
+K3124
+1!=2
+	D3073	མཆོད་རྟེན་གསུམ་གདབ་པའི་ཆོ་ག	རྒྱུད་འགྲེལ། པུ། 171b1-171b.
+	D3075	མཆོད་རྟེན་དགུ་གདབ་པའི་ཆོ་ག	རྒྱུད་འགྲེལ། པུ། 171b1-171b.
+
+K3130 
+1=2  (འདི་ཚིག་ཁ་ཤས་མི་འདྲ་མོད་གསུང་གཅིག་ཡིན།)
+	D3771	གཏོར་མའི་ཕྲེང་བ	རྒྱུད་འགྲེལ། ཚུ། 161a7-174b6.
+	D4456	གཏོར་མའི་ཕྲེང་བ	མདོ་འགྲེལ་༼བསྟན་བཅོས་སྣ་ཚོགས༽། པོ། 253b-265a
+	Q5901	གཏོར་མའི་ཕྲེང་བ	ngo mtshar bstan bcos, po 279b1-288b4 (vol.149, p.132-135)	gtor ma'i phreng ba
+
+K3181
+1!=2
+	D3836	རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བའི་སྙིང་པོའི་ཚིག་ལེའུར་བྱས་པ	མདོ་འགྲེལ་༼དབུ་མ༽། ཙ། 146b-146b
+	D3837	རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བའི་སྙིང་པོའི་རྣམ་པར་བཤད་པ	མདོ་འགྲེལ་༼དབུ་མ༽། ཙ། 146b-149a
+	Q5236	རྟེན་ཅིང་འགྲེལ་པར་འབྱུང་བའི་སྙིང་པོའི་ཚིག་ལེའུར་བྱས་པ	dbu ma, tsa 165b8-166a6 (vol.95, p.68)	rten cing 'grel par 'byung ba'i snying po'i tshig le'ur byas pa
+	Q5237	རྟེན་ཅིང་འགྲེལ་པར་འབྱུང་བའི་སྙིང་པོའི་རྣམ་པར་བཤད་པ	dbu ma, tsa 166a7-168b4 (vol.95, p.68-69)	rten cing 'grel par 'byung ba'i snying po'i rnam par bshad pa
+
+K3211
+1!=2
+	D3866	ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ	མདོ་འགྲེལ་༼དབུ་མ༽། ཡ། 239b-266b
+	D4059	ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ	མདོ་འགྲེལ་༼སེམས་ཙམ༽། ཤི། 11b-17a
+	Q5267	ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ	dbu ma, ya 273b6-305b5 (vol.99, p.1-13)	phung po lnga'i rab tu byed pa
+	Q5560	ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ	sems tsam, si 12b6-19a2 (vol.113, p.237-239)	phung po lnga'i rab tu byed pa
+
+K3253
+1!=2!=3!=4
+	D3908	བསྒོམ་པའི་རིམ་པ	མདོ་འགྲེལ་༼དབུ་མ༽། ཀི། 1b-4a
+	D3915	བསྒོམ་པའི་རིམ་པ	མདོ་འགྲེལ་༼དབུ་མ༽། ཀི། 22a-41b
+	D3916	བསྒོམ་པའི་རིམ་པ	མདོ་འགྲེལ་༼དབུ་མ༽། ཀི། 42a-55b
+	D3917	བསྒོམ་པའི་རིམ་པ	མདོ་འགྲེལ་༼དབུ་མ༽། ཀི། 55b-68b
+	Q5310	སྒོམ་པའི་རིམ་པ	dbu ma, a 22a3-45a8 (vol.102, p.21-30)	sgom pa'i rim pa
+	Q5311	སྒོམ་པའི་རིམ་པ	dbu ma, a 45a8-60b8 (vol.102, p.30-36)	sgom pa'i rim pa
+	Q5312	སྒོམ་པའི་རིམ་པ	dbu ma, a 60b8-74b4 (vol.102, p.36-42)	sgom pa'i rim pa
+
+K3261
+1!=2
+	D3919	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག	མདོ་འགྲེལ་༼དབུ་མ༽། ཀི། 70b-71a
+	D4079	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག	མདོ་འགྲེལ་༼སེམས་ཙམ༽། ཧི། 133b-162b
+	N5132	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག	rgyud 'grel, lu 152a-152a. (ff.152r-152r (pp.303-303))	shes rab kyi pha rol tu phyin pa'i man ngag
+	Q5124	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག	rgyud 'grel, lu 155a6-155b2 (vol.87, p.236)	shes rab kyi pha rol tu phyin pa'i man ngag
+	Q5580	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་བསྒོམ་པའི་མན་ངག	sems tsam, ku 184b6-187b3 (vol.114, p.250-251)	shes rab kyi pha rol tu phyin pa'i bsgom pa'i man ngag
+
+K3314
+1!=2
+	D3973	ལྟུང་བ་བཤགས་པའི་ཆོ་ག	མདོ་འགྲེལ་༼དབུ་མ༽། གི། 254a-255a
+	D3974	ལྟུང་བ་བཤགས་པའི་ཆོ་ག	མདོ་འགྲེལ་༼དབུ་མ༽། གི། 255a-255b
+	Q5368	ལྟུང་བ་བཤགས་པའི་ཆོ་ག	dbu ma, khi 295b4-297a4 (vol.103, p.176-177)	ltung ba bshags pa'i cho ga
+	Q5369	ལྟུང་བ་བཤགས་པའི་ཆོ་ག	dbu ma, khi 297a4-297b7 (vol.103, p.177)	ltung ba bshags pa'i cho ga
+
+K3353
+1!=2
+	D4013	བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོའི་རྒྱ་ཆེར་འགྲེལ་པ	མདོ་འགྲེལ་༼མདོ༽། ཉི། 201a-234a
+	D4014	བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོའི་རྒྱ་ཆེར་འགྲེལ་པ	མདོ་འགྲེལ་༼མདོ༽། ཉི། 234a-252b
+	Q5514	འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོའི་རྒྱ་ཆེར་འགྲེལ་པ	mdo tshogs 'grel pa, nyi 231a6-267a7 (vol.105, p.290-305)	'phags pa bzang po spyod pa'i smon lam gyi rgyal po'i rgya cher 'grel pa
+	Q5515	འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོའི་རྒྱ་ཆེར་འགྲེལ་པ	mdo tshogs 'grel pa, nyi 267a7-288a3 (vol.105, p.305-313)	'phags pa bzang po spyod pa'i smon lam gyi rgyal po'i rgya cher 'grel pa
+
+K3414
+1!=2
+	D4076	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བསྒོམ་པའི་མན་ངག	མདོ་འགྲེལ་༼སེམས་ཙམ༽། ཧི། 128b-130b
+	D4078	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བསྒོམ་པའི་མན་ངག	མདོ་འགྲེལ་༼སེམས་ཙམ༽། ཧི། 131b-133b
+	Q5459	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བསྒོམ་པའི་མན་ངག	dbu ma, gi 205a4-207b2 (vol.103, p.266-267)	shes rab kyi pha rol tu phyin pa bsgom pa'i man ngag
+	Q5577	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་བསྒོམ་པའི་མན་ངག	sems tsam, ku 147b2-149b8 (vol.114, p.235-236)	shes rab kyi pha rol tu phyin pa'i bsgom pa'i man ngag
+	Q5579	ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག	sems tsam, ku 151a4-184b6 (vol.114, p.236-250)	shes rab kyi pha rol tu phyin pa'i man ngag
+
+K3431
+1!=2
+	D4093	ཆོས་མངོན་པ་མཛོད་ཀྱི་འགྲེལ་བཤད་མཚན་ཉིད་ཀྱི་རྗེས་སུ་འབྲང་བ	མདོ་འགྲེལ་༼མངོན་པ༽། ཅུ། 1b- chu 322a
+	D4096	ཆོས་མངོན་པ་མཛོད་ཀྱི་འགྲེལ་བཤད་མཚན་ཉིད་ཀྱི་རྗེས་སུ་འབྲང་བ	མདོ་འགྲེལ་༼མངོན་པ༽། ཉུ། 214b-237a
+	Q5594	ཆོས་མངོན་པའི་མཛོད་ཀྱི་འགྲེལ་བཤད་མཚན་ཉིད་ཀྱི་རྗེས་སུ་འབྲང་བ་ཞེས་བྱ་བ	mngon pa'i bstan bcos, ju 1-nyu 391a7 (vol.117-118, p.85-96)	chos mngon pa'i mdzod kyi 'grel bshad mtshan nyid kyi rjes su 'brang ba zhes bya ba
+	Q5597	ཆོས་མངོན་པ་མཛོད་ཀྱི་འགྲེལ་བཤད་མཚན་ཉིད་ཀྱི་རྗེས་སུ་འབྲང་བ་ཞེས་བྱ་བ	mngon pa'i bstan bcos, thu 286b1-315a1 (vol.119, p.1-12)	chos mngon pa mdzod kyi 'grel bshad mtshan nyid kyi rjes su 'brang ba zhes bya ba
+
+K3462
+1!=2
+	D4124	འཕགས་པ་གཞི་ཐམས་ཅད་ཡོད་པར་སྨྲ་བའི་དགེ་ཚུལ་གྱི་ཚིག་ལེའུར་བྱས་པ	མདོ་འགྲེལ་༼འདུལ་བ༽། ཤུ། 63a-74a
+	D4127	འཕགས་པ་གཞི་ཐམས་ཅད་ཡོད་པར་སྨྲ་བའི་དགེ་ཚུལ་གྱི་ཚིག་ལེའུར་བྱས་པ	མདོ་འགྲེལ་༼འདུལ་བ༽། སུ། 1b-4b
+	Q5626	འཕགས་པ་གཞི་ཐམས་ཅད་ཡོད་པར་སྨྲ་བའི་དགེ་ཚུལ་གྱི་ཚིག་ལེའུར་བྱས་པ	'dul ba'i 'grel pa, hu 67a8-79b5 (vol.127, p.81-86)	'phags pa gzhi thams cad yod par smra ba'i dge tshul gyi tshig le'ur byas pa
+	Q5629	འཕགས་པ་གཞི་ཐམས་ཅད་ཡོད་པར་སྨྲ་བའི་དགེ་ཚུལ་གྱི་ཚིག་ལེའུར་བྱས་པ	'dul ba'i 'grel pa, u 1-5a4 (vol.127, p.181-184)	'phags pa gzhi thams cad yod par smra ba'i dge tshul gyi tshig le'ur byas pa
+
+K3553
+1!=2
+	D4216	ཚད་མ་རྣམ་འགྲེལ་གྱི་འགྲེལ་པ	མདོ་འགྲེལ་༼མཚད་མ༽། ཅེ། 261b-365a
+	D4224	ཚད་མ་རྣམ་འགྲེལ་གྱི་འགྲེལ་པ	མདོ་འགྲེལ་༼མཚད་མ༽། པེ། 293b-398a
+	Q5717a	ཚད་མ་རྣམ་འགྲེལ་གྱི་འགྲེལ་པ	tshad ma, ce 404b3-535a4 (vol.130, p.164-216)	tshad ma rnam 'grel gyi 'grel pa
+	Q5726	ཚད་མ་རྣམ་འགྲེལ་གྱི་འགྲེལ་པ་ཞེས་བྱ་བ	tshad ma, tshe 137a8-266a6 (vol.136, p.125-176)	tshad ma rnam 'grel gyi 'grel pa zhes bya ba
+
+K3557
+1!=2
+	D4220	ཚད་མ་རྣམ་འགྲེལ་གྱི་འགྲེལ་བཤད	མདོ་འགྲེལ་༼མཚད་མ༽། ཇེ། 1b- nye 282a
+	D4223	ཚད་མ་རྣམ་འགྲེལ་གྱི་འགྲེལ་བཤད	མདོ་འགྲེལ་༼མཚད་མ༽། པེ། 1b-292a
+	Q5718	ཚད་མ་རྣམ་འགྲེལ་གྱི་འགྲེལ་བཤད	tshad ma, je 1-nye 348a8 (vol.131, p.37-341)	tshad ma rnam 'grel gyi 'grel bshad
+	Q5721	ཚད་མ་རྣམ་འགྲེལ་གྱི་འགྲེལ་བཤད	tshad ma, pe 1-338a8 (vol.134, p.1-137)	tshad ma rnam 'grel gyi 'grel bshad
+
+K3565
+1!=2
+	D4228	ཚད་མ་རྣམ་པར་ངེས་པའི་འགྲེལ་བཤད	མདོ་འགྲེལ་༼མཚད་མ༽། ཚེ། 178b-295a
+	D4229	ཚད་མ་རྣམ་པར་ངེས་པའི་འགྲེལ་བཤད	མདོ་འགྲེལ་༼མཚད་མ༽། ཛེ། 1b-289a
+	Q5727	ཚད་མ་རྣམ་པར་ངེས་པའི་འགྲེལ་བཤད	tshad ma, dze 1-we 209b8 (vol.136-137, p.177-86)	tshad ma rnam par nges pa'i 'grel bshad
+	Q5728	ཚད་མ་རྣམ་པར་ངེས་པའི་འགྲེལ་བཤད	tshad ma, we 209b8-355a6 (vol.137, p.86-144)	tshad ma rnam par nges pa'i 'grel bshad
+
+K3566
+1!=2
+	D4230	རིགས་པའི་ཐིགས་པའི་རྒྱ་ཆེར་འགྲེལ་པ	མདོ་འགྲེལ་༼མཚད་མ༽། ཝེ། 1b-36a
+	D4231	རིགས་པའི་ཐིགས་པའི་རྒྱ་ཆེར་འགྲེལ་པ	མདོ་འགྲེལ་༼མཚད་མ༽། ཝེ། 36b-92a
+	Q5729	རིགས་པའི་ཐིགས་པའི་རྒྱ་ཆེར་འགྲེལ་པ	tshad ma, zhe 1-43b3 (vol.137, p.145-163)	rigs pa'i thigs pa'i rgya cher 'grel pa
+	Q5730	རིགས་པའི་ཐིགས་པའི་རྒྱ་ཆེར་འགྲེལ་པ	tshad ma, zhe 43b3-113a1 (vol.137, p.163-191)	rigs pa'i thigs pa'i rgya cher 'grel pa
+
+K3584
+1!=2
+	D4248	ཚད་མ་བརྟག་པ	མདོ་འགྲེལ་༼མཚད་མ༽། ཞེ། 201a-221b
+	D4249	ཚད་མ་བརྟག་པ	མདོ་འགྲེལ་༼མཚད་མ༽། ཞེ། 221b-236a
+	Q5746	ཚད་མ་བརྟག་པ	tshad ma, ze 213a4-236b1 (vol.138, p.57-67)	tshad ma brtag pa
+	Q5747	ཚད་མ་བརྟག་པ	tshad ma, ze 236a1-252b4 (vol.138, p.67-73)	tshad ma brtag pa
+
+K3612
+1!=2!=3
+	D4277	བྱིངས་ཀྱི་ཚོགས	མདོ་འགྲེལ་༼མཚད་མ༽། རེ། 71a-78a
+	D4285	བྱིངས་ཀྱི་ཚོགས	མདོ་འགྲེལ་༼མཚད་མ༽། ལེ། 63a-75a
+	D4429	བྱིངས་ཀྱི་ཚོགས	མདོ་འགྲེལ་༼བསྟན་བཅོས་སྣ་ཚོགས༽། ནོ། 112b-122b
+	Q5892	བྱིངས་ཀྱི་ཚོགས	ngo mtshar bstan bcos, no 419b5-435a6 (vol.148, p.308-314)	byings kyi tshogs
+	Q5893	བྱིངས་ཀྱི་ཚོགས	ngo mtshar bstan bcos, no 435a6-446b7 (vol.149, p.1-5)	byings kyi tshogs
+
+K3614   
+1!=2
+	D4279	ཨུན་ལ་སོགས་པའི་འགྲེལ་པ	མདོ་འགྲེལ་༼མཚད་མ༽། རེ། 106a-142a
+	D4426	ཨུན་ལ་སོགས་པའི་འགྲེལ་པ	མདོ་འགྲེལ་༼བསྟན་བཅོས་སྣ་ཚོགས༽། ནོ། 34b-67b
+	Q5889	ཨུཎ་ལ་སོགས་པའི་འགྲེལ་པ	ngo mtshar bstan bcos, no 326a1-365b3 (vol.148, p.270-286)	uN la sogs pa'i 'grel pa
+
+K3638  
+1!=2!=3
+	D4303	སྡེབ་སྦྱོར་རིན་ཆེན་འབྱུང་གནས	མདོ་འགྲེལ་༼མཚད་མ༽། སེ། 351b-360b
+	D4304	སྡེབ་སྦྱོར་རིན་ཆེན་འབྱུང་གནས	མདོ་འགྲེལ་༼མཚད་མ༽། སེ། 361a-379a
+	D4459	སྡེབ་སྦྱོར་རིན་ཆེན་འབྱུང་གནས	མདོ་འགྲེལ་༼བསྟན་བཅོས་སྣ་ཚོགས༽། པོ། 270a-275a
+	Q5790	སྡེབ་སྦྱོར་རིན་ཆེན་འབྱུང་གནས་ཞེས་བྱ་བ	sgra rig pa, she 158b1-168b7 (vol.140, p.195-199)	sdeb sbyor rin chen 'byung gnas zhes bya ba
+	Q5791	སྡེབ་སྦྱོར་རིན་ཆེན་འབྱུང་གནས་ཞེས་བྱ་བ	sgra rig pa, she 169a1-193b6 (vol.140, p.199-209)	sdeb sbyor rin chen 'byung gnas zhes bya ba
+	Q5903	སྡེབ་སྦྱོར་རིན་ཆེན་འབྱུང་གནས་ཞེས་བྱ་བ	ngo mtshar bstan bcos, po 294a5-300a8 (vol.149, p.137-140)	sdeb sbyor rin chen 'byung gnas zhes bya ba
+
+K3744  
+1!=2!=3
+	D4413	དཀོན་མཆོག་གསུམ་གྱི་བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ	མདོ་འགྲེལ་༼བསྟན་བཅོས་སྣ་ཚོགས༽། ཉོ། 349b-349b
+	D4414	དཀོན་མཆོག་གསུམ་གྱི་བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ	མདོ་འགྲེལ་༼བསྟན་བཅོས་སྣ་ཚོགས༽། ཉོ། 349b-350a
+	D4415	དཀོན་མཆོག་གསུམ་གྱི་བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ	མདོ་འགྲེལ་༼བསྟན་བཅོས་སྣ་ཚོགས༽། ཉོ། 350a-350a
+	Q5955	དཀོན་མཆོག་གསུམ་གྱི་བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ	ngo mtshar bstan bcos, mo 345a1-345b1 (vol.150, p.258)	dkon mchog gsum gyi bkra shis kyi tshigs su bcad pa
+	Q5958	དཀོན་མཆོག་གསུམ་གྱི་བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ	ngo mtshar bstan bcos, mo 348b8-349a6 (vol.150, p.259)	dkon mchog gsum gyi bkra shis kyi tshigs su bcad pa
+	Q5959	དཀོན་མཆོག་གསུམ་གྱི་བདེ་ལེགས་ཀྱི་ཚིགས་སུ་བཅད་པ	ngo mtshar bstan bcos, mo 349a6-349b3 (vol.150, p.259-260)	dkon mchog gsum gyi bde legs kyi tshigs su bcad pa
+	Q5960	དཀོན་མཆོག་གསུམ་གྱི་བདེ་ལེགས་ཀྱི་ཚིགས་སུ་བཅད་པ	ngo mtshar bstan bcos, mo 349b3-349b8 (vol.150, p.260)	dkon mchog gsum gyi bde legs kyi tshigs su bcad pa

@@ -131,7 +131,7 @@ def flatten_for_output(works):
             i += 1
 
 
-def write_works(works):
+def write_works(works, linesep='\n'):
     out_path = Path('export')
     if not out_path.is_dir():
         out_path.mkdir(exist_ok=True)
@@ -142,7 +142,7 @@ def write_works(works):
     for work, lines in works:
         if not work.startswith('X'):
             out_file = out_path / str(work + '.txt')
-            out_file.write_text('\n'.join(lines))
+            out_file.write_text(linesep.join(lines))
 
 
 def remove_markup(works):

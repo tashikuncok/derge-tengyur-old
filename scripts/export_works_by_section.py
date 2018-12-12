@@ -44,7 +44,7 @@ def extract_lines(files):
     return works
 
 
-def write_works(works, out_path):
+def write_works(works, out_path, linesep='\n'):
     for parent in list(out_path.parents) + [out_path]:
         if not parent.is_dir():
             parent.mkdir(exist_ok=True)
@@ -52,7 +52,7 @@ def write_works(works, out_path):
     for work, lines in works:
         if not work.startswith('X'):
             out_file = out_path / str(work + '.txt')
-            out_file.write_text('\n'.join(lines))
+            out_file.write_text(linesep.join(lines))
 
 
 sections = {
@@ -327,6 +327,6 @@ if __name__ == '__main__':
         works = works_in_pages(works)
         works = works_stripped(works)
         flatten_for_output(works)
-        if bool(args.clean_content):
-            works = remove_markup(works)
-        write_works(works, out_path / section)
+        # if bool(args.clean_content):
+        works = remove_markup(works)
+        write_works(works, out_path / section, linesep='')

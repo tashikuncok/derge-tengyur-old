@@ -20,6 +20,8 @@ def extract_lines():
         prefix = file.stem
         lines = [line.strip().strip('\ufeff') for line in file.open().readlines()]
         for line in lines:
+            if 'D2868' in line:
+                print('ok')
             ref = re.findall(r'{([DX].*?[ab]?)}', line)
             if ref:
                 ### hack for case where two work refs are on the same line
@@ -27,10 +29,9 @@ def extract_lines():
                     end_text, end_ref, start_text, start_ref, continue_text = re.split(r'{([DX].*?[ab]?)}', line)
                     current_work.append((prefix, end_text))
                     works.append((prev_ref, current_work))
+                    works.append((end_ref, [(prefix, start_text)]))
                     prev_ref = start_ref
-                    current_work = [(prefix, start_text)]
-                    current_work.append((prefix, continue_text))
-                    print('ok')
+                    current_work = [(prefix, continue_text)]
                     continue
                 ### end of hack
                 if prev_ref != '':

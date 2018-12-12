@@ -20,8 +20,6 @@ def extract_lines():
         prefix = file.stem
         lines = [line.strip().strip('\ufeff') for line in file.open().readlines()]
         for line in lines:
-            if 'D2868' in line:
-                print('ok')
             ref = re.findall(r'{([DX].*?[ab]?)}', line)
             if ref:
                 ### hack for case where two work refs are on the same line
@@ -134,7 +132,10 @@ def flatten_for_output(works):
 
 
 def write_works(works):
-    out_path =Path('export')
+    out_path = Path('export')
+    if not out_path.is_dir():
+        out_path.mkdir(exist_ok=True)
+    out_path = out_path / 'works'
     if not out_path.is_dir():
         out_path.mkdir(exist_ok=True)
 

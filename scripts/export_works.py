@@ -27,10 +27,9 @@ def extract_lines():
                     end_text, end_ref, start_text, start_ref, continue_text = re.split(r'{([DX].*?[ab]?)}', line)
                     current_work.append((prefix, end_text))
                     works.append((prev_ref, current_work))
+                    works.append((end_ref, [(prefix, start_text)]))
                     prev_ref = start_ref
-                    current_work = [(prefix, start_text)]
-                    current_work.append((prefix, continue_text))
-                    print('ok')
+                    current_work = [(prefix, continue_text)]
                     continue
                 ### end of hack
                 if prev_ref != '':
@@ -132,15 +131,18 @@ def flatten_for_output(works):
             i += 1
 
 
-def write_works(works):
-    out_path =Path('export')
+def write_works(works, linesep='\n'):
+    out_path = Path('export')
+    if not out_path.is_dir():
+        out_path.mkdir(exist_ok=True)
+    out_path = out_path / 'works'
     if not out_path.is_dir():
         out_path.mkdir(exist_ok=True)
 
     for work, lines in works:
         if not work.startswith('X'):
             out_file = out_path / str(work + '.txt')
-            out_file.write_text('\n'.join(lines))
+            out_file.write_text(linesep.join(lines))
 
 
 def remove_markup(works):

@@ -125,6 +125,9 @@ def write_works(works):
     if not out_path.is_dir():
         out_path.mkdir(exist_ok=True)
 
+    for f in out_path.glob('*.*'):
+        f.unlink()
+
     for work, lines in works:
         out_file = out_path / str(work + '.txt')
         out_file.write_text('\n'.join(lines))

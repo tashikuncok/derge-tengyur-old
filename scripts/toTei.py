@@ -111,9 +111,9 @@ def parse_one_line(line, filelinenum, state, outf, volnum, options):
         text = line[endpnumi+1:]
         text = text.replace('&', '')
         text = text.replace('#', '')
-        if '{T' in text:
+        if '{D' in text:
             closeidx = text.find('}')
-            text = re.sub(r"\{T([^}]+)\}", lambda m: tohrepl(m), text)
+            text = re.sub(r"\{D([^}]+)\}", lambda m: tohrepl(m), text)
         if 'keep_errors_indications' not in options or not options['keep_errors_indications']:
             text = text.replace('[', '').replace(']', '')
         if 'fix_errors' not in options or not options['fix_errors']:

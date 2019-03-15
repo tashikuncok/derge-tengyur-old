@@ -11,7 +11,6 @@ def extract_lines():
     """
     in_path = Path('../../derge-tengyur-tags')
     files = sorted(list(in_path.glob('*.txt')))
-    # files = [in_path / '001_བསྟོད་ཚོགས།_ཀ.txt']
     missing_inc = 1
 
     works = []
@@ -21,13 +20,13 @@ def extract_lines():
         prefix = file.stem
         lines = [line.strip().strip('\ufeff') for line in file.open().readlines()]
         for line in lines:
-            toh = re.findall(r'\{(T[0-9]+)\}', line)
+            toh = re.findall(r'\{(D[0-9]+a?)\}', line)
             if toh:
                 toh = toh[0]
                 if prev_toh != '':
                     current_work.append((prefix, line))
 
-                    if prev_toh == 'T00':
+                    if prev_toh == 'X0000':
                         prev_toh += str(missing_inc)
                         missing_inc += 1
 
@@ -126,9 +125,13 @@ def write_works(works):
     if not out_path.is_dir():
         out_path.mkdir(exist_ok=True)
 
+    for f in out_path.glob('*.*'):
+        f.unlink()
+
     for work, lines in works:
         out_file = out_path / str(work + '.txt')
         out_file.write_text('\n'.join(lines))
+
 
 def strip_markup(works_stripped):
     works = []

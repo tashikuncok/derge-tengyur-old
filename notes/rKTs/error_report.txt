@@ -1,9 +1,5 @@
-1. X0001
-    X0001 == N4078
-    and
+K2067
     D3365 != D3508 != D3510 != N4078
-
-    K2067
         D3365	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, mu 41b4-42a3.	'phags ma dug sel ma'i sgrub thabs
         D3508	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, mu 156b4-157a3.	'phags ma dug sel ma'i sgrub thabs
         D3510	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, mu 157a7-157b3.	'phags ma dug sel ma'i sgrub thabs
@@ -17,140 +13,14 @@
         Q4330	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 202a6-202b7 (vol.81, p.5)	'phags ma dug sel ma'i sgrub thabs
         Q4332	འཕགས་མ་དུག་སེལ་མའི་སྒྲུབ་ཐབས	rgyud 'grel, du 203a4-203b1 (vol.81, p.6)	'phags ma dug sel ma'i sgrub thabs
 
-2. X0002
-    X0002 == N3525
-    and
+K1506
     N3521 != N3525
-
-    K1506
         G1515	རྡོ་རྗེ་རྣམ་པར་འཇོམས་པའི་གཟུངས་ཀྱི་འགྲེལ་པ་	rgyud 'grel, chu 339b1 (p.171-2-1)	rdo rje rnam par 'joms pa'i gzungs kyi 'grel pa
         N3521	རྡོ་རྗེ་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་འགྲེལ་པ	rgyud 'grel, chu 227b4-236b4. (ff.227v-236v (pp.454-472))	rdo rje rnam par 'joms pa zhes bya ba'i gzungs kyi 'grel pa
         N3525	རྡོ་རྗེ་རྣམ་པར་འཇོམས་པའི་གཟུངས་ཀྱི་འགྲེལ་པ	rgyud 'grel, chu 248a4-251a7. (ff.248r-251r (pp.495-501))	rdo rje rnam par 'joms pa'i gzungs kyi 'grel pa
         Q3507	རྡོ་རྗེ་རྣམ་པར་འཇོམས་པའི་གཟུངས་ཀྱི་འགྲེལ་པ	rgyud 'grel, chu 224b1-228a1 (vol.78, p.156)	rdo rje rnam par 'joms pa'i gzungs kyi 'grel pa
 
-3. K2066
-    Derge reference missing
-    076_རྒྱུད་འགྲེལ།_བུ
-        [11b.6]སོ།། །།མཁས་པ་ཨ་བྷ་ཡ་ལས་དགེ་སློང་ཚུལ་ཁྲིམས་རྒྱལ་མཚན་གྱིས་བསྒྱུར་བའོ།། {K2066}༄༅༅། །རྒྱ་གར་སྐད་དུ། ཛཱཾ་གུ་ལཱི་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ། དུག་སེལ་མའི་གཟུངས། ཨོཾ་ཨི་ལི་མི་ཏྟེ་ཏི་ལི་མི་ཏྟེ་ཨི་ལི་ཏི་ལི་མི་ཏྟེ། དུམྦེ་དུམྦཱ་དུམྦཱ་ལཱི་ཡེ་དུ་སྨྲ་ལཱི་ཡེ་ཏ་ར་ཀེ་ཏ་ར་ཀ་ར་ཎི་
 
-4. U0005
-    037_རྒྱུད་འགྲེལ།_ཆི
-        ༄༅༅། །རྗེ་བཙུན་སྤྱན་རས་གཟིགས་ལ་ཕྱག་འཚལ་ལོ། །མདོར་བྱས་པའི་རིམ་པས་ལུས་རྣམ་པར་དབེན་པ་རྟོགས་པར་བྱས་ནས། ད་ནི་ངག་རྣམ་པར་དབེན་པ་རྟོགས་པར་བྱ་བའི་ཕྱིར། ཕྱག་འཚ
-
-    name: རིམ་པ་ལྔ་དང་རྣམ་པར་དག་པའི་རིམ་པ་རྣམ་པར་བཤད་པ་
-
-    this title does not exist in rKTs, so its number couldn't be found.
-
-5. U0001
-
-    050_རྒྱུད་འགྲེལ།_ཛི
-        ༄༅། །རྒྱས་པའི་སྦྱིན་སྲེག་བྱ་བ་ནི། །མཎྜལ་ཁ་དོག་སེར་པོ་ལ། །ཁྲུ་དོ་ཁྲུ་ཕྱེད་ཁྲུ་གང་དུ། །བསྐོར་ཏེ་གྲུ་བཞིའམ་ཟུར་བརྒྱད་ [36b.6]དུ། །བྱས་ནས་སོར་གཉིས་སོར་བཞི
-
-    no rKTs. maybe only a part of a text. all Uxxxx need to be checked in tengyur karchaks
-
-6. U0002
-    same as above
-
-    050_རྒྱུད་འགྲེལ།_ཛི
-        {T00}༄༅། །དབང་གི་སྦྱིན་སྲེག་སྦྱོར་ཀ་ནི། །ས་གཞི་དམར་བའི་ཐབ་ཁུང་དུ། ། [37a.7]བྷ་ག་ལྟ་བུའམ་ཟླ་གམ་བྱ། །ཚད་ནི་རྒྱས་པའི་ཆུང་འབྲིང་ངོ་། །ཁ་ཁྱེར་མུ་རན་གཉིས་དང་བཞི།
-
-7. U0003
-    same as above
-
-    050_རྒྱུད་འགྲེལ།_ཛི
-        {T00}༄༅། །གསད་པའི་སྦྱིན་སྲེག་སྦྱོར་ཀ་ནི། ། [37b.5]ཐབ་ཁུང་གྲུ་གསུམ་ཁ་དོག་གནག །རྡོ་རྗེ་གྲི་གུག་ནང་དང་སྟེང་། །བར་དུ་མེ་རི་རྩེ་མོ་འཕགས། །བདུད་རྩི་ལ་སོགས་ཚོན་རྩ
-
-8. U0004
-    same as above
-
-    050_རྒྱུད་འགྲེལ།_ཛི
-        {T00}༄༅། །བསྦུས་པ་ལས་ཀྱི་སྦྱོར་ཀ་ནི། །ཐུན་མོང་ཆོ་ག་ཐམས་ཅད་ནི། །གོང་མ་བཞིན་དུ་ཤེས་བྱས་ལ། །བརྐོ་ཞིང་བྲུ་བ་མ་ནུས་པས། །མཎྜལ་བདུད་རྩིས་བྱུགས་ནས་སུ། ། [38a.2]ཚོན
-
-9. U0006
-    missing from rKTs data
-            data: D4086, 'jigs rten gzhag pa, mdo 'grel (mngon pa), i 1b-93a	rgyu gdags pa
-
-    139_མངོན་པ།_ཨི
-        {T4086}༄༅༅། །རྒྱ་གར་སྐད་དུ། ལོ་ཀ་པྲཛྙཱ། བོད་སྐད་དུ། འཇིག་རྟེན་གཞག་པ། བམ་པོ་དང་པོ། བཅོམ་ལྡན་འདས་ཤཱཀྱ་ཐུབ་པ་ལ་ཕྱག་འཚལ་ལོ། །དེ་ནས། སྟོང་རྣམས་དང་ནི་རོལ་ [1b.2]མཚ
-
-10. K0799
-    Derge reference missing from rKTs
-    047_རྒྱུད་འགྲེལ།_མི
-        {T00}༄༅༅། །རྒྱ་གར་སྐད་དུ། ཀྲྀཥྞ་ཡ་མཱ་རི་ཀྲོ་དྷ་རཱ་ཛ་བ་ཏྲ་ས་ར་སཱ་དྷ་ནཾ་ནཱ་མ། བོད་སྐད་དུ། ཁྲོ་བོའི་རྒྱལ་པོ་གཤིན་རྗེའི་གཤེད་ནག་པོ་དུས་མཐར་ཕྱིན་པའི་སྒྲུབ་ཐབས་ཞ
-
-11. U0007
-    Derge reference missing from rKTs data
-    047_རྒྱུད་འགྲེལ།_མི
-        {T2003}ད་ནི་དྲག་པོའི་བསམ་གཏན་གྱི་ལས་བཤད་དེ། དེ་ལ་དང་པོ་དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་ཆེན་པོ་སྔ་མ་བཞིན་དུ་བསྐྱེད་དེ།  [212a.7]མཆོད་པ་དང་གཏོར་མ་བསྔོས་ཏེ། སྔོན་དུ་བསྒྲ
-
-12. U0008
-    Derge reference missing from rKTs data
-    047_རྒྱུད་འགྲེལ།_མི
-        ༄༅༅། །རྒྱ་གར་སྐད་དུ། ཤྲཱི་བཛྲ་བྷཻ་ར་བ་སྟུ་ཏི། བོད་སྐད་དུ། དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་ཀྱི་བསྟོད་དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་ལ་ཕྱག་འཚལ་ལོ། །ཧཱུཾ་འཇམ་དཔལ་མཁའ་ལས་
-
-13. K0868:
-    missing Derge reference
-    047_རྒྱུད་འགྲེལ།_མི
-	    ༄༅༅། །རྒྱ་གར་སྐད་དུ། ཤྲཱི་བཛྲ་བྷཻ་ར་ཝ་བཛྲ་མཎྜལ་པྲ་ཀ་བི་དྷི་ནཱ་མ། བོད་སྐད་དུ། དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་ཀྱི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ [235a.7]གསལ་བ་ཞེས་བྱ་བ། ད
-
-14. K0453
+K0453
 	D1321	མཁའ་འགྲོ་མ་རྡོ་རྗེ་གུར་གྱི་མཁའ་འགྲོ་རྣམ་པ་ལྔའི་སྒྲུབ་པའི་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, ta 248a4-254b1.
 	location should be: rgyud 'grel, ta 249a1-254b1
-
-15. K0649
-    Derge reference missing
-    029_རྒྱུད་འགྲེལ།_ས
-        [284a.1]{K0649}#༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཥྚ་ད་ཤ་པ་ཊ་ལ་བི་སྟ་#ར་བྱཱ་ཁྱཱ། བོད་སྐད་དུ། ལེའུ་བཅོ་བརྒྱད་པའི་རྒྱ་ཆེར་འགྲེལ་པ། དཔལ་རྡོ་རྗེ་སེམས་དཔའ་ལ་ཕྱག་འཚལ་ལོ། །དེ་ལྟར་ལེའུ་བཅུ་བདུན་གྱིས་དེ་ཁོ་ན་ལ་སོགས་པའི་རྒྱུན་གྱི་#མཚན་ཉིད་ནི་རྩ་བའི་རྒྱུད་བསྟན་ཏོ#།
-
-16. K0799
-    Derge reference missing
-    047_རྒྱུད་འགྲེལ།_མི
-        [63a.3]མདོར་བསྡུས་པའི་སྒྲུབ་ཐབས་རྫོགས་སོ།། །།{K0799}༄༅༅། །རྒྱ་གར་སྐད་དུ། ཀྲྀཥྞ་ཡ་མཱ་རི་ཀྲོ་དྷ་རཱ་ཛ་བ་ཏྲ་ས་ར་སཱ་དྷ་ནཾ་ནཱ་མ། བོད་སྐད་དུ། ཁྲོ་བོའི་རྒྱལ་པོ་གཤིན་རྗེའི་གཤེད་ནག་པོ་དུས་མཐར་ཕྱིན་པའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ། བཅོམ་ལྡན་འདས་གཤིན་རྗེ་གཤེད་ལ་ཕྱག་འཚལ་
-
-17. K2066
-    Derge reference missing
-    076_རྒྱུད་འགྲེལ།_བུ
-        [11b.6]སོ།། །།མཁས་པ་ཨ་བྷ་ཡ་ལས་དགེ་སློང་ཚུལ་ཁྲིམས་རྒྱལ་མཚན་གྱིས་བསྒྱུར་བའོ།། {K2066}༄༅༅། །རྒྱ་གར་སྐད་དུ། ཛཱཾ་གུ་ལཱི་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ། དུག་སེལ་མའི་གཟུངས། ཨོཾ་ཨི་ལི་མི་ཏྟེ་ཏི་ལི་མི་ཏྟེ་ཨི་ལི་ཏི་ལི་མི་ཏྟེ། དུམྦེ་དུམྦཱ་དུམྦཱ་ལཱི་ཡེ་དུ་སྨྲ་ལཱི་ཡེ་ཏ་ར་ཀེ་ཏ་ར་ཀ་ར་ཎི་
-
-18. K0795
-    D3760/4530	མཎཌལ་གྱི་ཆོ་ག	rgyud 'grel, , tshu 114b7-114b7.
-    location should be: 114a4-114b7
-
-19. K0258
-	D1590	དཔལ་རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, A 107a7-110a2.
-	location should be: 'a
-
-20. K0266
-    D1806 and Q2671 are different texts altogether. They do not pertain to K0266
-
-	D1558	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, za 214a5-215b5.	rdo rje rnal 'byor ma'i sgrub thabs
-	D1570	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, za 245b5-248a5.	rdo rje rnal 'byor ma'i sgrub thabs zhes bya ba
-	D1579	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, A 10a5-10b4.	rdo rje rnal 'byor ma'i sgrub thabs
-	D1581	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, A 16b2-25a7.	rdo rje rnal 'byor ma'i sgrub thabs zhes bya ba
-	D1806	མངོན་པར་བྱང་ཆུབ་པའི་རིམ་པའི་མན་ངག	rgyud 'grel, ngi 114b1-117a2.	mngon par byang chub pa'i rim pa'i man ngag
-	D3301	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, bu 43a4-43b7.	rdo rje rnal 'byor ma'i sgrub thabs
-	G268	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས་	rgyud 'grel, pha 315b1-318b (p.159-2-1)	rdo rje rnal 'byor ma'i sgrub thabs
-	N2268	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, pha 229b4-232b1. (ff.229v-232v (pp.464-470))	rdo rje rnal 'byor ma'i sgrub thabs
-	N2280	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, pha 266a1-268b6. (ff.266r-268v (pp.537-542))	rdo rje rnal 'byor ma'i sgrub thabs zhes bya ba
-	N2292	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, pha 284b2-285a3. (ff.284v-285r (pp.574-575))	rdo rje rnal 'byor ma'i sgrub thabs
-	N2294	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, pha 291a1-300a6. (ff.291r-300r (pp.587-605))	rdo rje rnal 'byor ma'i sgrub thabs zhes bya ba
-	N2683	མངོན་པར་བྱང་ཆུབ་པའི་རིམ་པའི་མན་ངག	rgyud 'grel, gi 127a7-130a6. (ff.127r-130r (pp.253-259))	mngon par byang chub pa'i rim pa'i man ngag
-	N4133	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 315a3-316a1. (ff.315r-316r (pp.629-631))	rdo rje rnal 'byor ma'i sgrub thabs
-	N4682	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, phu 22b-23a. (ff.22v-23r (pp.44-45))	rdo rje rnal 'byor ma'i sgrub thabs
-	N4695	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, phu 60b-62a. (ff.60v-62r (pp.120-123))	rdo rje rnal 'byor ma'i sgrub thabs
-	N5139	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 158a-159a. (ff.158r-159r (pp.315-317))	rdo rje rnal 'byor ma'i sgrub thabs
-	N5140	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 159a-159b. (ff.159r-159v (pp.317-318))	rdo rje rnal 'byor ma'i sgrub thabs
-	N5142	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 160a-160b. (ff.160r-160v (pp.319-320))	rdo rje rnal 'byor ma'i sgrub thabs
-	N5143	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 160b-161a. (ff.160v-161r (pp.320-321))	rdo rje rnal 'byor ma'i sgrub thabs
-	Q2266	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, pha 250b1-253a7 (vol.52, p.210)	rdo rje rnal 'byor ma'i sgrub thabs
-	Q2278	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, pha 289b4-293a2 (vol.52, p.226)	rdo rje rnal 'byor ma'i sgrub thabs zhes bya ba
-	Q2290	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, pha 309b2-310a3 (vol.52, p.234)	rdo rje rnal 'byor ma'i sgrub thabs
-	Q2292	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ	rgyud 'grel, pha 317a1-327b2 (vol.52, p.237)	rdo rje rnal 'byor ma'i sgrub thabs zhes bya ba
-	Q2671	མངོན་པར་བྱང་ཆུབ་པའི་རིམ་པའི་མན་ངག	rgyud 'grel, gi 130a4-132b8 (vol.62, p.4)	mngon par byang chub pa'i rim pa'i man ngag
-	Q4123	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, thu 331b4-332b4 (vol.80, p.212)	rdo rje rnal 'byor ma'i sgrub thabs
-	Q4673	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, phu 22a2-22b3 (vol.82, p.113)	rdo rje rnal 'byor ma'i sgrub thabs
-	Q4686	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, phu 64b2-65b7 (vol.82, p.130)	rdo rje rnal 'byor ma'i sgrub thabs
-	Q5131	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 161a6-162a3 (vol.87, p.238-239)	rdo rje rnal 'byor ma'i sgrub thabs
-	Q5132	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 162a3-162b8 (vol.87, p.239)	rdo rje rnal 'byor ma'i sgrub thabs
-	Q5134	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 163a5-163b7 (vol.87, p.239)	rdo rje rnal 'byor ma'i sgrub thabs
-	Q5135	རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས	rgyud 'grel, lu 163b7-164a7 (vol.87, p.239)	rdo rje rnal 'byor ma'i sgrub thabs
